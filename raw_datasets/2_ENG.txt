@@ -425,3 +425,19 @@ Cornish Dictionary
 Say Something in Cornish
 excellent news
 Community education resources
+Have you ever wondered what a word is in Cornish?
+Well there’s some good news!
+The Akademi Kernewek has recently published a new online Cornish dictionary where you can find over 10,000 words in Cornish.
+The dictionary uses Standard Written Form (SWF), the spelling system agreed for public use and use in schools.
+It replaces the MAGA online dictionary, which was in place for 10 years, and has a number of new features.
+The new dictionary is formatted to work on all devices, and it only has one search box to make it easier for use. 
+It is also fully bilingual now, so you can use the dictionary in English, or entirely in Cornish.
+The Akademi Kernewek is a team of Cornish language experts, who are working to include in the online dictionary as many Cornish words from existing sources as they can find. 
+But the biggest step forward is the ‘new terms’ function, which comes from a mixture of sources – translation work, experts working in specialist fields such as nature conservation or architecture, and of course everyday conversation.
+The Akademi has a process for research and review of these new terms, similar to other languages, so that the terms can be added to the dictionary and made available to everyone.
+For instance, the team is currently working on rugby terms that are already in use by speakers so that these can be made available in the dictionary to translators, students, etc.
+Mark Trevethan, the Cornish Language Lead at Cornwall Council, says: “The new online dictionary is thanks to the work of many people over the last few years. The volunteer members of the Akademi Kernewek have worked to research and proofread the entries, which is not an easy task. A partnership agreement with Bangor University’s Language Technology Unit helped us build a new dictionary database which will make editing easier in the future. Nick Harpley and Davydh Trethewey in Cornwall both worked hard to make the new database function and get the dictionary published online.”
+Another new feature of the dictionary is the use of illustrations.
+At the moment, this is limited to plant species.
+This was made possible by Bangor University’s existing work linking the Welsh dictionary to free resources on Wikipedia.
+The Akademi intends to develop this feature and explore with Bangor University other ways to make our language more accessible using digital apps.
