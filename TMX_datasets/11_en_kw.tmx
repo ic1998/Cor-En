@@ -1,0 +1,4765 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tmx version="1.4">
+<header creationdate="Mon Dec 24 01:20:49 2018"
+          srclang="en"
+          adminlang="en"
+          o-tmf="unknown"
+          segtype="sentence"
+          creationtool="Uplug"
+          creationtoolversion="unknown"
+          datatype="PlainText" />
+  <body>
+    <tu>
+      <tuv xml:lang="en"><seg>OK</seg></tuv>
+      <tuv xml:lang="kw"><seg>OK</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Reboot</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dasboutya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Boot Options</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisyow boutya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Exiting...</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow kwytya...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You are leaving the graphical boot menu and starting the text mode interface.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Yth esowgh ow kasa an rol voutya grafegel hag ow talleth an ynterfas modh tekst.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Boot loader</seg></tuv>
+      <tuv xml:lang="kw"><seg>Karger boutya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>I/O error</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kammwrians I/O</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Change Boot Disk</seg></tuv>
+      <tuv xml:lang="kw"><seg>Chanjya an blasen voutya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Insert boot disk %u.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gorrewgh an blasen voutya %u a-bervedh.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is boot disk %u. Insert boot disk %u.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw an blasen voutya %u. Gorrewgh an blasen voutya %u a-bervedh.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is not a suitable boot disk. Please insert boot disk %u.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns yw hemma plasen voutya gwiw. Gorrewgh an blasen voutya %u a-bervedh.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Password</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ger-tremena</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Enter your password:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Entrewgh agas ger-tremena:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DVD Error</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kammwrians DVD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is a two-sided DVD. You have booted from the second side. Turn the DVD over then continue.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw DVD dew hy enep. Hwi re voutyas dhyworth an sekond enep. Treylyewgh an DVD, ena pesyewgh.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Power Off</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dinertha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Halt the system now?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hedhi an system lemmyn?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Other Options</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisyow erel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Language</seg></tuv>
+      <tuv xml:lang="kw"><seg>Yeth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Keymap</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mappa an vysowek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Modes</seg></tuv>
+      <tuv xml:lang="kw"><seg>Modhow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Normal</seg></tuv>
+      <tuv xml:lang="kw"><seg>Usadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Expert mode</seg></tuv>
+      <tuv xml:lang="kw"><seg>Modh avonsys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Accessibility</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hedhadowder</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>High Contrast</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gorthwedh ughel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Magnifier</seg></tuv>
+      <tuv xml:lang="kw"><seg>Magnifier</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Screen Reader</seg></tuv>
+      <tuv xml:lang="kw"><seg>Redyer skrin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Braille Terminal</seg></tuv>
+      <tuv xml:lang="kw"><seg>Terminal Braille</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Keyboard Modifiers</seg></tuv>
+      <tuv xml:lang="kw"><seg>Chanjyellow an vysowek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>On-Screen Keyboard</seg></tuv>
+      <tuv xml:lang="kw"><seg>Bysowek war-skrin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Motor Difficulties - switch devices</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kaletterow motor - devisyow skwychya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Everything</seg></tuv>
+      <tuv xml:lang="kw"><seg>Puptra</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Try Ubuntu without installing</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Previ Ubuntu heb ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Try Kubuntu without installing</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Previ Kubuntu heb ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Try Edubuntu without installing</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Previ Edubuntu heb ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Try Xubuntu without installing</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Previ Xubuntu heb ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Try Ubuntu MID without installing</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Previ Ubuntu MID heb ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Try Ubuntu Netbook without installing</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Previ Ubuntu Netbook heb ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Try Kubuntu Netbook without installing</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Previ Kubuntu Netbook heb ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Try Lubuntu without installing</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Previ Lubuntu heb ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Start Kubuntu</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Dalleth Kubuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Use driver update disc</seg></tuv>
+      <tuv xml:lang="kw"><seg>Usyewgh plasen nowedhi an lewyellow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Ubuntu in text mode</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Ubuntu y'n modh tekst</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Kubuntu in text mode</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Kubuntu y'n modh tekst</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Edubuntu in text mode</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Edubuntu y'n modh tekst</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Xubuntu in text mode</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Xubuntu y'n modh tekst</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Ubuntu</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Ubuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Kubuntu</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Kubuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Edubuntu</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Edubuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Xubuntu</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Xubuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Ubuntu Server</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Ubuntu Server</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Multiple server install with MAAS</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya lies servyer dre MAAS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Ubuntu Studio</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Ubuntu Studio</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Ubuntu MID</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Ubuntu MID</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Ubuntu Netbook</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Ubuntu Netbook</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Kubuntu Netbook</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Kubuntu Netbook</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Lubuntu</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Lubuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Install a workstation</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallya gweythva</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Install a server</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallya servyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OEM install (for manufacturers)</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallyans OEM (rag gwrioryon)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Install a LAMP server</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallya servyer LAMP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Install an LTSP server</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallya servyer LTSP</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Install a Diskless Image Server</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallya servyer imach heb plasen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Install a command-line system</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallya system linen-arghadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Install a minimal system</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallya system ispoyntel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Install a minimal virtual machine</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallya jynn virtual ispoyntel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Check disc for defects</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Checkya an blasen rag gwallow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Rescue a broken system</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Sawya system terrys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Test ^memory</seg></tuv>
+      <tuv xml:lang="kw"><seg>Previ an ^kov</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Boot from first hard disk</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Boutya dhyworth an kensa plasen gales</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Free software only</seg></tuv>
+      <tuv xml:lang="kw"><seg>Medhelweyth heb kost yn unnik</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Dell Automatic Reinstall</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dasynstallya awtomatek ^Dell</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Mythbuntu</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Mythbuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Try Mythbuntu without installing</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Previ Mythbuntu heb ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Try Ubuntu Kylin without installing</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Previ Ubuntu Kylin heb ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Try Ubuntu Kylin Netbook without installing</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Previ Ubuntu Kylin Netbook heb ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Ubuntu Kylin in text mode</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Ubuntu Kylin y'n modh tekst</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Ubuntu Kylin</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Ynstallya Ubuntu Kylin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Install Ubuntu Kylin Netbook</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Dalleth Ubuntu Kylin Netbook</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>^Start Ubuntu Kylin</seg></tuv>
+      <tuv xml:lang="kw"><seg>^Dalleth Ubuntu Kylin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Online Accounts</seg></tuv>
+      <tuv xml:lang="kw"><seg>Akontow warlinen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Grant access</seg></tuv>
+      <tuv xml:lang="kw"><seg>Grontya hedhas</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Options</seg></tuv>
+      <tuv xml:lang="kw"><seg>Etholyow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Are you sure that you wish to remove this Ubuntu Web Account?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Owgh hwi sur bos hwans dhywgh dilea an akont gwias Ubuntu ma?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Add account…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Keworra akont...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Select to configure a new %s account</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewis rag restra akont %s nowydh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Access Your Private Data</seg></tuv>
+      <tuv xml:lang="kw"><seg>Drehedhes agas data privedh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Setup Your Encrypted Private Directory</seg></tuv>
+      <tuv xml:lang="kw"><seg>Fyttya agas arayel privedh kodys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There was an error deleting “%s”.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Yth esa kammwrians ow tilea "%s".</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Error %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kammwrians %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TrueType</seg></tuv>
+      <tuv xml:lang="kw"><seg>TrueType</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TrueType (CID)</seg></tuv>
+      <tuv xml:lang="kw"><seg>TrueType (CID)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Not embedded</seg></tuv>
+      <tuv xml:lang="kw"><seg>Type 1 (One of the Standard 14 Fonts)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>(One of the Standard 14 Fonts)</seg></tuv>
+      <tuv xml:lang="kw"><seg>TrueType (Not one of the Standard 14 Fonts)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PDF Documents</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skrifow PDF</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Failed to load document “%s”</seg></tuv>
+      <tuv xml:lang="kw"><seg>Karga an skrif "%s" a fyllis</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Failed to save document “%s”</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwitha an skrif "%s" a fyllis</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PostScript Documents</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skrifow PostScript</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TIFF Documents</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skrifow TIFF</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>XPS Documents</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skrifow XPS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Starting %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow talleth %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Not a launchable item</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns yw tra lonchyadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>FILE</seg></tuv>
+      <tuv xml:lang="kw"><seg>RESTREN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ID</seg></tuv>
+      <tuv xml:lang="kw"><seg>ID</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Document Viewer</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwelyer skrifow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>View multi-page documents</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gweles skrifow lies-folen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>pdf;ps;postscript;dvi;xps;djvu;tiff;document;presentation;</seg></tuv>
+      <tuv xml:lang="kw"><seg>pdf;ps;postscript;dvi;xps;djvu;tiff;document;presentation;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Print Preview</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ragweles pryntya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Preview before printing</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ragweles kens es pryntya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Automatically reload the document</seg></tuv>
+      <tuv xml:lang="kw"><seg>Daskarga an skrif yn awtomatek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>(%d of %d)</seg></tuv>
+      <tuv xml:lang="kw"><seg>(%d a %d)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>of %d</seg></tuv>
+      <tuv xml:lang="kw"><seg>a %d</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Page %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Folen %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Failed to print page %d: %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pryntya an folen %d a fyllis: %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Printing page %d of %d…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow pryntya folen %d a %d…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Warning</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwarnyans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Go to first page</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mos dhe'n kensa folen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Go to previous page</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mos dhe'n folen kens</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Go to next page</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mos dhe'n nessa folen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Go to last page</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mos dhe'n folen dhiwettha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Go to page</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mos dhe folen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Find</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Go to page %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mos dhe folen %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Launch %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lonchya %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Failed to print document</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pryntya an skrif a fyllis</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Previous Page</seg></tuv>
+      <tuv xml:lang="kw"><seg>Folen _gens</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Go to the previous page</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mos dhe'n folen gens</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Next Page</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Nessa folen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Go to the next page</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mos dhe'n nessa folen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Enlarge the document</seg></tuv>
+      <tuv xml:lang="kw"><seg>Brashe an skrif</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Print this document</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pryntya an skrif ma</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Page</seg></tuv>
+      <tuv xml:lang="kw"><seg>Folen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Document</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skrif</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Title:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Titel:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Keywords:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Geryow alhwedh:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Producer:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Askorrer:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Creator:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwrier:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Created:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwrys:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Modified:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Chanjyes:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Number of Pages:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Niver a folennow:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Paper Size:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Myns an paper:predefinito:mm</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%.0f × %.0f mm</seg></tuv>
+      <tuv xml:lang="kw"><seg>%.0f × %.0f mm</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%.2f × %.2f inch</seg></tuv>
+      <tuv xml:lang="kw"><seg>%.2f × %.2f meusva</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Key</seg></tuv>
+      <tuv xml:lang="kw"><seg>Alhwedh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Help</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gweres</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>New Paragraph</seg></tuv>
+      <tuv xml:lang="kw"><seg>Paragraf nowydh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Paragraph</seg></tuv>
+      <tuv xml:lang="kw"><seg>Paragraf</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Unknown</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ankoth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Color:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Liw:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Style:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gis:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Close</seg></tuv>
+      <tuv xml:lang="kw"><seg>Degea</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Evince</seg></tuv>
+      <tuv xml:lang="kw"><seg>Evince</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>© 1996–2012 The Evince authors</seg></tuv>
+      <tuv xml:lang="kw"><seg>© 1996–2012 Awtours Evince</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>translator-credits</seg></tuv>
+      <tuv xml:lang="kw"><seg>Launchpad Contributions: kernow https://launchpad.net/~kernow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Open Document</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ygeri skrif</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Loading…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow karga…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Enter password</seg></tuv>
+      <tuv xml:lang="kw"><seg>Entrewgh an ger tremena</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Password:</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Ger tremena:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Fonts</seg></tuv>
+      <tuv xml:lang="kw"><seg>Fontys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Font</seg></tuv>
+      <tuv xml:lang="kw"><seg>Font</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Text</seg></tuv>
+      <tuv xml:lang="kw"><seg>Tekst</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Add</seg></tuv>
+      <tuv xml:lang="kw"><seg>Keworra</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Page %d</seg></tuv>
+      <tuv xml:lang="kw"><seg>Folen %d</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Bookmarks</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lyververkys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Print…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pryntya…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Index</seg></tuv>
+      <tuv xml:lang="kw"><seg>Menegva</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Unable to open document “%s”.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny yllir ygeri an skrif "%s".</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Downloading document (%d%%)</seg></tuv>
+      <tuv xml:lang="kw"><seg>Owth iskarga an skrif (%d%%)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Failed to load remote file.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Karga an restren bell a fyllis.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Failed to reload document.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Daskarga an skrif a fyllis.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Uploading document (%d%%)</seg></tuv>
+      <tuv xml:lang="kw"><seg>Owth ughkarga an skrif (%d%%)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Uploading image (%d%%)</seg></tuv>
+      <tuv xml:lang="kw"><seg>Owth ughkarga an imach (%d%%)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Save a Copy</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwitha dasskrif</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Save a copy of document “%s” before closing?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwitha dasskrif a “%s” kens es degea?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Close _without Saving</seg></tuv>
+      <tuv xml:lang="kw"><seg>Degea _heb gwitha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Save a _Copy</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwitha _dasskrif</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Cancel _print and Close</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hedhi _pryntya ha degea</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Close _after Printing</seg></tuv>
+      <tuv xml:lang="kw"><seg>Degea _war-lergh pryntya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Running in presentation mode</seg></tuv>
+      <tuv xml:lang="kw"><seg>%d hit(s) on this page</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Not found</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny veu kevys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Enable</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Galosegi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Don't show this message again</seg></tuv>
+      <tuv xml:lang="kw"><seg>Sevel orth diskwedhes an messach ma arta</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Automatic</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Awtomatek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>History</seg></tuv>
+      <tuv xml:lang="kw"><seg>Istori</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Open…</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Ygeri…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Unable to launch external application.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny yllir lonchya towlen a-ves.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Unable to open external link</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny yllir ygeri kevren a-ves</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Save Image</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwitha an imach</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GNOME Document Viewer</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwelyer skrifow GNOME</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PAGE</seg></tuv>
+      <tuv xml:lang="kw"><seg>FOLEN</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NUMBER</seg></tuv>
+      <tuv xml:lang="kw"><seg>NIVER</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>[FILE…]</seg></tuv>
+      <tuv xml:lang="kw"><seg>[RESTREN…]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Open</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Ygeri</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_About</seg></tuv>
+      <tuv xml:lang="kw"><seg>_A-dro</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Help</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Gweres</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Fullscreen</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Skrin leun</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Reload</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Daskarga</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Op_en a Copy</seg></tuv>
+      <tuv xml:lang="kw"><seg>Yg_eri dasskrif</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Save a Copy…</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Gwitha dasskrif…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Send _To…</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Danvon dhe…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Print…</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Pryntya…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Copy</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Kopia</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_First Page</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Kensa folen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Last Page</seg></tuv>
+      <tuv xml:lang="kw"><seg>Folen _dhiwettha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Add Bookmark</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Keworra lyververk</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Close</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Degea</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_File</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Restren</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Edit</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Chanjya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Find</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Hwilas</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_View</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Gweles</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Go</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Mos</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Bookmarks</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Lyververkys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Examples</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ensamplow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>gedit</seg></tuv>
+      <tuv xml:lang="kw"><seg>gedit</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Text Editor</seg></tuv>
+      <tuv xml:lang="kw"><seg>Chanjyel dekst</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Edit text files</seg></tuv>
+      <tuv xml:lang="kw"><seg>Chanjya restrennow tekst</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Open a New Window</seg></tuv>
+      <tuv xml:lang="kw"><seg>Egeri fenester nowyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Open a New Document</seg></tuv>
+      <tuv xml:lang="kw"><seg>Egeri skrifen nowyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Use Default Font</seg></tuv>
+      <tuv xml:lang="kw"><seg>Usya an font defowt</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Editor Font</seg></tuv>
+      <tuv xml:lang="kw"><seg>Font an janjyel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Autosave</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwitha yn awtomatek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Specifies the font to use for line numbers when printing. This will only take effect if the "Print Line Numbers" option is non-zero.</seg></tuv>
+      <tuv xml:lang="kw"><seg>CURRENTCURRENT</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>D_on't Save</seg></tuv>
+      <tuv xml:lang="kw"><seg>modificationreading</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Could not save the file “%s”.</seg></tuv>
+      <tuv xml:lang="kw"><seg>modificationreading</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Current page (Alt+P)</seg></tuv>
+      <tuv xml:lang="kw"><seg>of" from "1 of 19</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>INS</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ln" is an abbreviation for "Line", Col is an abbreviation for "Column</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%d of %d</seg></tuv>
+      <tuv xml:lang="kw"><seg>Wrap Around</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Wrap Around</seg></tuv>
+      <tuv xml:lang="kw"><seg>Match as Regular Expression</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Match as _Regular Expression</seg></tuv>
+      <tuv xml:lang="kw"><seg>Match Entire Word Only</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Match _Entire Word Only</seg></tuv>
+      <tuv xml:lang="kw"><seg>Match Case</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Activation</seg></tuv>
+      <tuv xml:lang="kw"><seg>tab</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sorts a document or selected text.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Check SpellingCheck Spelling</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Suggestions</seg></tuv>
+      <tuv xml:lang="kw"><seg>Check Spelling</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Completed spell checking</seg></tuv>
+      <tuv xml:lang="kw"><seg>French (France)language</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s (%s)</seg></tuv>
+      <tuv xml:lang="kw"><seg>language</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Unknown (%s)</seg></tuv>
+      <tuv xml:lang="kw"><seg>language</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When --variables is used, standard input is ignored, and the output consists of the environment variables that are referenced in SHELL-FORMAT, one per line.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Report translation bugs to &lt;\.\.\.&gt;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Click to select device...</seg></tuv>
+      <tuv xml:lang="kw"><seg>Klyckyowgh rag dowis devis...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>No adapters available</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns eus aswiwer kavadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Searching for devices...</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow hwilas devisyow...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Device</seg></tuv>
+      <tuv xml:lang="kw"><seg>Devis</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Type</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ehen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Devices</seg></tuv>
+      <tuv xml:lang="kw"><seg>Devisyow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Paired</seg></tuv>
+      <tuv xml:lang="kw"><seg>Paryes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Trusted</seg></tuv>
+      <tuv xml:lang="kw"><seg>Trestys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Not paired or trusted</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns yw paryes po trestys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Paired or trusted</seg></tuv>
+      <tuv xml:lang="kw"><seg>Paryes po trestys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Device _category:</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Klass devis:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Select the device category to filter</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dowisowgh an klass devis dhe sidhla</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Device _type:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ehen dhevis:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Select the device type to filter</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dowisowgh an ehen dhevis dhe sidhla:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Input devices (mice, keyboards, etc.)</seg></tuv>
+      <tuv xml:lang="kw"><seg>Devisyow ynworra (logosennow, besowegi, etc.)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Phone</seg></tuv>
+      <tuv xml:lang="kw"><seg>Fon</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Modem</seg></tuv>
+      <tuv xml:lang="kw"><seg>Modem</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Computer</seg></tuv>
+      <tuv xml:lang="kw"><seg>Jynn amontya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Network</seg></tuv>
+      <tuv xml:lang="kw"><seg>Rosweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Audio device</seg></tuv>
+      <tuv xml:lang="kw"><seg>Devis audio</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Keyboard</seg></tuv>
+      <tuv xml:lang="kw"><seg>Besowek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Mouse</seg></tuv>
+      <tuv xml:lang="kw"><seg>Logosen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Printer</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pryntyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Video device</seg></tuv>
+      <tuv xml:lang="kw"><seg>Devis video</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Use this GPS device for Geolocation services</seg></tuv>
+      <tuv xml:lang="kw"><seg>(test)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Access the Internet using your cell phone (test)</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hedhes an kesrosweyth der agas pellgowsel (test)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Pairing with '%s' cancelled</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hedhys re beu parya gans '%s'</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please confirm that the PIN displayed on '%s' matches this one.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Afydhyowgh mars usi an PIN diskwedhys war '%s' owth omdhesedha orth an huni-ma mar pleg.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please enter the following PIN:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Entrowgh an PIN a sew mar pleg:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Setting up '%s' failed</seg></tuv>
+      <tuv xml:lang="kw"><seg>Fyttya '%s' a fyllas</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Connecting to '%s'...</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow junya gans '%s'...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please enter the following PIN on '%s':</seg></tuv>
+      <tuv xml:lang="kw"><seg>Entrowgh an PIN a sew war '%s' mar pleg:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please enter the following PIN on '%s' and press “Enter” on the keyboard:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Entrowgh an PIN a sew war '%s' ha gwaskowgh "Entra" war an vesowek:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please wait while finishing setup on device '%s'...</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gortowgh mar pleg dres fyttya an devis '%s'...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Successfully set up new device '%s'</seg></tuv>
+      <tuv xml:lang="kw"><seg>Fyttya an devis nowyth '%s' a sowenas</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Bluetooth New Device Setup</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow fyttya devis nowyth Bluetooth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PIN _options...</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Etholyow PIN...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Device Search</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas devis</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Device Setup</seg></tuv>
+      <tuv xml:lang="kw"><seg>Fyttyans an devis</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>About GNOME</seg></tuv>
+      <tuv xml:lang="kw"><seg>A-dro dhe GNOME</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Learn more about GNOME</seg></tuv>
+      <tuv xml:lang="kw"><seg>Deski moy a-dro dhe GNOME</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>News</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nowodhow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GNOME Library</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lyverva GNOME</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Friends of GNOME</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kowetha GNOME</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Contact</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kestava</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Mysterious GEGL</seg></tuv>
+      <tuv xml:lang="kw"><seg>An GEGL Gevrinek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Squeaky Rubber GNOME</seg></tuv>
+      <tuv xml:lang="kw"><seg>An GNOME Glus Gwedhen Gwihek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Wanda The GNOME Fish</seg></tuv>
+      <tuv xml:lang="kw"><seg>Wanda an Pysk GNOME</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Open URL</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Ygeri URL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Copy URL</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Kopia an URL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>About the GNOME Desktop</seg></tuv>
+      <tuv xml:lang="kw"><seg>A-dro dhe Dhesktop GNOME</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%(name)s: %(value)s</seg></tuv>
+      <tuv xml:lang="kw"><seg>%(name)s: %(value)s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Welcome to the GNOME Desktop</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dynnargh dhe Dhesktop GNOME</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Brought to you by:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dres dhywgh gans:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Version</seg></tuv>
+      <tuv xml:lang="kw"><seg>Versyon</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Distributor</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dyller</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Build Date</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dedhyans drehevel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Display information on this GNOME version</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes kedhlow a-dro dhe'n versyon-ma a GNOME</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hundreds of people have contributed code to GNOME since it was started in 1997; many more have contributed in other important ways, including translations, documentation, and quality assurance.</seg></tuv>
+      <tuv xml:lang="kw"><seg>UnknownMonitor vendor</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Error reading file '%s': %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwall ow redya an restren '%s': %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Error rewinding file '%s': %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>namename</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>No name</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dihanow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Cannot find file '%s'</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny veu kevys an restren '%s'</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>No URL to launch</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns eus URL dhe lonchya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>No command (Exec) to launch</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns eus arhadow (exec) dhe lonchya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Bad command (Exec) to launch</seg></tuv>
+      <tuv xml:lang="kw"><seg>Arhadow drog (exec) dhe lonchya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Unknown encoding of: %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kodyans ankoth a: %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>could not get information about output %d</seg></tuv>
+      <tuv xml:lang="kw"><seg>position", "size", and "maximum</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>could not get information about CRTC %d</seg></tuv>
+      <tuv xml:lang="kw"><seg>ny veu possybyl kavos kedhlow a-dro dhe'n CTRC %d</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Laptop</seg></tuv>
+      <tuv xml:lang="kw"><seg>Laptop</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>none of the selected modes were compatible with the possible modes: %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>requested", "minimummaximum</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>required virtual size does not fit available size: requested=(%d, %d), minimum=(%d, %d), maximum=(%d, %d)</seg></tuv>
+      <tuv xml:lang="kw"><seg>MirrorPantallas en Espejo", *not* "Espejar Pantallas</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Unknown Display</seg></tuv>
+      <tuv xml:lang="kw"><seg>position", "size", and "maximum</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%a %b %e, %R</seg></tuv>
+      <tuv xml:lang="kw"><seg>%a %b %e, %R</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%a %R</seg></tuv>
+      <tuv xml:lang="kw"><seg>%a %R</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%R</seg></tuv>
+      <tuv xml:lang="kw"><seg>%R</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sound &amp; Video</seg></tuv>
+      <tuv xml:lang="kw"><seg>Son &amp; video</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Multimedia menu</seg></tuv>
+      <tuv xml:lang="kw"><seg>Rol liesvedia</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Programming</seg></tuv>
+      <tuv xml:lang="kw"><seg>Towlenna</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Tools for software development</seg></tuv>
+      <tuv xml:lang="kw"><seg>Toulys rag displegya medhelweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Education</seg></tuv>
+      <tuv xml:lang="kw"><seg>Adhyskans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Games and amusements</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow ha didhanow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Graphics</seg></tuv>
+      <tuv xml:lang="kw"><seg>Grafek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Graphics applications</seg></tuv>
+      <tuv xml:lang="kw"><seg>Towlennow grafek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Internet</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kesrosweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Programs for Internet access such as web and email</seg></tuv>
+      <tuv xml:lang="kw"><seg>Towlennow rag hedhes an Kesrosweyth kepar ha gwias hag ebost</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Office</seg></tuv>
+      <tuv xml:lang="kw"><seg>Sodhva</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Office Applications</seg></tuv>
+      <tuv xml:lang="kw"><seg>Towlennow sodhva</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>System Tools</seg></tuv>
+      <tuv xml:lang="kw"><seg>Toulys an system</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>System configuration and monitoring</seg></tuv>
+      <tuv xml:lang="kw"><seg>Restrans ha hwithrans an system</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Universal Access</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hedhas ollvysel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Universal Access Settings</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow hedhas ollvysel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Accessories</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gweresoryon</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Desktop accessories</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gweresoryon penn an desk</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Applications that did not fit in other categories</seg></tuv>
+      <tuv xml:lang="kw"><seg>Towlennow na dhesedhas yn klassys erel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sundry</seg></tuv>
+      <tuv xml:lang="kw"><seg>Sundry</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Utilities</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lesow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Small but useful GNOME tools</seg></tuv>
+      <tuv xml:lang="kw"><seg>Toulys GNOME byghan mes dhe les</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Web Applications</seg></tuv>
+      <tuv xml:lang="kw"><seg>Towlennow gwias</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Applications and sites saved from Web</seg></tuv>
+      <tuv xml:lang="kw"><seg>Towlennow ha gwiasvaow gwithys dhyworth an wias</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Action</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwrians</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Action games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow gwrians</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Adventure</seg></tuv>
+      <tuv xml:lang="kw"><seg>Aventur</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Adventure style games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow aventur</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Arcade</seg></tuv>
+      <tuv xml:lang="kw"><seg>Arcade</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Arcade style games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow gis arcade</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Falling blocks</seg></tuv>
+      <tuv xml:lang="kw"><seg>Stockys ow kodha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Falling blocks games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow stockys ow kodha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Board</seg></tuv>
+      <tuv xml:lang="kw"><seg>Bord</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Board games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow bord</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Cards</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kartennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Card games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow kartennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Debian</seg></tuv>
+      <tuv xml:lang="kw"><seg>Debian</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Debian menu</seg></tuv>
+      <tuv xml:lang="kw"><seg>An rol Debian</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Science</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skiens</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Scientific applications</seg></tuv>
+      <tuv xml:lang="kw"><seg>Towlennow skiensek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Kids</seg></tuv>
+      <tuv xml:lang="kw"><seg>Fleghes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Games for kids</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow rag fleghes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Logic</seg></tuv>
+      <tuv xml:lang="kw"><seg>Reson</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Logic and puzzle games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow reson ha mildam</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Role playing</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow rol</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Role playing games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow rol</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Administration</seg></tuv>
+      <tuv xml:lang="kw"><seg>Menystrans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Change system-wide settings (affects all users)</seg></tuv>
+      <tuv xml:lang="kw"><seg>Chanjya settyansow an system dre vras (rag oll an usyoryon)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Preferences</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisyow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Personal preferences</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisyow personel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Simulation</seg></tuv>
+      <tuv xml:lang="kw"><seg>Simulatyans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Simulation games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow simulatyans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sports</seg></tuv>
+      <tuv xml:lang="kw"><seg>Sportow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sports games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow sportow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Strategy</seg></tuv>
+      <tuv xml:lang="kw"><seg>Strategieth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Strategy games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow strategieth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hardware</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kalesweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Settings for several hardware devices</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow rag lies devis kalesweythPersonal settings</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Personal</seg></tuv>
+      <tuv xml:lang="kw"><seg>Personel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Personal settings</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow personel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>System</seg></tuv>
+      <tuv xml:lang="kw"><seg>System</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>System settings</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow an system</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Office Applications</seg></tuv>
+      <tuv xml:lang="kw"><seg>Personal settings</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Select Command</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dowisowgh arhadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Add Startup Program</seg></tuv>
+      <tuv xml:lang="kw"><seg>Keworra towlen dhalethans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Edit Startup Program</seg></tuv>
+      <tuv xml:lang="kw"><seg>Chanjya towlen dhalethans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The startup command cannot be empty</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny yll an arhadow dalethans bos gwag</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The startup command is not valid</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns yw da an arhadow dalethans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Enabled</seg></tuv>
+      <tuv xml:lang="kw"><seg>Galosegys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Icon</seg></tuv>
+      <tuv xml:lang="kw"><seg>Arwodhik</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Program</seg></tuv>
+      <tuv xml:lang="kw"><seg>Towlen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Startup Applications Preferences</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dowisyansow an towlennow dalethans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>No description</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns eus deskrifans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Version of this application</seg></tuv>
+      <tuv xml:lang="kw"><seg>Versyon an dowlen-ma</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Could not display help document</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny veu possybyl diskwedhes an skrifen gweres</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GNOME</seg></tuv>
+      <tuv xml:lang="kw"><seg>GNOME</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This session logs you into GNOME</seg></tuv>
+      <tuv xml:lang="kw"><seg>An esedhek-ma a wra agas omgelmi orth GNOME</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Some programs are still running:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Yma towlennow hwath bew:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Browse…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Peuri...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Comm_ent:</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Kampollans:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Co_mmand:</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Arhadow:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Name:</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Hanow:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Log Out</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Digelmi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A program is still running:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Yma towlen hwath bew:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Log Out Anyway</seg></tuv>
+      <tuv xml:lang="kw"><seg>Digelmi yn neb fordh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Restart Anyway</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dastalleth yn neb fordh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Lock Screen</seg></tuv>
+      <tuv xml:lang="kw"><seg>Alhwedha an skrin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Log out of this system now?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Digelmi dhyworth an system-ma lemmyn?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Restart</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Dastalleth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Restart this system now?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dastalleth an system-ma lemmyn?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Log out</seg></tuv>
+      <tuv xml:lang="kw"><seg>Digelmi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Launch email client</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lonchya an kliens ebost</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Launch help browser</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lonchya an beurel weres</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Home folder</seg></tuv>
+      <tuv xml:lang="kw"><seg>Plegel dre</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Next track</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nessa hens</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Previous track</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hens kens</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Lock screen</seg></tuv>
+      <tuv xml:lang="kw"><seg>Alhwedha an skrin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Take a screenshot</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kemeres skeusen skrin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Launch web browser</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lonchya an beurel wias</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Increase text size</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kressya mens an tekst</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Name</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hanow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Command</seg></tuv>
+      <tuv xml:lang="kw"><seg>Arhadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Power Off</seg></tuv>
+      <tuv xml:lang="kw"><seg>Sleep</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>provides %s laptop runtime</seg></tuv>
+      <tuv xml:lang="kw"><seg>Laptop battery</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s %s remaining</seg></tuv>
+      <tuv xml:lang="kw"><seg>Laptop battery7 hours 6 minutesLaptop battery7 hours 6 minutes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s %s until charged</seg></tuv>
+      <tuv xml:lang="kw"><seg>7 hours 6 minutes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Toner empty</seg></tuv>
+      <tuv xml:lang="kw"><seg>Not connected?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Door open</seg></tuv>
+      <tuv xml:lang="kw"><seg>marker</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Marker supply low</seg></tuv>
+      <tuv xml:lang="kw"><seg>marker</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Printer '%s' has no toner left.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Printer '%s' may not be connected.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The door is open on printer '%s'.</seg></tuv>
+      <tuv xml:lang="kw"><seg>marker</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Printer '%s' is low on a marker supply.</seg></tuv>
+      <tuv xml:lang="kw"><seg>marker</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Printing stopped</seg></tuv>
+      <tuv xml:lang="kw"><seg>print-job xy</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Printer warning</seg></tuv>
+      <tuv xml:lang="kw"><seg>Printer 'MyPrinterName': 'Description of the report/warning/error from a PPD file'.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Updates plugin</seg></tuv>
+      <tuv xml:lang="kw"><seg>left-ring-mode-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Left Ring Mode #%d</seg></tuv>
+      <tuv xml:lang="kw"><seg>right-ring-mode-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Right Ring Mode #%d</seg></tuv>
+      <tuv xml:lang="kw"><seg>left-strip-mode-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Left Touchstrip Mode #%d</seg></tuv>
+      <tuv xml:lang="kw"><seg>right-strip-mode-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Bottom Button #%d</seg></tuv>
+      <tuv xml:lang="kw"><seg>Action type</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>None</seg></tuv>
+      <tuv xml:lang="kw"><seg>Action type</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Send Keystroke %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Action type</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show On-Screen Help</seg></tuv>
+      <tuv xml:lang="kw"><seg>Action type</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Terminal</seg></tuv>
+      <tuv xml:lang="kw"><seg>Terminal</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Use the command line</seg></tuv>
+      <tuv xml:lang="kw"><seg>Usya an linen arhadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Run;</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lonchya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>New Terminal</seg></tuv>
+      <tuv xml:lang="kw"><seg>Terminal noweth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Disable connection to session manager</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dialosegy an junyans gans menystrer an esedhegow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Find</seg></tuv>
+      <tuv xml:lang="kw"><seg>Cavos</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Search for:</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Whilas:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search _backwards</seg></tuv>
+      <tuv xml:lang="kw"><seg>Whilas _war-dhelergh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Default</seg></tuv>
+      <tuv xml:lang="kw"><seg>Defowt</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Default color of terminal background</seg></tuv>
+      <tuv xml:lang="kw"><seg>Liw defowt kilva an terminal</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Default color of bold text in the terminal</seg></tuv>
+      <tuv xml:lang="kw"><seg>Liw defowt a dekst tew y'n terminal</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Title for terminal</seg></tuv>
+      <tuv xml:lang="kw"><seg>Titel an terminal</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Default number of columns</seg></tuv>
+      <tuv xml:lang="kw"><seg>Niver defowt a golovednow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Background image</seg></tuv>
+      <tuv xml:lang="kw"><seg>Imach an gilva</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Filename of a background image.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hanow restren a imach kilva.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Set creator revision of RSDP, XSDT and RSDT.</seg></tuv>
+      <tuv xml:lang="kw"><seg>hangs</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>filename expected</seg></tuv>
+      <tuv xml:lang="kw"><seg>embed" is a verb (command description).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Check if FILE is BIOS bootsector</seg></tuv>
+      <tuv xml:lang="kw"><seg>true</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>-h HASH [-c FILE [-p PREFIX]] [FILE1 [FILE2 ...]]</seg></tuv>
+      <tuv xml:lang="kw"><seg>hash checksumhash</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>List coreboot tables.</seg></tuv>
+      <tuv xml:lang="kw"><seg>(default)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Check for CPU features.</seg></tuv>
+      <tuv xml:lang="kw"><seg>mappingmappingrerouting</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Load a keyboard layout.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Checktrue" is returned, otherwise "false</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Enter password:</seg></tuv>
+      <tuv xml:lang="kw"><seg>legacy configconfig as used by grub-legacy</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>assume input is a syslinux configuration file.</seg></tuv>
+      <tuv xml:lang="kw"><seg>syslinux configconfig as used by syslinux</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Text-only</seg></tuv>
+      <tuv xml:lang="kw"><seg>Direct color</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Direct color, mask: %d/%d/%d/%d pos: %d/%d/%d/%d</seg></tuv>
+      <tuv xml:lang="kw"><seg>paletted colorpacked pixel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>YUV</seg></tuv>
+      <tuv xml:lang="kw"><seg>Planarplans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Failed to initialize video adapter</seg></tuv>
+      <tuv xml:lang="kw"><seg>x</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>List available video modes. If resolution is given show only modes matching it.</seg></tuv>
+      <tuv xml:lang="kw"><seg>x</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Native disk drivers are in use. Refusing to use firmware disk interface.</seg></tuv>
+      <tuv xml:lang="kw"><seg>embedding zoneembedding</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Incorrect virtual device: no type available</seg></tuv>
+      <tuv xml:lang="kw"><seg>real" devices which actually store data are called "leafs</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>VDEV element number %d isn't correct</seg></tuv>
+      <tuv xml:lang="kw"><seg>Element number 1", "Element number 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>premature end of file</seg></tuv>
+      <tuv xml:lang="kw"><seg>translate</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Press enter to boot the selected OS, `e' to edit the commands before booting or `c' for a command-line. ESC to return previous menu.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gweskewgh entra rag boutya an OS dewisys, `e' rag chanjya an arghadow kens es boutya po `c' rag linen arghadow. ESC rag dehweles dhe'n rol gens.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Press enter to boot the selected OS, `e' to edit the commands before booting or `c' for a command-line.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gweskewgh entra rag boutya an OS dewisys, `e' rag chanjya an arghadow kens es boutya po `c' rag linen arghadow.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>enter: boot, `e': options, `c': cmd-line</seg></tuv>
+      <tuv xml:lang="kw"><seg>entra: boutya, `e': dewisyow, `c': linen-arghadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The highlighted entry will be executed automatically in %ds.</seg></tuv>
+      <tuv xml:lang="kw"><seg>An entrans golowboyntyes a lonch yn awtomatek yn %ds.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%ds remaining.</seg></tuv>
+      <tuv xml:lang="kw"><seg>%ds gesys.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%ds</seg></tuv>
+      <tuv xml:lang="kw"><seg>%ds</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GRUB Boot Menu</seg></tuv>
+      <tuv xml:lang="kw"><seg>Rol voutya GRUB</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Change configured devices.</seg></tuv>
+      <tuv xml:lang="kw"><seg>com</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Suppress normal output (warnings remain).</seg></tuv>
+      <tuv xml:lang="kw"><seg>com</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Load kOpenBSD ramdisk.</seg></tuv>
+      <tuv xml:lang="kw"><seg>payload</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s is deprecated. Use set gfxpayload=%s before linux command instead.</seg></tuv>
+      <tuv xml:lang="kw"><seg>x</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Load NTLDR or BootMGR.</seg></tuv>
+      <tuv xml:lang="kw"><seg>mapping</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Background image mode.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Background image mode.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>timeout reading `%s'</seg></tuv>
+      <tuv xml:lang="kw"><seg>hardware address</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Delete a network address.</seg></tuv>
+      <tuv xml:lang="kw"><seg>gw</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Possible arguments are:</seg></tuv>
+      <tuv xml:lang="kw"><seg>thing" or "object</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GNU GRUB version %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>GNU GRUB versyon %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Use the %C and %C keys to select which entry is highlighted.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Usyewgh an botonyow %C ha %C rag dewis bos py entrans golowboyntyes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>couldn't retrieve geli UUID</seg></tuv>
+      <tuv xml:lang="kw"><seg>part</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>failed to read the sectors of the core image</seg></tuv>
+      <tuv xml:lang="kw"><seg>translatortranslator</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>cannot restore the original directory</seg></tuv>
+      <tuv xml:lang="kw"><seg>stat</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>your BIOS Boot Partition is too small; embedding won't be possible</seg></tuv>
+      <tuv xml:lang="kw"><seg>boot track</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Setting partition type to 0x%x</seg></tuv>
+      <tuv xml:lang="kw"><seg>break</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>can't break 0 loops</seg></tuv>
+      <tuv xml:lang="kw"><seg>return</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Set positional parameters.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Returnreturn</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>UTF-8</seg></tuv>
+      <tuv xml:lang="kw"><seg>logically-ordered UTF-8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Terminal has specified geometry.</seg></tuv>
+      <tuv xml:lang="kw"><seg>x</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>List the current variables.</seg></tuv>
+      <tuv xml:lang="kw"><seg>set" is a keyword. It's a summary of "set</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Set variables.</seg></tuv>
+      <tuv xml:lang="kw"><seg>unset" is a keyword. It's a summary of "unset</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Mount crypto devices.</seg></tuv>
+      <tuv xml:lang="kw"><seg>prompt</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>TARGET</seg></tuv>
+      <tuv xml:lang="kw"><seg>TARGET" as in "target platform</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>install GRUB for TARGET platform [default=%s]</seg></tuv>
+      <tuv xml:lang="kw"><seg>may break</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Out of range substitution (%d, %d)</seg></tuv>
+      <tuv xml:lang="kw"><seg>lookup.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Unsupported substitution specification: %d</seg></tuv>
+      <tuv xml:lang="kw"><seg>coverage</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>set font range</seg></tuv>
+      <tuv xml:lang="kw"><seg>family nameBold</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>set prefix directory [default=%s]</seg></tuv>
+      <tuv xml:lang="kw"><seg>memdiskembed" is a verb (command description).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ERROR: no valid keyboard layout found. Check the input.</seg></tuv>
+      <tuv xml:lang="kw"><seg>one" is a shortcut for "keyboard layout</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>use COLOR for background</seg></tuv>
+      <tuv xml:lang="kw"><seg>show" as synonym for render. Use "createrender</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>use FILE as font (PF2).</seg></tuv>
+      <tuv xml:lang="kw"><seg>show" as synonym for render. Use "createrender</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Advanced options for %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisyow avonsys rag %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Windows Vista/7 (loader)</seg></tuv>
+      <tuv xml:lang="kw"><seg>Windows Vista/7 (karger)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Windows NT/2000/XP (loader)</seg></tuv>
+      <tuv xml:lang="kw"><seg>Windows NT/2000/XP (karger)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Found %s on %s (%s)\</seg></tuv>
+      <tuv xml:lang="kw"><seg>%s war %s kevys (%s)\</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>(32-bit)</seg></tuv>
+      <tuv xml:lang="kw"><seg>(32-bytt)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>(64-bit)</seg></tuv>
+      <tuv xml:lang="kw"><seg>(64-bytt)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>(on %s)</seg></tuv>
+      <tuv xml:lang="kw"><seg>(war %s)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Users</seg></tuv>
+      <tuv xml:lang="kw"><seg>Devnydhyoryon</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Messages</seg></tuv>
+      <tuv xml:lang="kw"><seg>Messajys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ubuntu default theme</seg></tuv>
+      <tuv xml:lang="kw"><seg>Thema defowt Ubuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Human-Clearlooks</seg></tuv>
+      <tuv xml:lang="kw"><seg>Human-Clearlooks</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DarkRoom</seg></tuv>
+      <tuv xml:lang="kw"><seg>DarkRoom</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>About</seg></tuv>
+      <tuv xml:lang="kw"><seg>A-dro</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Copyright (c) 2007-2010 Peng Huang Copyright (c) 2007-2010 Red Hat, Inc.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Copyright (c) 2007-2010 Peng Huang Copyright (c) 2007-2010 Red Hat, Inc.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Language: %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Yeth: %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Author: %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Awtour: %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Description:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Deskrifans:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Restart</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dastalleth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Whether or not to show the bluetooth indicator in the menu bar.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewis rag diskwedhes po bos heb diskwedhes bluetooth y'n barr rol.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Connection</seg></tuv>
+      <tuv xml:lang="kw"><seg>Junyans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Browse files…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Peuri restrennow…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Send files…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Danvon restrennow…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Keyboard Settings…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow bysowek…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Mouse and Touchpad Settings…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow logosen ha tochpad…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sound Settings…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow son…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Visible</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gweladow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Set Up New Device…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Fyttya devis nowydh…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Bluetooth Settings…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow Bluetooth…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Bluetooth settings…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow Bluetooth…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Bluetooth</seg></tuv>
+      <tuv xml:lang="kw"><seg>Bluetooth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%l:%M:%S %p</seg></tuv>
+      <tuv xml:lang="kw"><seg>%l:%M:%S %p%l:%M %p" --&gt; "1:00 PM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%l:%M %p</seg></tuv>
+      <tuv xml:lang="kw"><seg>%l:%M %p</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%H:%M:%S</seg></tuv>
+      <tuv xml:lang="kw"><seg>%H:%M:%S%H:%M" --&gt; "13:00</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%H:%M</seg></tuv>
+      <tuv xml:lang="kw"><seg>%H:%M%a %b %e %Y" --&gt; "Sat Oct 31 2020%a %e %b %Y" --&gt; "Sat 31 Oct 2020%Y年%m月%d日 周%a" --&gt; "2020年10月31日 周六</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%a %b %e %Y</seg></tuv>
+      <tuv xml:lang="kw"><seg>%a %b %e %Y%a %b %e" --&gt; "Sat Oct 31%a %e %b" --&gt; "Sat 31 Oct%m月%d日 周%a" --&gt; "03月27日 周六</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%a %b %e</seg></tuv>
+      <tuv xml:lang="kw"><seg>%a %b %e周%a" --&gt; "周六</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%a</seg></tuv>
+      <tuv xml:lang="kw"><seg>%a%b %e %Y" --&gt; "Oct 31 2020%e %b %Y" --&gt; "31 Oct 2020%Y年%m月%d日" --&gt; "2020年10月31日</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%b %e %Y</seg></tuv>
+      <tuv xml:lang="kw"><seg>%b %e %Y%b %e" --&gt; "Mar 27%e %b" --&gt; "27 Mar%m月%d日" --&gt; "03月27日</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%b %e</seg></tuv>
+      <tuv xml:lang="kw"><seg>%b %e</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%Y</seg></tuv>
+      <tuv xml:lang="kw"><seg>%Y%A, %B %e %Y" --&gt; Saturday, October 31 2020%A, %e %B %Y" --&gt; Saturday, 31 October 2020</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%A, %e %B %Y</seg></tuv>
+      <tuv xml:lang="kw"><seg>%A, %e %B %Y</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Add Event…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Keworra hwarvos…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Clock</seg></tuv>
+      <tuv xml:lang="kw"><seg>Klock</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Time &amp; Date settings…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow eur &amp; dedhyans…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Date and Time</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dedhyans hag eur</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Upcoming</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow tos</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s (has alarms)</seg></tuv>
+      <tuv xml:lang="kw"><seg>%s (y'n jeves difunellow)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Alarm %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Difunell %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Dismiss</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gordhyllo</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Today</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hedhyw</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Tomorrow</seg></tuv>
+      <tuv xml:lang="kw"><seg>A-vorow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%A</seg></tuv>
+      <tuv xml:lang="kw"><seg>%A%a %b %d" --&gt; "Sat Oct 31%a %d %b" --&gt; "Sat 31 Oct%m月%d日 周%a" --&gt; "10月31日 周六</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%a %d %b</seg></tuv>
+      <tuv xml:lang="kw"><seg>%a %d %bTomorrow\u2003%l:%M %p" --&gt; "Tomorrow 1:00 PM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Tomorrow\\u2003%l:%M %p</seg></tuv>
+      <tuv xml:lang="kw"><seg>A-vorow\\u2003%l:%M %pTomorrow\u2003%l:%M %p" --&gt; "Fri 1:00 PM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%a\\u2003%l:%M %p</seg></tuv>
+      <tuv xml:lang="kw"><seg>%a\\u2003%l:%M %p%a %d %b\u2003%l:%M %p" --&gt; "Fri Oct 31 1:00 PM%a %b %d\u2003%l:%M %p" --&gt; "Fri 31 Oct 1:00 PM</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%a %d %b\\u2003%l:%M %p</seg></tuv>
+      <tuv xml:lang="kw"><seg>%a %d %b\\u2003%l:%M %pTomorrow\u2003%l:%M %p" --&gt; "Tomorrow 13:00</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Tomorrow\\u2003%H:%M</seg></tuv>
+      <tuv xml:lang="kw"><seg>A-vorow\\u2003%H:%M%a\u2003%H:%M" --&gt; "Fri 13:00</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%a\\u2003%H:%M</seg></tuv>
+      <tuv xml:lang="kw"><seg>%a\\u2003%H:%M%a %d %b\u2003%H:%M" --&gt; "Fri Oct 31 13:00%a %b %d\u2003%H:%M" --&gt; "Fri 31 Oct 13:00</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%a %d %b\\u2003%H:%M</seg></tuv>
+      <tuv xml:lang="kw"><seg>%a %d %b\\u2003%H:%M</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Clear All</seg></tuv>
+      <tuv xml:lang="kw"><seg>Klerhe oll</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Available</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kavadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Away</seg></tuv>
+      <tuv xml:lang="kw"><seg>A-ves</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Busy</seg></tuv>
+      <tuv xml:lang="kw"><seg>Bysi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Invisible</seg></tuv>
+      <tuv xml:lang="kw"><seg>Anweladow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Offline</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dhywarlinen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Clear</seg></tuv>
+      <tuv xml:lang="kw"><seg>Klerhe</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>New Messages</seg></tuv>
+      <tuv xml:lang="kw"><seg>Messajys nowydh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Incoming</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow tegemeres</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show time in Menu Bar</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes an termyn y'n barr rol</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Whether or not to show the time in the menu bar.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisyow rag diskwedhes an termyn y'n barr rol.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show percentage in Menu Bar</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes an gansran y'n barr rol</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Whether or not to show the percentage in the menu bar.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisyow rag diskwedhes an gansran y'n barr rol.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When to show the battery status in the menu bar.</seg></tuv>
+      <tuv xml:lang="kw"><seg>An termyn may tiskwedhir studh an batri y'n barr rol.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Options for when to show battery status. Valid options are "present", "charge", and "never".</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisyow rag diskwedhes studh an batri. "A-lemmyn", "charjya", and "jammes" yw dewisyow da.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>AC Adapter</seg></tuv>
+      <tuv xml:lang="kw"><seg>Aswiwer AC</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Battery</seg></tuv>
+      <tuv xml:lang="kw"><seg>Batri</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>UPS</seg></tuv>
+      <tuv xml:lang="kw"><seg>UPS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Monitor</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skrin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Keyboard</seg></tuv>
+      <tuv xml:lang="kw"><seg>Bysowek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PDA</seg></tuv>
+      <tuv xml:lang="kw"><seg>PDA</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Cell phone</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pellgowsel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Media player</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwarier media</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Tablet</seg></tuv>
+      <tuv xml:lang="kw"><seg>Leghen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Computer</seg></tuv>
+      <tuv xml:lang="kw"><seg>Jynn-amontya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>estimating…</seg></tuv>
+      <tuv xml:lang="kw"><seg>owth estemya…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>unknown</seg></tuv>
+      <tuv xml:lang="kw"><seg>ankoth1:30 to charge</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%0d:%02d to charge</seg></tuv>
+      <tuv xml:lang="kw"><seg>%0d:%02d dhe jarjya1:30 left</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%0d:%02d left</seg></tuv>
+      <tuv xml:lang="kw"><seg>%0d:%02d gesysX (hour,hours) Y (minute,minutes) to charge1 hour 10 minutes to charge</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%d %s %d %s to charge</seg></tuv>
+      <tuv xml:lang="kw"><seg>%d %s %d %s dhe jarjya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%d %s to charge</seg></tuv>
+      <tuv xml:lang="kw"><seg>%d %s dhe jarjyaX (hour,hours) Y (minute,minutes) left1 hour 10 minutes left</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%d %s %d %s left</seg></tuv>
+      <tuv xml:lang="kw"><seg>%d %s %d %s gesysY (minute,minutes) left59 minutes left</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%d %s left</seg></tuv>
+      <tuv xml:lang="kw"><seg>%d %s gesysbattery (charged)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s (charged)</seg></tuv>
+      <tuv xml:lang="kw"><seg>%s (charjyes)battery (time remaining)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s (%s)</seg></tuv>
+      <tuv xml:lang="kw"><seg>%s (%s)(0:59, 33%)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>(%s, %.0lf%%)</seg></tuv>
+      <tuv xml:lang="kw"><seg>(%s, %.0lf%%)(0:59)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>(%s)</seg></tuv>
+      <tuv xml:lang="kw"><seg>(%s)(33%)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>(%.0lf%%)</seg></tuv>
+      <tuv xml:lang="kw"><seg>(%.0lf%%)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Charge level</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nivel charj</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show Time in Menu Bar</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes an termyn y'n barr rol</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show Percentage in Menu Bar</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes an gansran y'n barr rol</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Power Settings…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow nerth...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Battery settings…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow batri…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Suppress the dialog to confirm logout, restart and shutdown action</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diallosegi an dialog rag fastya omdenna, dastalleth ha degea dhe'n dor</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Whether or not to show confirmation dialogs for logout, restart and shutdown actions.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewis rag diskwedhes po bos heb diskwedhes dialogys fastyans rag omdenna, dastalleth ha degea dhe'n dor.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Remove the Log Out item from the session menu</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dilea an dra 'Omdenna' dhyworth an rol esedhek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Makes it so that the logout button doesn’t show in the session menu.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewis rag diskwedhes po bos heb diskwedhes an boton 'omdenna' y'n rol esedhek.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Remove the Restart item from the session menu</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dilea an boton 'dastalleth' dhyworth an rol esedhek.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Makes it so that the restart button doesn’t show in the session menu.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewis rag diskwedhes po bos heb diskwedhes an boton 'dastalleth' y'n rol esedhek.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Remove the shutdown item from the session menu</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dilea an dra 'degea dhe'n dor' dhyworth an rol esedhek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Makes it so that the shutdown button doesn’t show in the session menu.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewis rag diskwedhes po bos heb diskwedhes an boton 'degea dhe'n dor' y'n rol esedhek.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Classic Guest Session</seg></tuv>
+      <tuv xml:lang="kw"><seg>Esedhek gwester klassek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Start a guest session using the classic desktop</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dalleth esedhek gwester yn unn usya penn an desk klassek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Are you sure you want to close all programs and log out?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Owgh hwi sur bos hwans dhywgh degea keniver towlen hag omdenna?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Some software updates won't be applied until the computer next restarts.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny vydh nebes nowedhansow medhelweyth bos gweythys erna dhastallettho an jynn-amontya.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Log Out</seg></tuv>
+      <tuv xml:lang="kw"><seg>Digelmi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Are you sure you want to close all programs and restart the computer?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Owgh hwi sur bos hwans dhywgh degea keniver towlen ha dastalleth an jynn-amontya?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Shut Down</seg></tuv>
+      <tuv xml:lang="kw"><seg>Degea dhe'n dor</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Are you sure you want to close all programs and shut down the computer?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Owgh hwi sur bos hwans dhywgh degea keniver towlen ha degea dhe'n dor an jynn-amontya?System</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>System, %s (Attention Required)</seg></tuv>
+      <tuv xml:lang="kw"><seg>System, %s (Res yw attendya)System</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>System, %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>System, %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>System (Attention Required)</seg></tuv>
+      <tuv xml:lang="kw"><seg>System (res yw attendya)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Guest</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwester</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>About This Computer</seg></tuv>
+      <tuv xml:lang="kw"><seg>A-dro dhe'n jynn-amontya ma</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ubuntu Help</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gweres Ubuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>System Settings…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow an system...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Online Accounts…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Akontow warlinen...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Start Screen Saver</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dalleth an sawment skrin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Switch Account…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skwychya an akont…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Switch Account</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skwychya an akont</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Lock</seg></tuv>
+      <tuv xml:lang="kw"><seg>Alhwedha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Lock/Switch Account…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Alhwedha/Skwychya an akont…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Lock/Switch Account</seg></tuv>
+      <tuv xml:lang="kw"><seg>Alhwedha/Skwychya an akont</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Guest Session</seg></tuv>
+      <tuv xml:lang="kw"><seg>Esedhek gwester</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Log Out…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Digelmi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Suspend</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kregi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Restart…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dastalleth...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Shut Down…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Degea dhe'n dor…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Volume (muted)</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nivel son (diallosegys)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Volume</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nivel son</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sound</seg></tuv>
+      <tuv xml:lang="kw"><seg>Son</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Mute</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diallosegi son</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Choose Playlist</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewis kanrol</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Chinese (simplified)</seg></tuv>
+      <tuv xml:lang="kw"><seg>Chinek (sempelhes)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Chinese (traditional)</seg></tuv>
+      <tuv xml:lang="kw"><seg>Chinek (hengovek)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>No language information available</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns eus kedhlow yeth kavadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The system does not have information about the available languages yet. Do you want to perform a network update to get them now?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns eus dhe'n system kedhlow a-dro dhe'n yethow kavadow hwath. Eus hwans dhywgh nowedhi an rosweyth rag aga havos lemmyn?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Update</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Nowedhi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Installed</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallyes%(INSTALL)d to install, %(REMOVE)d to removeINSTALL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>none</seg></tuv>
+      <tuv xml:lang="kw"><seg>nagonan</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Software database is broken</seg></tuv>
+      <tuv xml:lang="kw"><seg>Terrys yw database an medhelweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Could not install the selected language support</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny veu possybyl lea an skoodhyans yeth dewisyes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Could not install the full language support</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny veu possybyl lea an skoodhyans yeth leun</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The language support is not installed completely</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns yw an skoodhyans yeth ynstallyes yn tien</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Install</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Details</seg></tuv>
+      <tuv xml:lang="kw"><seg>Manylyon</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Language Support</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skoodhyans yeth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Installed Languages</seg></tuv>
+      <tuv xml:lang="kw"><seg>Yethow ynstallyes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>When a language is installed, individual users can choose it in their Language settings.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pan vo yeth ynstallyes, usyoryon a yll y dhewis y'ga settyansow yeth.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Use the same language choices for startup and the login screen.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Usya an keth dewisyansow yeth rag an dallethans ha'n skrin omgelmi.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Install / Remove Languages...</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallya / dilea yethow...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Use the same format choice for startup and the login screen.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Usya an keth dewisyans a furv rag an dallethans ha'n skrin omgelmi.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Number:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Niver:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Date:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dedhyans:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Currency:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mona kemmyn:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Example</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ensampel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Label Empty</seg></tuv>
+      <tuv xml:lang="kw"><seg>Label gwagdefault text direction</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ltr</seg></tuv>
+      <tuv xml:lang="kw"><seg>ltr</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>System events</seg></tuv>
+      <tuv xml:lang="kw"><seg>Darvosow system</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Informational message</seg></tuv>
+      <tuv xml:lang="kw"><seg>Messach - derivadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Warning message</seg></tuv>
+      <tuv xml:lang="kw"><seg>Messach gwarnyans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Error message</seg></tuv>
+      <tuv xml:lang="kw"><seg>Messach gwall</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Miscellaneous message</seg></tuv>
+      <tuv xml:lang="kw"><seg>Messach - kemyskys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Choose menu item</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewis taklen rol</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Help document %s/%s not found</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny veu kevys skrifen weres %s/%s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Bonobo Support</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skoodhyans Bonobo</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>never</seg></tuv>
+      <tuv xml:lang="kw"><seg>CAPABILITIESWIFI-PROPERTIES</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%u Mb/s</seg></tuv>
+      <tuv xml:lang="kw"><seg>WIRED-PROPERTIES</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The authentication process is complete. You may now close this dialog and return to the application.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kowlwrys yw an argerdh gwiryans. Hwi a yll degea an gwarnyans ma ha dehweles dhe'n dowlen.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Done</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwrys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Web authentication for %1</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwiryans gwias rag %1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Web authentication</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwiryans gwias</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Enter your credentials to login</seg></tuv>
+      <tuv xml:lang="kw"><seg>Entrewgh agas kedhlow rag omgelmi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Previous authentication attempt failed. Please try again.</seg></tuv>
+      <tuv xml:lang="kw"><seg>An assay gwiryans kens a fyllis. Gwrewgh assaya arta.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Enter your credentials</seg></tuv>
+      <tuv xml:lang="kw"><seg>Entrewgh agas kedhlow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Username:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hanow usyer:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Password:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ger-tremena:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>As an additional security measure, please fill in the text from the picture below:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Avel murur diogeledh keworransel, entrewgh an tekst dhyworth an imach a-woles:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Text from the picture:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Tekst dhyworth an imach:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Applications can no longer access some of your Web Accounts</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny yll towlennow drehedhes rann a'gas Akontow Gwias na fella</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Applications can no longer access your %1 Web Account</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny yll towlennow drehedhes agas Akont Gwias %1 na fella</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Choose Web Accounts from the user menu to reinstate access to this account.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisewgh Akontow Gwias dhyworth an rol usyer rag ri hedhas dhe'n akont ma arta.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ubuntu Software Center</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kresen Vedhelweyth Ubuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Software Center</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kresen Vedhelweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Lets you choose from thousands of applications available for Ubuntu</seg></tuv>
+      <tuv xml:lang="kw"><seg>Agas gasa a wra dhe dhewis yn-mysk milyow a dowlennow kavadow rag Ubuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Featured</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What’s New</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pandr'yw nowydh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Accessories</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mandaffar</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Universal Access</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hedhas ollgemmyn</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Developer Tools</seg></tuv>
+      <tuv xml:lang="kw"><seg>Toulys displegyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Haskell</seg></tuv>
+      <tuv xml:lang="kw"><seg>Haskell</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>IDEs</seg></tuv>
+      <tuv xml:lang="kw"><seg>IDEs</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Java</seg></tuv>
+      <tuv xml:lang="kw"><seg>Java</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Libraries</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lyverjiow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Mono/CLI</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mono/CLI</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OCaml</seg></tuv>
+      <tuv xml:lang="kw"><seg>OCaml</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Perl</seg></tuv>
+      <tuv xml:lang="kw"><seg>Perl</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Python</seg></tuv>
+      <tuv xml:lang="kw"><seg>Python</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ruby</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ruby</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Web Development</seg></tuv>
+      <tuv xml:lang="kw"><seg>Displegya gwias</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Science &amp; Engineering</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skiens &amp; ynjynorieth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Biology</seg></tuv>
+      <tuv xml:lang="kw"><seg>Bewonieth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Chemistry</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kymygieth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Engineering</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynjynorieth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Geography</seg></tuv>
+      <tuv xml:lang="kw"><seg>Doronieth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Board Games</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwariow bord</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Publishing</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dyllo</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>File Sharing</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kevranna restrennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Mail</seg></tuv>
+      <tuv xml:lang="kw"><seg>Post</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Web Browsers</seg></tuv>
+      <tuv xml:lang="kw"><seg>Peurellow gwias</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Canonical Partners</seg></tuv>
+      <tuv xml:lang="kw"><seg>Unknown</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For Purchase</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dhe brena</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Previous Purchases</seg></tuv>
+      <tuv xml:lang="kw"><seg>Prenasow kens</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Independent</seg></tuv>
+      <tuv xml:lang="kw"><seg>Anserghek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Other</seg></tuv>
+      <tuv xml:lang="kw"><seg>Acheson aral</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>To sync with another computer, choose “Sync Between Computers” from that computer.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Rag kettermynegi gans jynn-amontya aral, dewisewgh "Kettermynegi yntra jynnow-amontya" dhyworth an jynn-amontya na.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Error</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kammwrians</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Not found</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny veu tra vyth kevys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Version %s or later not available.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns yw kavadow versyon %s po nowyttha.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Available from the "%s" source.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kavadow dhyworth an bennfenten "%s".</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Available from the following sources:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kavadow dhyworth an pennfentynyow a syw:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>"%s",</seg></tuv>
+      <tuv xml:lang="kw"><seg>"%s",</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>"%s".</seg></tuv>
+      <tuv xml:lang="kw"><seg>"%s".</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>People Also Installed</seg></tuv>
+      <tuv xml:lang="kw"><seg>Tus a ynstallyas ynwedhgrey-listed" words separated with ";</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>app;application;package;program;programme;suite;tool</seg></tuv>
+      <tuv xml:lang="kw"><seg>app;application;package;program;programme;suite;tool</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s (already purchased)</seg></tuv>
+      <tuv xml:lang="kw"><seg>%s (prenys seulabrys)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>To remove %s, these items must be removed as well:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Rag dilea %s, res yw dilea an taklow ma ynwedh:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Supported Software</seg></tuv>
+      <tuv xml:lang="kw"><seg>Medhelweyth skoodhys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>To install %s, these items must be removed:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Rag lea %s, res yw dilea an taklow ma:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Install Anyway</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallya yn neb fordh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Lets you choose from thousands of applications available for Ubuntu.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Agas gasa a wra dhe dhewis yn-mysk milyow a dowlennow kavadow rag Ubuntu.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>mouse</seg></tuv>
+      <tuv xml:lang="kw"><seg>logosen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>GPS</seg></tuv>
+      <tuv xml:lang="kw"><seg>GPS</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>printer</seg></tuv>
+      <tuv xml:lang="kw"><seg>pryntyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>scanner</seg></tuv>
+      <tuv xml:lang="kw"><seg>skanyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CD drive</seg></tuv>
+      <tuv xml:lang="kw"><seg>lewell CD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CD burner</seg></tuv>
+      <tuv xml:lang="kw"><seg>lesker CD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DVD drive</seg></tuv>
+      <tuv xml:lang="kw"><seg>lewell DVD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DVD burner</seg></tuv>
+      <tuv xml:lang="kw"><seg>lesker DVD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>OpenGL hardware acceleration</seg></tuv>
+      <tuv xml:lang="kw"><seg>special</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This software does not work with the “%s” graphics driver this computer is using.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny ober an medhelweyth ma gans an lewyell rafek "%s" usi an jynn-amontya ma owth usya.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>a few minutes ago</seg></tuv>
+      <tuv xml:lang="kw"><seg>nans yw nebes mynysennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>,</seg></tuv>
+      <tuv xml:lang="kw"><seg>, foo, bar and baz</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s and %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>%s ha %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sync Between Computers…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kettermynegi yntra jynnow-amontya...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Terms of Use</seg></tuv>
+      <tuv xml:lang="kw"><seg>Termynyow devnydh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Remove</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dilea</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Retry</seg></tuv>
+      <tuv xml:lang="kw"><seg>Assaya arta</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>label</seg></tuv>
+      <tuv xml:lang="kw"><seg>label</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thank you.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Meur ras.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Report</seg></tuv>
+      <tuv xml:lang="kw"><seg>Derivas</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Error Details</seg></tuv>
+      <tuv xml:lang="kw"><seg>Manylyon an kammwrians</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>More…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Moy…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Yes</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>No</seg></tuv>
+      <tuv xml:lang="kw"><seg>Na</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You have started a review, are you really sure you want to cancel now?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwi re dhallathas daswel, owgh hwi sur bos hwans dhywgh y hedhi lemmyn?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Publish</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dyllo</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Submit</seg></tuv>
+      <tuv xml:lang="kw"><seg>Danvon</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The file “%s” does not exist.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns eus restren henwys “%s”.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Internal Error</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kammwrians a-bervedh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The file “%s” could not be opened.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny veu possybyl ygeri an restren "%s".</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s _Help</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Gweres %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Server's response was:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gorthyp an servyer o:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>%s %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Login was canceled</seg></tuv>
+      <tuv xml:lang="kw"><seg>Omgelmi a veu hedhys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Failed to log in</seg></tuv>
+      <tuv xml:lang="kw"><seg>Omgelmi a fyllis</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Also post this review to:</seg></tuv>
+      <tuv xml:lang="kw"><seg>all</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Use This Source</seg></tuv>
+      <tuv xml:lang="kw"><seg>Packages</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Test drive</seg></tuv>
+      <tuv xml:lang="kw"><seg>Details</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Departments</seg></tuv>
+      <tuv xml:lang="kw"><seg>%s %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Come and explore our favourites</seg></tuv>
+      <tuv xml:lang="kw"><seg>hardware-supported,</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%(sym)s%(hardware)s</seg></tuv>
+      <tuv xml:lang="kw"><seg>hardware-supported,</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Inappropriate?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Jane Smith (that's you), 2011-02-11</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Configure the sources for installable software and updates</seg></tuv>
+      <tuv xml:lang="kw"><seg>Restra an pennfentynyow rag medhelweyth ynstallyadow ha nowedhansow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Software Sources</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pennfentynyow medhelweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Mirror</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mirour</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Testing Mirrors</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow previ an mirours</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please check your Internet connection.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwrewgh checkya agas junyans gans an kesrosweyth.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Canceling...</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow hedhi...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Daily</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dedhyek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Weekly</seg></tuv>
+      <tuv xml:lang="kw"><seg>Seythennek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s updates</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nowedhansow %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s Software</seg></tuv>
+      <tuv xml:lang="kw"><seg>Medhelweyth %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s (%s)</seg></tuv>
+      <tuv xml:lang="kw"><seg>sep</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Import key</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ymperthi alhwedh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Reload</seg></tuv>
+      <tuv xml:lang="kw"><seg>Daskarga</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CD Error</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kammwrians CD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CD Name</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hanow an CD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please enter a name for the disc</seg></tuv>
+      <tuv xml:lang="kw"><seg>Entrewgh hanow rag an dysk</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Insert Disk</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynworra an dysk</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please insert a disk in the drive:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwrewgh ynworra dysk y'n lewel:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>New mirror</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mirour nowydh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Add Software Channels</seg></tuv>
+      <tuv xml:lang="kw"><seg>Keworra kanolyow medhelweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are no sources to install software from</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns eus pennfenten vyth dhe lea medhelweyth dhyworti</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The file '%s' does not contain any valid software sources.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns eus pennfentynyow da a vedhelweyth y'n restren '%s'.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Edit Source</seg></tuv>
+      <tuv xml:lang="kw"><seg>Chanjya an bennfenten</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Type:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Sort:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>URI:</seg></tuv>
+      <tuv xml:lang="kw"><seg>URI:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Download from:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Iskarga dhyworth:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Downloadable from the Internet</seg></tuv>
+      <tuv xml:lang="kw"><seg>Iskargadow dhyworth an Kesrosweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Installable from CD-ROM/DVD</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallyadow dhyworth CD-ROM/DVD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Add...</seg></tuv>
+      <tuv xml:lang="kw"><seg>Keworra...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Edit...</seg></tuv>
+      <tuv xml:lang="kw"><seg>Chanjya...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Import Key File...</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Ymperthi an alhwedh...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Choose a Download Server</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisewgh servyer iskargans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Protocol:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Protokol:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Select Best Server</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Dewisewgh an gwella servyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Choose _Server</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisowgh _servyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Add Source</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Keworra pennfenten</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Enter password for %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Entrewgh ger-tremena rag %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Invalid password, please try again</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ger-tremena drog, assayewgh arta</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Logging in…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Owth omgelmi…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Login Screen</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skrin omgelmi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Back</seg></tuv>
+      <tuv xml:lang="kw"><seg>War-dhelergh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Onscreen keyboard</seg></tuv>
+      <tuv xml:lang="kw"><seg>Bysowek warskrin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Session Options</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisyow an esedhek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Select desktop environment</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisewgh kerhynnedh an desktop</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Goodbye. Would you like to…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Duw genowgh. A via da genowgh…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Are you sure you want to shut down the computer?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Owgh hwi sur bos hwans dhywgh degea dhe'n dor an jynn-amontya?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s (Default)</seg></tuv>
+      <tuv xml:lang="kw"><seg>%s (Defowt)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show release version</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes versyon an dyllans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Run in test mode</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lonchya y'n modh previ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>- Unity Greeter</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dynargher Unity</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Run '%s --help' to see a full list of available command line options.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lonchya '%s --help' rag gweles rol leun a dhewisyow linen-arghadow kavadow.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please enter a complete e-mail address</seg></tuv>
+      <tuv xml:lang="kw"><seg>Entrewgh trigva ebost dien</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Incorrect e-mail address or password</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kamm o an trigva ebost po an ger-tremena</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If you have an account on an RDP or Citrix server, Remote Login lets you run applications from that server.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mars eus akont dhywgh war servyer RDP po Citrix, Omgelmi Pell a'gas gas dhe lonchya towlennow dhyworth an servyer na.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>If you have an account on an RDP server, Remote Login lets you run applications from that server.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mars eus akont dhywgh war servyer RDP, Omgelmi Pell a'gas gas dhe lonchya towlennow dhyworth an servyer na.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Set Up…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Fyttya...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You need an Ubuntu Remote Login account to use this service. Would you like to set up an account now?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Res yw akont Omgelmi Pell Ubuntu rag usya an servis ma. Eus hwans dhywgh formya akont lemmyn?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You need an Ubuntu Remote Login account to use this service. Visit uccs.canonical.com to set up an account.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Res yw akont Omgelmi Pell Ubuntu rag usya an servis ma. Kewgh dhe uccs.canonical.com rag formya akont.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Server type not supported.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny skoodhir eghen an servyer.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Domain:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Tiredh:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Email address:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Trigva ebost:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Log In</seg></tuv>
+      <tuv xml:lang="kw"><seg>Omgelmi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Login as %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Omgelmi avel %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Retry as %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Assaya arta avel %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Login</seg></tuv>
+      <tuv xml:lang="kw"><seg>Omgelmi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Recently used</seg></tuv>
+      <tuv xml:lang="kw"><seg>Usyes a-dhiwedhes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Recent apps</seg></tuv>
+      <tuv xml:lang="kw"><seg>Towlennow a-dhiwedhes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Installed</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Type</seg></tuv>
+      <tuv xml:lang="kw"><seg>Eghen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Media</seg></tuv>
+      <tuv xml:lang="kw"><seg>Media</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Customization</seg></tuv>
+      <tuv xml:lang="kw"><seg>Personelheans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Developer</seg></tuv>
+      <tuv xml:lang="kw"><seg>Displegyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Science &amp; engineering</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skiens &amp; ynjynorieth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Dash plugins</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ebilyansow Dash</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sources</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pennfentynyow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Local apps</seg></tuv>
+      <tuv xml:lang="kw"><seg>Appys leel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Software center</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kresen vedhelweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search applications</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas y'n towlennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Paid</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Version %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Versyon %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Size %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Myns %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hardware requirements</seg></tuv>
+      <tuv xml:lang="kw"><seg>Odhom an kalesweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Buy</seg></tuv>
+      <tuv xml:lang="kw"><seg>Prena</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Free Download</seg></tuv>
+      <tuv xml:lang="kw"><seg>Iskargans heb kost</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Developer Site</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwiasva an displegyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Installed on</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynsyallys an</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Launch</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lonchya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Uninstall</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dilea</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Results</seg></tuv>
+      <tuv xml:lang="kw"><seg>Sewyansow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Run a command</seg></tuv>
+      <tuv xml:lang="kw"><seg>Resek arghadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There is no easter egg in Unity</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns eus oy pask yn Unity</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Still no easter egg in Unity</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns eus hwath oy pask yn Unity</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>scope</seg></tuv>
+      <tuv xml:lang="kw"><seg>skop</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Enable</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gallosegi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Disable</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diallosegi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search plugins</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas y'n ebilyansow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All Applications</seg></tuv>
+      <tuv xml:lang="kw"><seg>Oll towlennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All Available Applications</seg></tuv>
+      <tuv xml:lang="kw"><seg>Oll towlennow kavadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables information from local applications to be searched and displayed in the Dash underneath the Applications header. If you do not wish to search this content source, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek kedhlow dhyworth towlennow leel dhe vos hwilys ha diskwedhys y'n Dash yn-dann an bennlinen Towlennow. Mar nyns eus hwans dhywgh hwilas y'n bennfenten ma, hwi a yll diallosegi an ebilyans hwilas ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Commands</seg></tuv>
+      <tuv xml:lang="kw"><seg>Arghadowyow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables information from local binaries to be searched and displayed in the Dash. If you do not wish to search this content source, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek kedhlow dhyworth binariow leel dhe vos hwilys ha diskwedhys y'n Dash. Mar nyns eus hwans dhywgh hwilas y'n bennfenten ma, hwi a yll diallosegi an ebilyans hwilas ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables information from available search plugins to be searched and displayed in the Dash underneath the Dash plugins header. If you do not wish to search this content source, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek kedhlow dhyworth ebilyansow hwilas kavadow dhe vos hwilys ha diskwedhys y'n Dash yn-dann bennlinen ebilyansow an Dash. Mar nyns eus hwans dhywgh hwilas y'n bennfenten ma, hwi a yll diallosegi an ebilyans hwilas ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search search plugins</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas y'n ebilyansow hwilas</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Running Applications</seg></tuv>
+      <tuv xml:lang="kw"><seg>Towlennow ow resek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables information from running applications to be searched and displayed in the Dash underneath the Applications header. If you do not wish to search this content source, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek kedhlow dhyworth towlennow ow resek dhe vos hwilys ha diskwedhys y'n Dash yn-dann a'n bennlinen Towlennow. Mar nyns eus hwans dhywgh hwilas y'n bennfenten ma, hwi a yll diallosegi an ebilyans hwilas ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search running applications</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas y'n towlennow ow resek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search Files &amp; Folders</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas yn restrennow &amp; plegellow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sorry, there are no files or folders that match your search.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diharesow, nyns eus restren po plegell vyth a bar dh'agas hwilans.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Last 7 days</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diwettha 7 dydh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Last 30 days</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diwettha 30 dydh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Last year</seg></tuv>
+      <tuv xml:lang="kw"><seg>Warlena</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Documents</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skrifow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Folders</seg></tuv>
+      <tuv xml:lang="kw"><seg>Plegellow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Images</seg></tuv>
+      <tuv xml:lang="kw"><seg>Imajys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Audio</seg></tuv>
+      <tuv xml:lang="kw"><seg>Audio</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Videos</seg></tuv>
+      <tuv xml:lang="kw"><seg>Videos</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Other</seg></tuv>
+      <tuv xml:lang="kw"><seg>Re erel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Size</seg></tuv>
+      <tuv xml:lang="kw"><seg>Myns</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Files &amp; Folders</seg></tuv>
+      <tuv xml:lang="kw"><seg>Restrennow &amp; plegellow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Recent</seg></tuv>
+      <tuv xml:lang="kw"><seg>A-dhiwedhes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Downloads</seg></tuv>
+      <tuv xml:lang="kw"><seg>Iskargansow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Open</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ygeri</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show in Folder</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes y'n blegell</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Email</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ebost</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Invalid Month</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mis drog</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>January</seg></tuv>
+      <tuv xml:lang="kw"><seg>Genver</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>February</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwevrel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>March</seg></tuv>
+      <tuv xml:lang="kw"><seg>Meurth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>April</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ebrel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>May</seg></tuv>
+      <tuv xml:lang="kw"><seg>Me</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>June</seg></tuv>
+      <tuv xml:lang="kw"><seg>Metheven</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>July</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gortheren</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>August</seg></tuv>
+      <tuv xml:lang="kw"><seg>Est</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>September</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwynngala</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>October</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hedra</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>November</seg></tuv>
+      <tuv xml:lang="kw"><seg>Du</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>December</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kevardhu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Monday</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dy'Lun</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Tuesday</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dy'Meurth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Wednesday</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dy'Merher</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Thursday</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dy'Yow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Friday</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dy'Gwener</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Saturday</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dy'Sadorn</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sunday</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dy'Sul</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Earlier today</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hedhyw y'n jydh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Five hours ago</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nans yw pymp our</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Four hours ago</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nans yw peswar our</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Three hours ago</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nans yw tri our</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Two hours ago</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nans yw dew our</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>1 hour ago</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nans yw 1 our</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Past hour</seg></tuv>
+      <tuv xml:lang="kw"><seg>An our yw passyes</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Yesterday</seg></tuv>
+      <tuv xml:lang="kw"><seg>De</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Three weeks ago</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nans yw tri seythen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A month ago</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nans yw unn mis</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search music</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas ilow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Banshee</seg></tuv>
+      <tuv xml:lang="kw"><seg>Banshee</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Play</seg></tuv>
+      <tuv xml:lang="kw"><seg>Seni</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Rhythmbox</seg></tuv>
+      <tuv xml:lang="kw"><seg>Rhythmbox</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Decade</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kansvledhen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Old</seg></tuv>
+      <tuv xml:lang="kw"><seg>Koth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>60s</seg></tuv>
+      <tuv xml:lang="kw"><seg>60s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>70s</seg></tuv>
+      <tuv xml:lang="kw"><seg>70s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>80s</seg></tuv>
+      <tuv xml:lang="kw"><seg>80s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>90s</seg></tuv>
+      <tuv xml:lang="kw"><seg>90s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>00s</seg></tuv>
+      <tuv xml:lang="kw"><seg>00s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>10s</seg></tuv>
+      <tuv xml:lang="kw"><seg>10s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Genre</seg></tuv>
+      <tuv xml:lang="kw"><seg>Klass</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Blues</seg></tuv>
+      <tuv xml:lang="kw"><seg>Blouyow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Classical</seg></tuv>
+      <tuv xml:lang="kw"><seg>Klassek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Country</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ilow an pow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Disco</seg></tuv>
+      <tuv xml:lang="kw"><seg>Disco</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Funk</seg></tuv>
+      <tuv xml:lang="kw"><seg>Funk</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Rock</seg></tuv>
+      <tuv xml:lang="kw"><seg>Rock</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Metal</seg></tuv>
+      <tuv xml:lang="kw"><seg>Metal</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hip-hop</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hip-hop</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>House</seg></tuv>
+      <tuv xml:lang="kw"><seg>House</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>New-wave</seg></tuv>
+      <tuv xml:lang="kw"><seg>Tonn nowydh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>RB</seg></tuv>
+      <tuv xml:lang="kw"><seg>RB</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Punk</seg></tuv>
+      <tuv xml:lang="kw"><seg>Punk</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Jazz</seg></tuv>
+      <tuv xml:lang="kw"><seg>Jazz</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Pop</seg></tuv>
+      <tuv xml:lang="kw"><seg>Popp</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Reggae</seg></tuv>
+      <tuv xml:lang="kw"><seg>Reggae</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Soul</seg></tuv>
+      <tuv xml:lang="kw"><seg>Soul</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Techno</seg></tuv>
+      <tuv xml:lang="kw"><seg>Tekno</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Other</seg></tuv>
+      <tuv xml:lang="kw"><seg>Aral</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Music</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ilow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Songs</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kanow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Albums</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kuntilowyow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>More suggestions</seg></tuv>
+      <tuv xml:lang="kw"><seg>Moy profyansow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Radio</seg></tuv>
+      <tuv xml:lang="kw"><seg>Radyo</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sorry, there is no music that matches your search.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diharesow, nyns eus ilow a bar dh'agas hwilans.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It seems you don't have an Ubuntu One account, or you are not logged in. To continue, please login and visit the Ubuntu One online store.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Yth hevel nag eus akont Ubuntu One dhywgh, po nag owgh omgelmys. Rag pesya, gwrewgh omgelmi ha visitya gwerthji warlinen Ubuntu One.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It seems you haven't set yet your preferred Ubuntu One payment method. To add a payment method, please visit the Ubuntu One online store.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Yth hevel na settsowgh an method pe yw gwell genowgh. Rag keworra method pe, gwrewgh visitya gwerthji warlinen Ubuntu One.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sorry, we have encountered a technical problem. No money has been taken from your account. To try your purchase again, please visit the Ubuntu One online store.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diharesow, ni re vetyas orth kudyn teknogel. Ny veu mona vyth kemerys dhyworth agas akont. Rag assaya agas prenas arta, gwrewgh visitya gwerthji warlinen Ubuntu One.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Purchase started</seg></tuv>
+      <tuv xml:lang="kw"><seg>Prenas dallethys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Download</seg></tuv>
+      <tuv xml:lang="kw"><seg>Iskarga</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Free</seg></tuv>
+      <tuv xml:lang="kw"><seg>Heb kost</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Digital CD</seg></tuv>
+      <tuv xml:lang="kw"><seg>CD Besyel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Cancel</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hedhi</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Go to Ubuntu One</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mos dhe Ubuntu One</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please enter your password</seg></tuv>
+      <tuv xml:lang="kw"><seg>Entrewgh agas ger-tremena</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Authorizing purchase</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow kwirya an prenans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Purchase completed</seg></tuv>
+      <tuv xml:lang="kw"><seg>Prenas gorfennys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Wrong password</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ger-tremena kamm</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Continue</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pesya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hi %s, you purchased in the past from Ubuntu One, would you like to use the same payment details? Please review your order.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hou %s, hwi a brenas taklow dhyworth Ubuntu One y'n termyn eus passyes, eus hwans dhywgh usya an keth manylyon pe? Gwrewgh dasweles agas arghadow.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Buy Now</seg></tuv>
+      <tuv xml:lang="kw"><seg>Prena lemmyn</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>forgotten your Ubuntu One password?</seg></tuv>
+      <tuv xml:lang="kw"><seg>re ankevsowgh agas ger-tremena Ubuntu One?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>change payment method</seg></tuv>
+      <tuv xml:lang="kw"><seg>chanjya an method pe</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables information from Banshee to be searched and displayed in the Dash underneath the Music header. If you do not wish to search this content source, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek kedhlow dhyworth Banshee dhe vos hwilys ha diskwedhys y'n Dash yn-dann an bennlinen Ilow. Mar nyns eus hwans dhywgh hwilas y'n bennfenten ma, hwi a yll diallosegi an ebilyans ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search music collection</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas y'm kuntell ilow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables information from Rhythmbox to be searched and displayed in the Dash underneath the Music header. If you do not wish to search this content source, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek kedhlow dhyworth Rhythmbox dhe vos hwilys ha diskwedhys y'n Dash yn-dann an bennlinen Ilow. Mar nyns eus hwans dhywgh hwilas y'n bennfenten ma, hwi a yll diallosegi an ebilyans ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Music store</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwerthji ilow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables information from Ubuntu One to be searched and displayed in the Dash underneath the Music header. If you do not wish to search this content source, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek kedhlow dhyworth Ubuntu One dhe vos hwilys ha diskwedhys y'n Dash yn-dann an bennlinen Ilow. Mar nyns eus hwans dhywgh hwilas y'n bennfenten ma, hwi a yll diallosegi an ebilyans ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search music store</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas y'n gwerthji ilow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Facebook</seg></tuv>
+      <tuv xml:lang="kw"><seg>Facebook</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sorry, there are no photos that match your search.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diharesow, nyns eus skeusen vyth a bar dh'agas hwilans.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My Photos</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow skeusennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Friends Photos</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skeusennow kowetha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Online Photos</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skeusennow warlinen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Photos</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skeusennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Date</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dedhyans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Last 7 days</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diwettha 7 dedh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Last 30 days</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diwettha 30 dedh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Last 6 months</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diwettha 6 mis</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Older</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kottha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Location</seg></tuv>
+      <tuv xml:lang="kw"><seg>Tyller</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Album</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kuntel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>With</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>View</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gweles</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>By %s, %s</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gans %s, %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Camera</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kamera</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Dimensions</seg></tuv>
+      <tuv xml:lang="kw"><seg>Musuransow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>License</seg></tuv>
+      <tuv xml:lang="kw"><seg>Leshyans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This Computer</seg></tuv>
+      <tuv xml:lang="kw"><seg>An jynn-amontya ma</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This photo is missing. You can open Shotwell to retrieve it or remove it from your library.</seg></tuv>
+      <tuv xml:lang="kw"><seg>An skeusen ma a fyll. Hwi a yll ygeri Shotwell rag hy daskavos po hy dilea dhyworth agas lyverva.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s x %s pixels</seg></tuv>
+      <tuv xml:lang="kw"><seg>%s x %s piksel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Tags</seg></tuv>
+      <tuv xml:lang="kw"><seg>Tagyow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Print</seg></tuv>
+      <tuv xml:lang="kw"><seg>Pryntya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Open Shotwell</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ygeri Shotwell</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Flickr</seg></tuv>
+      <tuv xml:lang="kw"><seg>Flickr</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>flickr;</seg></tuv>
+      <tuv xml:lang="kw"><seg>flickr;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables information from Flickr to be searched and displayed in the Dash underneath the Photos header. If you do not wish to search this content source, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek kedhlow dhyworth Flickr dhe vos hwilys ha diskwedhys y'n Dash yn-dann an bennlinen Skeusennow. Mar nyns eus hwans dhywgh hwilas y'n bennfenten ma, hwi a yll diallosegi an ebilyans ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search Flickr</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas yn Flickr</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>facebook;</seg></tuv>
+      <tuv xml:lang="kw"><seg>facebook;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables information from Facebook to be searched and displayed in the Dash underneath the Photos header. If you do not wish to search this content source, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek kedhlow dhyworth Facebook dhe vos hwilys ha diskwedhes y'n Dash yn-dann an bennlinen Skeusennow. Mar nyns eus hwans dhywgh hwilas y'n bennfenten ma, hwi a yll diallosegi an ebilyans ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search Facebook</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas yn Facebook</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>shotwell;</seg></tuv>
+      <tuv xml:lang="kw"><seg>shotwell;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Shotwell</seg></tuv>
+      <tuv xml:lang="kw"><seg>Shotwell</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables information from Shotwell to be searched and displayed in the Dash underneath the Photos header. If you do not wish to search this content source, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek kedhlow dhyworth Shotwell dhe vos hwilys ha diskwedhys y'n Dash yn-dann an bennlinen Skeusennow. Mar nyns eus hwans dhywgh hwilas y'n bennfenten ma, hwi a yll diallosegi an ebilyans ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search Shotwell</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas yn Shotwell</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>picasa;</seg></tuv>
+      <tuv xml:lang="kw"><seg>picasa;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Picasa</seg></tuv>
+      <tuv xml:lang="kw"><seg>Picasa</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables information from Picasa to be searched and displayed in the Dash underneath the Photos header. If you do not wish to search this content source, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek kedhlow dhyworth Picasa dhe vos hwilys ha diskwedhys y'n Dash yn-dann an bennlinen Skeusennow. Mar nyns eus hwans dhywgh hwilas y'n bennfenten ma, hwi a yll diallosegi an ebilyans ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search Picasa</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas yn Picasa</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Photos search plugin</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ebilyans hwilas skeusennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search your and your friends' Flickr photos</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas y'gas skeusennow Flickr ha re agas kowetha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search your and your friends' Facebook photos</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas y'gas skeusennow Facebook ha re agas kowetha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search your Picasa photos</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas y'gas skeusennow Picasa</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Online</seg></tuv>
+      <tuv xml:lang="kw"><seg>Warlinen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Play</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gwari</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Cast</seg></tuv>
+      <tuv xml:lang="kw"><seg>Rol an warioryon</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Uploaded by</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ughkergys an</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Uploaded on</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ughkergys an</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search videos</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas videos</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>My videos</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow videos</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show in Folder</seg></tuv>
+      <tuv xml:lang="kw"><seg>Mos dh'y blegell</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Format</seg></tuv>
+      <tuv xml:lang="kw"><seg>Furvyans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables local videos to be searched and displayed in the Dash underneath the Video header. If you do not wish to search this content source, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek videos leel dhe vos hwithys ha diskwedhys y'n Dash yn-dann an bennlinen Video. Mar nyns eus hwans dhywgh hwilas y'n bennfenten ma, hwi a yll diallosegi an ebilyans hwilas ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Remote videos</seg></tuv>
+      <tuv xml:lang="kw"><seg>Videos pell</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is an Ubuntu search plugin that enables information from various video providers to be searched and displayed in the Dash underneath the Video header. If you do not wish to search these content sources, you can disable this search plugin.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hemm yw ebilyans hwilas a Ubuntu a allosek kedhlow dhyworth lies provier a videos dhe vos hwithys ha diskwedhys y'n Dash yn-dann an bennlinen Video. Mar nyns eus hwans dhywgh hwilas y'n pennfentynyow ma, hwi a yll diallosegi an ebilyans hwilas ma.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Google Docs search plugin</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ebilyans hwilas Google Docs</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search your Google Docs files</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas y'gas restrennow Google Docs</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Open a New Window</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ygeri fenester nowydh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All</seg></tuv>
+      <tuv xml:lang="kw"><seg>Oll</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Categories</seg></tuv>
+      <tuv xml:lang="kw"><seg>Klassys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>See fewer results</seg></tuv>
+      <tuv xml:lang="kw"><seg>Gweles le sewyansow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sorry, there is nothing that matches your search.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Digaresow, nyns eus tra vyth a bar dh'agas hwilans.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Last Updated</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nowedhans diwettha%s" is used in the dash preview to display the "&lt;hint&gt;: &lt;value&gt;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s:</seg></tuv>
+      <tuv xml:lang="kw"><seg>%s:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Comments</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kampollow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Type your command</seg></tuv>
+      <tuv xml:lang="kw"><seg>Jynnskrifewgh agas arhadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Lock to Launcher</seg></tuv>
+      <tuv xml:lang="kw"><seg>Alhwedha y'n lonchyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Unlock from Launcher</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dialhwedha dhyworth an lonchyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Quit</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kwytya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Search your computer and online sources</seg></tuv>
+      <tuv xml:lang="kw"><seg>Hwilas y'gas jynn amontya hag yn pennfentynyow warlinen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show Desktop</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes an desktop</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The drive has been successfully ejected</seg></tuv>
+      <tuv xml:lang="kw"><seg>An lewell re beu estewlys yn sewen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Workspace Switcher</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisell an spas-ober</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>HUD</seg></tuv>
+      <tuv xml:lang="kw"><seg>HUD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Waiting to install</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow kortos kens es ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Drop To Add Application</seg></tuv>
+      <tuv xml:lang="kw"><seg>Droppya rag keworra towlen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Trash</seg></tuv>
+      <tuv xml:lang="kw"><seg>Atalgist</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Eject parent drive</seg></tuv>
+      <tuv xml:lang="kw"><seg>Estewlel an lewell gar</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Eject</seg></tuv>
+      <tuv xml:lang="kw"><seg>Estewlel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Safely remove parent drive</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dilea yn sowel an lewell gar</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Safely remove</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dilea yn sewen</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Unmount</seg></tuv>
+      <tuv xml:lang="kw"><seg>Disevel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ubuntu Desktop</seg></tuv>
+      <tuv xml:lang="kw"><seg>Desktop Ubuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Support _UNITY_NET_WORKAREA_REGION</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skoodhyans _UNITY_NET_WORKAREA_REGION</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show Handles</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes an dornleow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Key to show the handles</seg></tuv>
+      <tuv xml:lang="kw"><seg>Alhwedh rag diskwedhes an dornleow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hide Handles</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kudha an dornleow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Key to hide the handles</seg></tuv>
+      <tuv xml:lang="kw"><seg>Alhwedh rag kudha an dornleow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Alpha</seg></tuv>
+      <tuv xml:lang="kw"><seg>Alpha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Blacklist</seg></tuv>
+      <tuv xml:lang="kw"><seg>Rol dhu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Dash</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dash</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Launcher</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lonchyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Quicklist</seg></tuv>
+      <tuv xml:lang="kw"><seg>Rol skav</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Switcher</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewisell</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Key to execute a command</seg></tuv>
+      <tuv xml:lang="kw"><seg>An alhwedhen rag lonchya arhadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Background Color</seg></tuv>
+      <tuv xml:lang="kw"><seg>Liw an gilva</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Hide Launcher</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kudha an Lonchyer</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Autohide</seg></tuv>
+      <tuv xml:lang="kw"><seg>Awto-kudha</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>None</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nagonan</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Left Mouse</seg></tuv>
+      <tuv xml:lang="kw"><seg>Klyck kledh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Middle Mouse</seg></tuv>
+      <tuv xml:lang="kw"><seg>Klyck kres</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Right Mouse</seg></tuv>
+      <tuv xml:lang="kw"><seg>Klyck dyghow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Opens Launcher keyboard navigation mode.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ygeri a wra modh lewyans dre vysowek an lonchyer.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>+ 1 to 9</seg></tuv>
+      <tuv xml:lang="kw"><seg>+ 1 dhe 9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Same as clicking on a Launcher icon.</seg></tuv>
+      <tuv xml:lang="kw"><seg>An keth ha klyckya war arwodhik rag Lonchyer.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Ctrl + Tab</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ctrl + Tab</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Enter</seg></tuv>
+      <tuv xml:lang="kw"><seg>Entra</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Workspaces</seg></tuv>
+      <tuv xml:lang="kw"><seg>Spassow ober</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Windows</seg></tuv>
+      <tuv xml:lang="kw"><seg>Fenestri</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Goodbye, %s. Are you sure you want to close all programs and shut down the computer?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Duw genowgh, %s. Owgh hwi sur bos hwans dhywgh kwytya keniver towlen ha degea dhe'n dor an jynn-amontya?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Goodbye, %s. Are you sure you want to close all programs and log out from your account?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Duw genowgh, %s. Owgh hwi sur bos hwans dhywgh kwytya keniver towlen hag omdenna dhyworth agas akont?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Goodbye, %s. Would you like to…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Duw genowgh, %s. Eus hwans dhywgh…</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Filter results</seg></tuv>
+      <tuv xml:lang="kw"><seg>Sidhla an sewyansow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Launchers</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lonchyers</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Key to show the HUD</seg></tuv>
+      <tuv xml:lang="kw"><seg>Alhwedhen rag diskwedhes an HUD</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Checking for updates…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow checkya rag nowedhansow...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Installing updates…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Owth ynstallya nowedhansow...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Update is complete</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kowlwrys yw an nowedhans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Open Link in Browser</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ygeri an gevren y'n beurell</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Settings…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Settyansow...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Check Again</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Checkya arta</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The software on this computer is up to date.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nowedhys yw an medhelweyth war an jynn-amontya ma.Ubuntu 12.04</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>However, %s %s is now available (you have %s).</seg></tuv>
+      <tuv xml:lang="kw"><seg>Byttegyns, %s %s yw kavadow lemmyn (yma %s genowgh).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Upgrade…</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ubuntu 12.04</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Software updates are no longer provided for %s %s.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ubuntu 12.04</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Not all updates can be installed</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ny yllir ynstallya keniver nowedhans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>_Continue</seg></tuv>
+      <tuv xml:lang="kw"><seg>_Pesya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The computer needs to restart to finish installing updates.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Res yw dhe'n jynn-amontya dastalleth rag gorfenna ynstallya nowedhansow.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Software Updater</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nowedhell medhelweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Software index is broken</seg></tuv>
+      <tuv xml:lang="kw"><seg>Terrys yw menegva an medhelweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Install</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ynstallya</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Version %s:</seg></tuv>
+      <tuv xml:lang="kw"><seg>Versyon %s:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Downloading list of changes...</seg></tuv>
+      <tuv xml:lang="kw"><seg>Owth iskarga an rol a janjyow...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Select _All</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dewis _oll</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s will be downloaded.</seg></tuv>
+      <tuv xml:lang="kw"><seg>%s a vydh iskergys.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are no updates to install.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns eus nowedhans vyth dhe ynstallya.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Unknown download size.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ankoth yw myns an iskargans.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Updated software has been issued since %s %s was released. Do you want to install it now?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Dyllys re beu medhelweyth nowedhys a-dhia dyllans %s %s. Eus hwans dhywgh y ynstallya lemmyn?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Updated software is available for this computer. Do you want to install it now?</seg></tuv>
+      <tuv xml:lang="kw"><seg>Yma medhelweyth nowedhys kavadow rag an jynn-amontya ma. Eus hwans dhywgh y ynstallya lemmyn?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The computer also needs to restart to finish installing previous updates.</seg></tuv>
+      <tuv xml:lang="kw"><seg>on_button_install_clicked</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Connecting...</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow junya...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Other updates</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nowedhansow erel</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Install All Available Updates</seg></tuv>
+      <tuv xml:lang="kw"><seg>Lea keniver nowedhans kavadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Updates</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nowedhansow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Building Updates List</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ow trehevel an rol a nowedhansow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Failed to download the list of changes. Please check your Internet connection.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Iskarga an rol a janjyow a fyllis. Gwrewgh checkya agas junyans kesrosweyth.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The list of changes is not available yet. Please use http://launchpad.net/ubuntu/+source/%s/%s/+changelog until the changes become available or try again later.</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nyns yw kavadow an rol a janjyow hwath. Gwrewgh usya http://launchpad.net/ubuntu/+source/%s/%s/+changelog erna vo kavadow an chanjyow, po assayewgh arta diwettha.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>%s base</seg></tuv>
+      <tuv xml:lang="kw"><seg>250 kB</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>updates</seg></tuv>
+      <tuv xml:lang="kw"><seg>nowedhansow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Changes</seg></tuv>
+      <tuv xml:lang="kw"><seg>Chanjyow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Description</seg></tuv>
+      <tuv xml:lang="kw"><seg>Deskrifans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Details of updates</seg></tuv>
+      <tuv xml:lang="kw"><seg>Manylyon a nowedhansow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Software Updates</seg></tuv>
+      <tuv xml:lang="kw"><seg>Nowedhansow medhelweyth</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show and install available updates</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes hag ynstallya nowedhansow kavadow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Show version and exit</seg></tuv>
+      <tuv xml:lang="kw"><seg>Diskwedhes an versyon ha degea</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Check if a new Ubuntu release is available</seg></tuv>
+      <tuv xml:lang="kw"><seg>Checkya mars eus kavadow dyllans nowydh a Ubuntu</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Applications</seg></tuv>
+      <tuv xml:lang="kw"><seg>Towlennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>applications</seg></tuv>
+      <tuv xml:lang="kw"><seg>towlennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Desktop</seg></tuv>
+      <tuv xml:lang="kw"><seg>Desktop</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>desktop</seg></tuv>
+      <tuv xml:lang="kw"><seg>desktop</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Documents</seg></tuv>
+      <tuv xml:lang="kw"><seg>Skrifennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>documents</seg></tuv>
+      <tuv xml:lang="kw"><seg>skrifennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Download</seg></tuv>
+      <tuv xml:lang="kw"><seg>Iskargans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>download</seg></tuv>
+      <tuv xml:lang="kw"><seg>iskargans</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>downloads</seg></tuv>
+      <tuv xml:lang="kw"><seg>iskargansow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Movies</seg></tuv>
+      <tuv xml:lang="kw"><seg>Fylmow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>movies</seg></tuv>
+      <tuv xml:lang="kw"><seg>fylmow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>music</seg></tuv>
+      <tuv xml:lang="kw"><seg>ilow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>photos</seg></tuv>
+      <tuv xml:lang="kw"><seg>skeusennow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Pictures</seg></tuv>
+      <tuv xml:lang="kw"><seg>Imajys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>pictures</seg></tuv>
+      <tuv xml:lang="kw"><seg>imajys</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Projects</seg></tuv>
+      <tuv xml:lang="kw"><seg>Ragdresow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>projects</seg></tuv>
+      <tuv xml:lang="kw"><seg>ragdresow</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Public</seg></tuv>
+      <tuv xml:lang="kw"><seg>Poblek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>public</seg></tuv>
+      <tuv xml:lang="kw"><seg>poblek</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Share</seg></tuv>
+      <tuv xml:lang="kw"><seg>Kevranna</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>share</seg></tuv>
+      <tuv xml:lang="kw"><seg>kevranna</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>videos</seg></tuv>
+      <tuv xml:lang="kw"><seg>videos</seg></tuv>
+    </tu>
+  </body>
+</tmx>
