@@ -1,5 +1,4 @@
 #import libraries
-import re
 import time
 
 def open_file(file_path):
