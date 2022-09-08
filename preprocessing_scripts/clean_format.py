@@ -1,7 +1,6 @@
 #import libraries
 import re
-from datetime import date
-from time import ctime
+import time
 
 def open_file(file_path):
     file_lst = []
@@ -17,7 +16,7 @@ def open_file(file_path):
 
 #change to TMX format
 def turn_into_tmx(en_lst, cor_lst, file_name):
-    current_time = date(2022, 9, 7).ctime()
+    current_time = time.ctime(time.time())
     print(current_time)
     tmx_file = open(f"{file_name}.tmx", "a+")
     #add header elements to tmx file
