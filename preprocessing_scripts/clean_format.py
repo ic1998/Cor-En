@@ -33,7 +33,7 @@ def turn_into_tmx(en_lst, cor_lst, file_name):
 
 if __name__ == "__main__":
     #opens cornish and english raw_dataset file
-    cornish_file = open_file('/Users/ionacarslaw/Desktop/Cor-En/raw_datasets/1_COR.txt')
-    english_file = open_file('/Users/ionacarslaw/Desktop/Cor-En/raw_datasets/1_ENG.txt')
+    cornish_file = open_file()
+    english_file = open_file()
     turn_into_tmx(english_file, cornish_file, "test")
     print("FINISH")
