@@ -1,3 +1,5 @@
+#reads from file and cleans and turns into TMX data structure
+
 #import libraries
 import time
 
