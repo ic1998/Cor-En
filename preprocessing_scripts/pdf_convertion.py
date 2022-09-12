@@ -13,6 +13,4 @@ abbrevs = ["abbr", "adj", "adv", "art", "cnj", "contr", "int", "n", "n.coll", "n
 with pdfplumber.open("./cornish_dict.pdf") as pdf:
     text = pdf.pages[20]
     clean_text = text.filter(lambda obj: obj["object_type"] == "char" and "Bold" in obj["fontname"])
-    #print(clean_text.extract_text())
-    for line in clean_text.extract_text():
-        print(line)
+    print(clean_text.extract_text())
