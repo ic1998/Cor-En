@@ -1,24 +1,18 @@
 #turns pdf cornish dict to useable version
 
 #import libraries
-from PyPDF2 import PdfReader
-
-#opens pdf file and reads
-reader = PdfReader("./cornish_dict.pdf")
-number_of_pages = len(reader.pages)
+import pdfplumber
+import re
 
 
-#read each page and appends to lst
-lst_of_page = []
-for i in range(number_of_pages):
-    if i == 20:
-        lst = []
-        page = reader.pages[i]
-        text = page.extract_text()
-        lst.append(text)
-        lst_of_page.append(lst)
-        print(lst)
-    else:
-        pass
+#lst of word type abbrevs
+abbrevs = ["abbr", "adj", "adv", "art", "cnj", "contr", "int", "n", "n.coll", "n.dl", "n.f", "n.m", "n.m", "n.f", "n.pl", "num", "part",
+"prfx", "prn", "prp", "sffx", "top", "vb"]
 
-print(lst_of_page)
+#opens pdf and reads it
+with pdfplumber.open("./cornish_dict.pdf") as pdf:
+    text = pdf.pages[20]
+    clean_text = text.filter(lambda obj: obj["object_type"] == "char" and "Bold" in obj["fontname"])
+    #print(clean_text.extract_text())
+    for line in clean_text.extract_text():
+        print(line)
