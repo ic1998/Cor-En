@@ -1,0 +1,62 @@
+Neptune
+URI:
+Good.
+Name
+Dash
+Launchers
+documents
+updates
+To dance
+To break
+We're buying.
+Card games
+CD Error
+And you?
+System, %s
+I'm in Dubai.
+Butterflies are pretty.
+What is here?
+It is cold.
+Good night, Mom.
+We're not sure.
+I must go.
+I hate football.
+They were singing.
+This is ugly.
+This is strange.
+I need to win.
+Those are my books.
+I have to study.
+Who is your teacher?
+Do you like chocolate?
+Do you remember that?
+You have four dogs.
+Not a launchable item
+This is Tom's dog.
+This is a pen.
+She was surprised too.
+How old is he?
+We had to stop.
+Terminal has specified geometry.
+I see a boy.
+Can you help me?
+Do you have to go?
+It's ten past four now.
+You have to do it.
+She was looking at you.
+I am a teacher, too.
+He was looking at her.
+The weather is fine today.
+I don't want to leave.
+Tom doesn't like that idea.
+Can I see it? Very nice!
+I used to live with her.
+No, less than a hundred yards.
+Check if FILE is BIOS bootsector
+Do you want to eat baked potato?
+What sort of book did you buy?
+I would like to have some more water.
+Never did I tell her that I loved her.
+There will also be short films in Cornish about mining in the Trailblazer bus nearby
+This is an Ubuntu search plugin that enables information from Shotwell to be searched and displayed in the Dash underneath the Photos header. If you do not wish to search this content source, you can disable this search plugin.
+This is an Ubuntu search plugin that enables information from Ubuntu One to be searched and displayed in the Dash underneath the Music header. If you do not wish to search this content source, you can disable this search plugin.

@@ -1,0 +1,6530 @@
+Sources
+Customization
+Media
+Type
+Installed
+Login
+Domain:
+Back
+Protocol:
+Edit...
+Add...
+Type:
+Reload
+Weekly
+Daily
+Canceling...
+Mirror
+Inappropriate?
+%(sym)s%(hardware)s
+Departments
+Submit
+Publish
+No
+Yes
+More…
+Report
+label
+Paid
+Buy
+Launch
+animals
+August
+July
+June
+May
+April
+squirrel
+February
+January
+Email
+Open
+Downloads
+Retry
+crab
+boat
+Recent
+Size
+Other
+Videos
+Audio
+Images
+Folders
+Documents
+Commands
+Disable
+Enable
+scope
+Results
+teacher
+holidays
+Remove
+,
+Currency:
+Date:
+Number:
+Details
+_Install
+none
+Installed
+_Update
+Mute
+Sound
+Volume
+Restart…
+Suspend
+Congratulations!
+Guest
+(%.0lf%%)
+(%s)
+unknown
+estimating…
+Computer
+Tablet
+PDA
+Keyboard
+Monitor
+Battery
+Incoming
+Clear
+Example
+ltr
+never
+Done
+scanner
+printer
+GPS
+mouse
+app;application;package;program;programme;suite;tool
+"%s".
+"%s",
+Error
+Other
+Independent
+Mail
+Publishing
+Geography
+Engineering
+Search…
+Chemistry
+Python
+Perl
+OCaml
+Mono/CLI
+Libraries
+Java
+IDEs
+Haskell
+Accessories
+Featured
+Password:
+Username:
+How?
+Biology
+September
+music
+October
+Switcher
+Quicklist
+Launcher
+Blacklist
+Alpha
+Unmount
+Eject
+Trash
+HUD
+Quit
+Comments
+I
+You
+He
+She
+We
+You
+%s:
+Enjoy
+Categories
+Format
+Who?
+Cast
+Play
+Online
+Picasa
+Ready?
+Wait!
+Autohide
+How?
+photos
+music
+movies
+Movies
+downloads
+download
+Download
+Documents
+desktop
+Desktop
+applications
+Applications
+Really?
+picasa;
+Description
+Dunno
+Updates
+Connecting...
+Install
+_Continue
+Upgrade…
+Settings…
+Cake?
+Windows
+Workspaces
+Enter
+None
+Changes
+Shotwell
+shotwell;
+facebook;
+Rock
+Funk
+Country
+Cool
+Classical
+Blues
+Genre
+10s
+90s
+80s
+70s
+60s
+Metal
+Old
+Play
+Yesterday
+Sunday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+December
+November
+clothing
+Decade
+Offline
+Hip-hop
+New-wave
+flickr;
+Flickr
+Print
+Tags
+License
+Dimensions
+Camera
+View
+With
+Location
+Older
+Date
+Facebook
+House
+Continue
+Free
+Download
+Radio
+Songs
+Music
+Other
+Techno
+Soul
+Reggae
+Wow!
+Pop
+Jazz
+Punk
+RB
+Cancel
+near
+Invisible
+Away
+Education
+Programming
+%R
+Laptop
+Distributor
+Version
+Contact
+News
+Printer
+Mouse
+Keyboard
+Pronunciation
+Network
+Computer
+Modem
+Phone
+Alas!
+Show:
+Trusted
+Paired
+Devices
+Type
+Device
+Disclaimer
+Suggestions
+Activation
+INS
+Inside
+OK
+Games
+Graphics
+Internet
+Office
+GNOME
+Program
+Enabled
+System
+Personal
+Hardware
+Strategy
+Sports
+Simulation
+Preferences
+Administration
+Logic
+Kids
+Reboot
+Science
+Cards
+Board
+Arcade
+Adventure
+Action
+Utilities
+Sundry
+Home
+About
+Help
+Feedback
+Accessories
+Corpus
+Search
+Debian
+Browse…
+Autosave
+Text
+Font
+Fonts
+_Password:
+Loading…
+translator-credits
+Evince
+Close
+Style:
+Color:
+Unknown
+Paragraph
+Help
+Key
+Modified:
+Creator:
+Producer:
+Keywords:
+Title:
+Document
+Page
+Find
+Warning
+Options
+pdf;ps;postscript;dvi;xps;djvu;tiff;document;presentation;
+ID
+FILE
+TrueType
+Add
+Print…
+Index
+Examples
+_Bookmarks
+_Go
+_View
+Password
+_Find
+_File
+_Close
+Language
+Keymap
+Modes
+Normal
+Accessibility
+Exiting...
+_Copy
+_Reload
+_Fullscreen
+_Help
+Everything
+_About
+_Open
+[FILE…]
+NUMBER
+PAGE
+_Open…
+History
+_Automatic
+_Enable
+Magnifier
+Comm_ent:
+Co_mmand:
+_Name:
+thinness
+heaviness
+lightness
+softness
+cleanness
+warmth
+heat
+depth
+drought
+height
+strength
+hardness
+shelter
+trouble
+truth
+rest
+wisdom
+folly
+royalty
+stupidity
+madness
+falsehood
+bounty
+belief
+forgiveness
+learning
+discovery
+glory
+darkness
+brightness
+coldness
+sweetness
+Available
+%a\\u2003%H:%M
+Tomorrow\\u2003%H:%M
+%A
+Tomorrow
+Today
+Dismiss
+Show
+Upcoming
+Clock
+%Y
+digging
+loving
+binding
+life
+breaking
+%H:%M
+%H:%M:%S
+living
+putting
+seeing
+coming
+going
+goodness
+truth
+weakness
+brightness
+beauty
+sweetness
+horror
+%a
+death
+salvation
+sadness
+Gods
+souls
+ditches
+roots
+mountains
+towns
+lands
+father
+wall
+floor
+word
+garter
+fathers
+walls
+days
+floors
+garters
+book
+tear
+nail
+books
+tears
+nails
+Run;
+Terminal
+None
+Search
+_Restart
+words
+Busy
+ears
+graves
+thought
+Bluetooth
+Visible
+Connection
+Restart
+Description:
+About
+DarkRoom
+Human-Clearlooks
+Messages
+Users
+(64-bit)
+(32-bit)
+TARGET
+gifts
+UTF-8
+YUV
+Text-only
+Default
+Find
+God
+soul
+ditch
+root
+mountain
+town
+land
+keys
+weapons
+%ds
+in
+Albums
+Pictures
+November
+December
+A
+Christmas
+Windy
+Two
+True
+October
+Three
+Sister
+Brother
+Aunt
+Uncle
+Snow
+Cousin
+Better
+Four
+Lost
+One
+Brilliant!
+Saturn
+January
+February
+March
+April
+May
+Seventh
+September
+Welcome
+Uranus
+August
+Eighth
+Day
+Brilliant!
+June
+Cousin
+Mother
+Father
+Congratulations!
+Telephone
+Mobile
+Home
+Work
+Go!
+Maths
+Go!
+Voicemail
+E-mail
+Morning!
+Restaurant
+Yard
+App
+Message
+Hi!
+Goodnight!
+Wait!
+Grandmother
+Grandfather
+Son
+Daughter
+Grandson
+Granddaughter
+Ancestors
+Alright
+Sun
+Why?
+Everyday
+Hello.
+Hello.
+Rain
+What?
+Easter
+Wait!
+Saturday
+Alas.
+Friday
+Thursday
+Violin
+Bagpipes
+Daffodil
+Harp
+Bodhran
+Drums
+Bass
+Guitar
+Saxiphone
+English
+Why?
+French
+Trumpet
+Spanish
+Maths.
+Thirty-five.
+Whistle
+Piano
+Judo
+Karate
+Teaching
+December
+Subject
+Today
+New
+Rugby
+History
+Cricket
+Netball
+Class
+Hockey
+Tennis
+Early
+Darts
+Pool
+Basketball
+Surfing
+Website
+Hi.
+Sports
+Venus
+Third
+Earth
+Beach
+Moon
+Exactly
+Sand
+Sunday
+Tuesday
+Fourth
+Mars
+Wednesday
+Fifth
+Jupiter
+Sixth
+Monday
+Second
+Today
+Mercury
+Seagull
+Sea
+Weight
+Whole
+Goodbye!
+Thanks.
+Good-bye!
+Hunger
+Goodbye!
+Why?
+Juice
+Sun
+Wednesday.
+Half-past
+Planet
+First
+Goodbye.
+Post
+Geography
+Film
+Shop
+FAQs
+History
+Singles
+Thanks
+Resources
+Youth
+Parents
+Wait.
+Wait.
+Grandchildren
+Splendid!
+Grandchild
+Career
+Friend
+Money
+Gold
+Grey
+Bedroom
+Black
+Events
+Please.
+Tools
+Red
+Yellow
+Green
+Where?
+Orange
+Pink
+Purple
+Brown
+Picture
+Silver
+White
+Please
+And
+Good-bye
+Children
+Good-bye
+Again?
+Father
+Species
+Excellent!
+Mother
+Vertebrae
+videos
+Share
+public
+Public
+projects
+Projects
+pictures
+Education
+You
+Grandfather
+References
+Good
+Night
+Children
+Evening
+Afternoon
+Child
+Day
+Morning
+Daughter
+Okay
+Son
+Sister
+Brother
+Aunt
+Marriage
+Uncle
+Grandmother
+Dining-room
+Contact
+Paper
+Dictionary
+Table
+Chair
+Thanks.
+Bag
+Ruler
+Hurry!
+Splendid
+Hurry!
+Brilliant
+Hello!
+Hello
+Pencil
+Musicography
+Pen
+Goodbye
+Download
+Personnel
+Wifi
+Hundred
+Far
+Station
+Book
+Broad
+Gallery
+Street
+Go.
+Discography
+Go.
+References
+Church
+Garden
+Rock
+Fox
+Pig
+Chicken
+Mouse
+Fish
+Spider
+Butter
+Butterfly
+Rat
+Cat
+Cupboard
+Cow
+Rabbit
+Door
+Fly
+Frog
+Badger
+Bread
+Hall
+References
+Dog
+Horse
+Search _backwards
+I remember.
+_Search for:
+Of course.
+Go away.
+Send files…
+Set variables.
+Browse files…
+Home folder
+New Terminal
+Next track
+Log out
+Keyboard Settings…
+Sound Settings…
+I understand.
+I'm trying.
+Lock Screen
+Restart Anyway
+_Log Out
+It's snowing.
+I came.
+Author: %s
+%ds remaining.
+filename expected
+I forgot.
+Well done!
+Background image
+Say something!
+I'm retired.
+Don't worry.
+Excuse me.
+Good afternoon.
+I forgot.
+Good afternoon.
+I'm going.
+(on %s)
+Fuck off!
+Excuse me.
+And you?
+I'm tired!
+Enter password:
+Of course!
+Lock screen
+I see.
+Language: %s
+I'm staying.
+I came.
+Power Off
+Previous track
+Toner empty
+Printing stopped
+Printer warning
+Updates plugin
+I'm cold.
+It's raining.
+How beautiful!
+Door open
+Come quickly!
+_Open URL
+No description
+You're hungry.
+Save Image
+Don't wait.
+Be quiet.
+Send _To…
+Forgive me!
+She's coming!
+I'm eating.
+It snowed.
+_Add Bookmark
+See you.
+Text Editor
+Editor Font
+I eat.
+Device _category:
+Don't cry.
+Don't cry.
+Good job!
+Unknown (%s)
+Come in!
+You're hungry.
+%s (%s)
+_Wrap Around
+Go there.
+D_on't Save
+They ran.
+Come now.
+I eat.
+You're pretty.
+Don't wait.
+Be happy!
+Not found
+Stand up.
+I work.
+_Next Page
+_Previous Page
+Launch %s
+Page %s
+of %d
+Document Viewer
+Hi, friend!
+Look there.
+Starting %s
+Hello, girls.
+XPS Documents
+Print Preview
+Device _type:
+We know.
+Paper Size:
+I'm reading.
+I read.
+Stay here!
+Page %d
+Forgive me.
+See you!
+I understood.
+Enter password
+Open Document
+It works.
+It rained.
+New Paragraph
+Tea, please.
+That's chicken.
+Audio device
+I'm Farshad.
+She runs.
+Board games
+I'm loved.
+Write soon!
+Action games
+Web Applications
+Write Spanish.
+Desktop accessories
+Good morning.
+She's thirty-three.
+I study.
+Write Spanish.
+I study.
+He runs.
+He runs.
+Good evening!
+Select Command
+Office Applications
+System settings
+Personal settings
+Good evening!
+Scientific applications
+Strategy games
+Sports games
+You run.
+Simulation games
+Personal preferences
+Role playing
+He ran.
+Come quickly.
+Universal Access
+I walk.
+_Copy URL
+Bluetooth Settings…
+You're beautiful.
+GNOME Library
+Goodnight, Mother.
+About GNOME
+%(name)s: %(value)s
+Device Setup
+PIN _options...
+I'm waiting.
+I'm working.
+Video device
+Don't leave!
+Don't leave!
+Device Search
+System Tools
+You're beautiful.
+No name
+Don't come.
+Office Applications
+Don't come.
+Don't go.
+Graphics applications
+Build Date
+I can't.
+She came.
+Multimedia menu
+He came.
+%a %R
+Unknown Display
+Good day!
+She's beautiful.
+Bluetooth settings…
+Charge level
+%l:%M:%S %p
+Come outside.
+It's warm.
+Fish, please.
+Take care.
+Never mind.
+Never mind!
+I try.
+Yes, two.
+Invalid Month
+Yes, two.
+Good day.
+I'm buying.
+Come here.
+Last year
+No smoking!
+Running Applications
+I'm thirsty.
+It's cold.
+External links
+She's Laurie.
+I'm singing.
+I'm happy.
+I'm happy.
+Official website
+She's five.
+Hurry up.
+Search music
+Hurry up.
+Earlier today
+I'm tired.
+I'm tired.
+Merry Christmas!
+I'm thirsty.
+Windshield wipers
+All Applications
+Installed on
+Logging in…
+_Add Source
+Choose _Server
+Download from:
+Edit Source
+New mirror
+Insert Disk
+CD Name
+Import key
+%s (%s)
+%s Software
+%s updates
+Testing Mirrors
+Software Sources
+Login Screen
+Search plugins
+Onscreen keyboard
+Developer Site
+Free Download
+Hardware requirements
+Size %s
+Version %s
+Software center
+Local apps
+Dash plugins
+Recent apps
+Recently used
+Log In
+Email address:
+Set Up…
+%s (Default)
+Session Options
+Music industry
+TIFF Documents
+More suggestions
+Installing updates…
+He's reading.
+Filter results
+We eat.
+He's crying.
+Cultural influence
+Solo albums
+We eat.
+Right Mouse
+Middle Mouse
+Left Mouse
+Solo EPs
+Appears on
+Hide Launcher
+Background Color
+We're doctors.
+Music career
+Parliamentary service
+Software Updater
+We understand.
+You're thirsty.
+You're thirsty.
+We're listening.
+She left.
+We're working.
+I slept.
+I slept.
+I'm listening.
+%s base
+He left.
+Other updates
+Select _All
+Version %s:
+_Check Again
+Early life
+Good afternoon!
+Hide Handles
+This Computer
+Friends Photos
+My Photos
+Music store
+They smoke.
+Buy Now
+Popular music
+Wrong password
+Purchase completed
+Authorizing purchase
+Thank you.
+Digital CD
+Purchase started
+Search Flickr
+Search Facebook
+Search Shotwell
+External links
+Show Handles
+Support _UNITY_NET_WORKAREA_REGION
+Ubuntu Desktop
+Safely remove
+Workspace Switcher
+Show Desktop
+It rains.
+Test drive
+Last Updated
+My videos
+Search videos
+Uploaded on
+Uploaded by
+Happy Christmas!
+It's beautiful.
+Search Picasa
+Remote videos
+Be quiet!
+%s %s
+Internal Error
+We're reading.
+She walks.
+I'm sleeping.
+AC Adapter
+We're trying.
+New Messages
+I'm sad.
+I know.
+I know.
+Don't complain.
+Don't complain.
+Clear All
+Don't ask.
+Who's he?
+Don't ask.
+Cell phone
+We're going.
+Shut Down
+Coffee, please.
+Log Out
+I waited.
+Battery settings…
+Power Settings…
+I waited.
+(%s, %.0lf%%)
+%s (%s)
+%s (charged)
+%0d:%02d left
+Don't shout.
+Don't shout.
+Good night.
+Media player
+Plants grow.
+%a\\u2003%l:%M %p
+Don't study.
+What happened?
+And now?
+I'm hungry!
+Very strange.
+I sing.
+I drink.
+What's this?
+You idiot!
+I'm driving.
+It's hot.
+It's hot.
+Good night!
+Good night!
+Good luck!
+Thank you!
+Tomorrow\\u2003%l:%M %p
+Thank you!
+I'm leaving.
+Don't study.
+You're trying.
+Alarm %s
+Add Event…
+Take care!
+Stand up!
+Hands up!
+Good morning!
+%b %e
+Good evening.
+I left.
+Come in.
+%l:%M %p
+Come in.
+I'm French.
+Ubuntu Help
+System Settings…
+Online Accounts…
+Supported Software
+She's coming.
+I'm rich.
+I know!
+Not found
+You're rich.
+They sing.
+We're sad.
+Previous Purchases
+For Purchase
+Canonical Partners
+Web Browsers
+File Sharing
+Web Development
+Install Anyway
+Developer Tools
+I'm mean.
+They dream.
+I'm coming.
+Goodbye, Sayoko.
+Hello, Tom.
+Wait here.
+Error Details
+I'm hungry.
+Thank you.
+Happy Easter!
+What's that?
+We're cold.
+DVD burner
+DVD drive
+CD drive
+Good luck.
+Universal Access
+What’s New
+Software Center
+Chinese (traditional)
+Chinese (simplified)
+Choose Playlist
+I run.
+How much?
+I'm dancing.
+Volume (muted)
+Shut Down…
+We're dancing.
+Log Out…
+Guest Session
+Lock/Switch Account
+Lock/Switch Account…
+Switch Account
+Switch Account…
+Excuse me!
+Excuse me!
+Speak slowly!
+Web authentication
+%u Mb/s
+Bonobo Support
+Miscellaneous message
+Error message
+Warning message
+%s _Help
+Informational message
+We're surprised.
+Label Empty
+I'm surprised.
+We're leaving.
+You're wealthy.
+Language Support
+System events
+PostScript Documents
+Good morning!
+It’s cloudy
+Fruit juice
+A mug
+a hand
+A cup
+a weapon
+a grave
+a gift
+an ear
+Blooming amazing
+a day
+Cornish singing
+big thanks
+They're hungry.
+black horses
+happy learning!
+fair women
+A glass
+To drink
+To eat
+Penzance Crew
+greater power
+a key
+Apple juice
+I'm learning.
+Singing Expedition
+a guardian
+a trumpeter
+a carver
+a tailor
+an enchanter
+a pursuer
+a writer
+a priest
+Happy birthday
+How many?
+PDF Documents
+They write.
+I like
+I know
+Take care!
+I’m hungry
+Orange juice
+Can I?
+Come here!
+Pub Chat
+No smoking.
+Pub Singing
+a leader
+a saviour
+I love
+It seems
+Good stuff
+We remember.
+Better left
+Than taken
+Good idea!
+The weather
+Five past
+That's wet.
+Very nice
+Surf’s up!
+A-Z list
+That’s true.
+Place names
+Five to
+That's wet.
+Ten to
+Ten past
+Tom's wounded.
+Quarter past
+Tom's strong.
+Where is?
+Cornish Crew
+good news
+Splendid news
+Bonfire Night
+Proper job!
+I do
+Many thanks
+I make
+Carol Concert
+That's wet.
+Christmas Play
+cheer up
+I have…
+That's wet.
+really amazing.
+Tom waited.
+phrase books
+Splendid News
+Hello everyone
+Good luck
+We waited.
+The forecast
+Better than
+Really amazing!
+I can
+a tinner
+a reaper
+I'm smoking.
+Room 314
+Ah thanks.
+I worked.
+I worked.
+Tom died.
+Tom knows.
+Today now
+That's beautiful.
+It’s snowy
+Latest news
+That's beautiful.
+Surf’s up!
+See this!
+Sand castles
+Ice cream
+Happy Easter
+What’s that?
+Merry Christmas
+Eight o’clock
+Room 314?
+Not yet.
+Your mother
+Thanks. Alright?
+I walked.
+Good dog!
+I swam.
+I understand!
+They waited.
+They lied.
+They left.
+I am
+Latest news
+They're dancing.
+Five o’clock
+They're going.
+They're leaving.
+They're surprised.
+Good enough
+Learning materials
+They're trying.
+They're waiting.
+You’re welcome
+Oh! Welcome
+Your father
+My father
+Very good
+Ten to
+Merry Christmas!
+Quarter past
+my man
+my son
+to dig
+To teach
+to love
+to bind
+to break
+to put
+to see
+my light
+to come
+a tiler
+a wizard
+a fisherman
+a counsellor
+a rower
+a fuller
+a dyer
+a weaver
+a cooper
+a wrestler
+to go
+my father
+That’s correct
+We're happy.
+our head
+our friend
+our father
+our hair
+our grace
+our light
+our man
+our son
+my hair
+his head
+his father
+his hair
+his grace
+his light
+his man
+his son
+For you
+my head
+my friend
+This morning
+his friend
+Twenty to
+Our Voice
+I walked.
+To get
+In the
+Your name
+The Kitchen
+To take
+I'm displeased.
+I'm Rat!
+To find
+I'm displeased.
+To sleep
+I ran.
+I know!
+To eat
+To race
+Spicy vegetable
+I'm twelve.
+Tell Tom.
+Traditional graphs
+Stay here.
+I shouted.
+To sing
+I swim.
+Test ^memory
+With what?
+Someone's singing.
+Say something.
+To laugh
+^Install Mythbuntu
+Boot Options
+To run
+Never mind.
+Power Off
+I'm twelve.
+Other Options
+Expert mode
+Why not?
+High Contrast
+To walk
+Screen Reader
+Keyboard Modifiers
+On-Screen Keyboard
+Dropped it
+I'm Mug!
+Where’s Margaret?
+Braille Terminal
+Twenty past
+DVD Error
+To speak
+I ran.
+^Install Lubuntu
+Too boring
+Where is?
+^Install Xubuntu
+To feel
+^Install Edubuntu
+Boot loader
+I/O error
+^Install Kubuntu
+^Install Ubuntu
+To sense
+To hear
+To drink
+I'm thirty-four.
+I knew.
+^Start Kubuntu
+It’s misty
+Add account…
+See you!
+I'm hungry!
+Land line
+Online Accounts
+It’s bad
+It’s sunny
+Good night!
+Again please
+excellent news
+We are
+Good evening!
+There is
+It’s windy
+excuse me!
+E-mail address
+It’s wet
+Cornish Dictionary
+Good afternoon!
+Social media
+Right boy!
+Not embedded
+Half past
+It’s cold
+Error %s
+It’s hot
+Grant access
+I knew.
+Good day!
+TrueType (CID)
+I like chocolate.
+Is that sweet?
+The girls work.
+I liked Tony.
+I hate milk.
+I found Tony.
+Is that sweet?
+With The Pipettes
+I am French.
+Where am I?
+I am working.
+I'm drinking milk.
+I've seen it.
+I can't smoke.
+Who is he?
+How are you?
+Today is Tuesday.
+I've been listening.
+You liked chocolate.
+Where's my car?
+I don't know.
+I can't sing.
+I'm eating here.
+I like cake.
+He is afraid.
+He must come.
+You are rich.
+He is afraid.
+I am rich.
+You are rich.
+Who was that?
+He is afraid.
+They aren't hungry.
+You can't swim.
+Cold water, please.
+Pirates are cruel.
+Happy New Year!
+Where is Laurie?
+Yes, she does.
+Yes, he does.
+Who are you?
+Yes, it does.
+She is ill.
+Where's your dog?
+Who are you?
+Where's your bag?
+I'm a baker.
+Where are they?
+What's his name?
+Early career (2002–2004)
+I like cats.
+Who are you?
+Tom is wounded.
+It'll snow tomorrow.
+He is happy.
+I like butterflies.
+Look at him.
+He can swim.
+I'm not tired.
+I've been preparing.
+He writes books.
+He hates Nancy.
+I'm not surprised.
+I hate snow.
+He is eight.
+I love you!
+The birds sang.
+I dislike Tom.
+Help me, please.
+Is this wine?
+It's too hot.
+Are you sad?
+Where’s room 314?
+She sang happily.
+He was hungry.
+Who is she?
+I've been working.
+I can't paint.
+She isn't poor.
+They went fishing.
+She is eight.
+She is thirty-one.
+She likes wine.
+They like English.
+They hated Tom.
+They like apples.
+Cornish Magi Ann
+You liked chocolate.
+She went shopping.
+We must talk.
+That's my wife.
+Is that true?
+I hate rain.
+I couldn't sleep.
+Death and succession
+Delicious mince pies
+Tom hates school.
+I love autumn.
+I like bread.
+I couldn't sleep.
+What's its name?
+I like French.
+Are you surprised?
+She is happy.
+I hate French.
+I am tired!
+You’re welcome. Goodbye
+Must I hurry?
+I was sleeping.
+Hot Cross Buns
+I like cheese.
+I hate homework.
+Look at me.
+You are thirsty.
+Look at me.
+I like apples.
+Alright, thanks, you?
+I like traveling.
+Where is Cornwall?
+I am studying.
+I can jump.
+I love her.
+Easter Egg Hunt
+Is this Tom?
+You are thirsty.
+Laurie hates school.
+I was watching.
+Spring is here
+Twenty five past
+I don’t know
+They are hungry.
+She can come.
+Was Tom busy?
+She is late.
+She is late.
+He is late.
+Talk to me.
+You like apples.
+You like apples.
+List of winners
+Is that all?
+He is late.
+He is late.
+I like Tatoeba.
+It was raining.
+You prefer coffee.
+It’s six o’clock
+It’s seven o’clock
+Yes, she will.
+It’s eight o’clock
+Yes, she will.
+It’s five o’clock
+I can't see.
+It’s one o’clock
+It’s two o’clock
+Please forgive me.
+Please forgive me.
+Please forgive me.
+Please forgive me.
+You prefer coffee.
+How's the weather?
+Tom hates parties.
+He hates parties.
+It’s three o’clock
+They like Mary.
+It’s four o’clock
+She likes Mary.
+I like Mary.
+Mary wasn't there.
+What was there?
+What is there?
+What was here?
+I don't smoke.
+I hated school.
+She likes animals.
+Can you swim?
+Can you swim?
+Can you swim?
+Tom is dead.
+Are you happy?
+Listen to me!
+I love you.
+Listen to me!
+Where are you?
+Where are you?
+Twenty five to
+I hate children.
+It is raining.
+It is raining.
+Can you swim?
+I can't say.
+Can you swim?
+That's my dog.
+History and tactics
+Good morning, everyone.
+Good morning, everybody.
+Do you remember?
+I hate fish.
+Do you remember?
+It’s nine o’clock
+It’s ten o’clock
+It’s eleven o’clock
+It’s twelve o’clock
+You are beautiful.
+You are beautiful.
+List of episodes
+I was playing.
+It's snowing now.
+I was smoking.
+It's raining now.
+She will work.
+Tom is dead.
+Which one is…?
+Turn it off.
+She hates parties.
+I'm not dead.
+Are you working?
+They like girls.
+I'm leaving now.
+I must know.
+Her birthday is…
+His birthday is…
+Dogs can swim.
+Do it yourself.
+You're my enemy.
+She likes girls.
+Where's the dog?
+She likes money.
+I was running.
+I am trying.
+He's a werewolf.
+I'm Tom's grandmother.
+Tom has died.
+We are doctors.
+I won't die.
+Life and career
+I like tea.
+What was that?
+What was this?
+That's his horse.
+What is that?
+She is running.
+That's his horse.
+She is running.
+Mary knows nothing.
+I hate winter.
+I like dogs.
+I'm very tired.
+I am sleeping.
+Tom is strong.
+We are hungry.
+My birthday is…
+We are doctors.
+That's my dictionary.
+I was singing.
+I was learning.
+Where is this?
+We like snow.
+What're you doing?
+Read this book.
+Mary likes snow.
+She likes snow.
+Who broke this?
+He likes snow.
+Where's the butter?
+They hate parties.
+Come back soon.
+We hate parties.
+I like sport.
+That is all.
+Mary hates parties.
+He left early.
+They're not hungry.
+What is it?
+That's my dictionary.
+They like snow.
+I am coming.
+Happy New Year!
+Read this book!
+Read this book!
+Read this book!
+I was hungry.
+Good night, Mom.
+I was travelling.
+I was listening.
+It rained yesterday.
+Mary knows me.
+Today is Sunday.
+She likes beans.
+Today is Sunday.
+Today is Sunday.
+We met Mary.
+You broke it.
+Ken is happy.
+Three coffees, please.
+Where's my book?
+She left early.
+It's your turn.
+That's her girlfriend.
+I can't look.
+I considered that.
+Look, it's snowing!
+I could try.
+I could walk.
+I can't swim.
+I hate parties.
+I hate that.
+I hate that.
+You are watching.
+I hate this.
+I'm a woman.
+I like beer.
+I like blue.
+I like girls.
+I like this.
+I like that.
+I like that.
+That's a boat.
+That's a boat.
+I like this.
+I hate this.
+They are going.
+They are watching.
+You are coming.
+They'll find us.
+They'll find us.
+Where’s Tesco’s then?
+This is ice.
+This is ice.
+They'll find us.
+By the Station
+I can't sleep.
+I'm learning English.
+I will work.
+They're not sure.
+Tom likes snow.
+Is that far?
+Come to me.
+Come to me.
+Come to us.
+I can run.
+Come to us.
+I can't leave.
+I am lost.
+Today is Friday.
+Today is Thursday.
+That's her girlfriend.
+We are watching.
+I like women.
+I love Australia.
+I must continue.
+I must leave.
+How's the dog?
+Open these doors.
+I'm learning Basque.
+Please don't argue.
+This book's new.
+Please go ahead.
+I can't fly.
+Please go ahead.
+Speak to me.
+Speak to me.
+Who's your teacher?
+Who's your teacher?
+Talk to us.
+Talk to us.
+That was beautiful.
+That was beautiful.
+That was beautiful.
+He disliked school.
+I heard you.
+That's my brother.
+That's my sister.
+That's my sister.
+Look at us.
+It snows outside.
+Look at us.
+Tom's so old.
+Happy birthday, Shishir!
+Happy birthday, Shishir!
+He's my father.
+I must run.
+I ran home.
+Lost I reckon!
+I'm eating now.
+I remember that.
+I was working.
+I will stay.
+I won't come.
+I'm an accountant.
+I'm coming back.
+I'm not thirsty.
+I've been drinking.
+I've been practicing.
+I've been waiting.
+I've been watching.
+Don’t say that!
+Is that coffee?
+Is that enough?
+Is this new?
+Is this OK?
+It was snowing.
+That's old news.
+They won't come.
+They weren't there.
+I hated Tom.
+I like Tom.
+Is that French?
+I liked Tom.
+This is terrible.
+This is terrible.
+This is terrible.
+This is terrible.
+I am eating.
+I'm Tom's mother.
+Listen to me.
+Eat your food.
+Listen to me.
+He went shopping.
+Today is Wednesday.
+Tom didn't listen.
+Tom didn't understand.
+Tom is wet.
+Tom is wet.
+Tom knows that.
+Tom saw her.
+Tom saw him.
+Tom saw it.
+Tom saw it.
+I'm Tom's mother.
+He is reading.
+We must go.
+This is OK.
+This is OK.
+We are coming.
+I hate soccer.
+Where art thou?
+This is strange.
+This is strange.
+I am going.
+How are you?
+This is strange.
+This is sweet.
+This is sweet.
+I'm not sure.
+What are these?
+Write your name.
+Write your name.
+This is sweet.
+I am thirsty.
+I am thirsty.
+What's Tom reading?
+What's Tom reading?
+I like English.
+We considered that.
+We must party.
+We could read.
+In the fridge
+I like horses.
+We must speak.
+We must try.
+I like men.
+She's my wife.
+She's my wife.
+You can come.
+You can come.
+We must wait.
+You must work.
+You must work.
+That was yesterday.
+They fixed it.
+I'm working tomorrow.
+They fixed it.
+They found Tom.
+They hate Tom.
+I want snow.
+They hate women.
+They love Tom.
+They must come.
+They ran outside.
+They spoke French.
+They spoke French.
+Where’s the butter?
+They won't come.
+Look at me!
+Yesterday was cloudy.
+Good morning Deborah!
+We could try.
+We could wait.
+Are you coming?
+I hate snow!
+I hate Tom.
+Come with me!
+Come with me!
+It's five o'clock.
+We could walk.
+I'm not hungry.
+I'm not hungry.
+Good morning Rod!
+We leave tonight.
+We must continue.
+In the Bedroom
+In the Dining-room
+That's her boyfriend.
+That's her boyfriend.
+We must help.
+We must hurry.
+We must leave.
+We must run.
+Where’s the bread?
+Look at me!
+It's your turn.
+That's old news.
+These are good.
+It is warm.
+I'm coming home.
+This is big.
+This is big.
+Everybody knows that.
+Those are sunflowers.
+This is big.
+She liked that.
+She liked that.
+You must go.
+You must go.
+I'm really sorry!
+We are happy.
+I need money.
+I need money.
+This is big.
+I am happy.
+I am happy.
+I am cold.
+I dislike coffee.
+I hate coffee.
+What's your age?
+This is food.
+There is lightning.
+These are animals.
+This is cold.
+That's a book.
+I'm drinking coffee.
+Where's the bank?
+It's raining again!
+I am windsurfing.
+He fooled her.
+He fooled her.
+See you tomorrow.
+She lives nearby.
+It's raining outside.
+That's my cat.
+That's my cat.
+This is good.
+She's my sister.
+She's my sister.
+What is that?
+This is good.
+We study Arabic.
+This is ugly.
+This is ugly.
+This is ugly.
+This is cold.
+This is cold.
+This is cold.
+He washes himself.
+He speaks Arabic.
+Come with me.
+Come with me.
+You must leave.
+You must leave.
+We're eating apples.
+They're eating apples.
+Go Cornish Awards
+I'm behind him.
+I must study.
+I am tired.
+Classes and groups
+What is this?
+Are you surprised?
+Is that okay?
+They were hungry.
+It is snowing.
+I don't understand.
+Go Cornish Portal
+Who are you?
+How’s it going?
+How are you?
+He is sick.
+He is ill.
+He is ill.
+These are birds.
+What's your name?
+Today is Monday.
+What's your name?
+She is beautiful.
+Are you thirsty?
+Are you thirsty?
+Are you hungry?
+Are you hungry?
+Are you hungry?
+I'm very hungry.
+She’s a secretary.
+Come with us.
+Come with us.
+I've seen that.
+This is true.
+This is true.
+This is true.
+This is true.
+How’s your mother?
+And two sisters.
+Are they married?
+Is that snow?
+I continued working.
+Is that cake?
+I hate cake.
+Are you married?
+Are you married?
+Why Go Cornish?
+She likes oranges.
+I am hungry.
+These are daisies.
+Half-past five, exactly
+I can't remember.
+It's snowing there.
+It's raining there.
+It rains there.
+It's snowing here.
+It's raining here.
+I love him.
+You could run.
+You could start.
+You could start.
+You could try.
+I'm going home.
+What's that butterfly?
+You could try.
+You must come.
+You must come.
+You must eat.
+You must eat.
+You must hurry.
+They left early.
+He's my brother.
+What's the time?
+You must hurry.
+Speak slower, please.
+Speak slower, please.
+What's her name?
+I'm so tired.
+I prefer coffee.
+I'm eating lunch.
+It will be
+These are heavy.
+These are new.
+And to drink?
+This is odd.
+This is odd.
+Where's my brother?
+I want coffee.
+Where's your phone?
+Pasty. I’m starving
+I like snow.
+I can't see!
+This is odd.
+Who was it?
+You can't go.
+You can't leave.
+You can't see.
+Watch your weight!
+You can't understand.
+You could help.
+You could help.
+I like spring.
+You could run.
+He has come!
+You must listen.
+You must listen.
+You must return.
+These are pens.
+Who teaches you?
+I prefer dogs.
+Where is it?
+Is this true?
+Who wants cake?
+Today is Saturday.
+That is wet.
+That is wet.
+That is wet.
+That is wet.
+Do you know?
+Do you know?
+That was good.
+That was good.
+It's one o'clock.
+I can't talk.
+Pardon me, please.
+He is running.
+He is running.
+He is running.
+It's snowing today.
+I dislike eggs.
+I'm a student.
+I'm a student.
+I saw him.
+Ingo loves her.
+This is good.
+You must return.
+He was thirsty.
+She's my daughter.
+You must run.
+You must run.
+You must stop.
+You must stop.
+You must try.
+You must try.
+I understand you.
+I understand you.
+You weren't there.
+You weren't there.
+That's a lie.
+That's a lie.
+This is good.
+This is new.
+This is new.
+This is new.
+This is new.
+Is this French?
+Is this French?
+Where is he?
+Where is he?
+This is food.
+This is OK.
+I live in…
+I can go
+Launch help browser
+Launch email client
+That is ugly.
+Log Out Anyway
+That is ugly.
+That is ugly.
+That is ugly.
+I like water.
+Family Treasure Trail
+See you there
+Take a look
+It's a miracle
+will you go?
+Tonight’s bedtime story
+Startup Applications Preferences
+Edit Startup Program
+Take a look
+Add Startup Program
+I am loving
+Have you heard?
+I am loved
+shall I love?
+let’s do it!
+Trick or treat?!
+Five hours ago
+Four hours ago
+Three hours ago
+Two hours ago
+food and drink
+1 hour ago
+Take a screenshot
+Increase text size
+Tom washed himself.
+Search running applications
+plenty of corn
+Last 7 days
+Last 30 days
+you are invited
+see y’all there!
+The Cornish Lad
+Files & Folders
+List coreboot tables.
+I was dancing.
+Title for terminal
+a powerful man
+Launch web browser
+a fair woman
+Show in Folder
+Bottom Button #%d
+Scott Mann speaking
+the old man
+the old woman
+This isn't silver.
+This isn't silver.
+Marker supply low
+the joyful ones
+%s %s remaining
+sweeter than honey
+I will go
+I would go
+Show On-Screen Help
+I like coffee.
+Three weeks ago
+I'm a dog.
+Games and amusements
+Search music collection
+Listen to her!
+Listen to her!
+Search music store
+He can fly.
+Listen to her.
+Sound & Video
+Listen to her.
+Listen to him.
+It'll rain tomorrow.
+We're not surprised.
+Listen to him.
+He's my dad.
+I like black.
+Last 30 days
+Last 6 months
+Listen to them.
+This is OK.
+By %s, %s
+Is this enough?
+I can't eat.
+I like clothes.
+Listen to them.
+I hate holidays.
+Talk to her.
+Talk to her.
+Talk to him.
+Last 7 days
+A month ago
+Where is she?
+Have you heard?
+That's their plan.
+Those are hounds.
+Role playing games
+I am writing.
+Games for kids
+The Debian menu
+let’s do it!
+Go for it!
+Easter Egg Hunt
+Spring is here
+Worse than grains
+Tom hates dogs.
+Like the bees
+Falling blocks games
+About the Akademi
+Who are you?
+Arcade style games
+Did you know?
+Adventure style games
+Have you heard?!
+Congratulations & Celebrations!
+Children without knowledge
+I can't dance.
+Chat and Nonsense
+And consider well
+I can't drive.
+Watch this space
+Get a translation
+Universal Access Settings
+Go for it!
+Talk to him.
+full of grace
+I am hungry
+I like flowers.
+Write to me.
+Server's response was:
+She's not poor.
+Choose menu item
+Write to me.
+Login was canceled
+Use This Source
+They were surprised.
+I am singing.
+I prepared dinner.
+Let's go shopping.
+Let's do that.
+I love them.
+I like honey.
+They leave tomorrow.
+Let's do that.
+I prefer English.
+I leave tomorrow.
+like and share
+I was sorry.
+Start Screen Saver
+This is rubbish.
+About This Computer
+System (Attention Required)
+Are you looking?
+Where was everyone?
+Add Software Channels
+Congratulations to you!
+I like these.
+Classic Guest Session
+I like rambling
+I hate dogs.
+Science & Engineering
+Greetings from Cornwall!
+We hate Tom.
+They must stay.
+You must stay.
+You must stay.
+I hate school.
+They don't come.
+You like girls.
+People Also Installed
+%s (already purchased)
+You like girls.
+I hate school!
+I like yellow.
+It isn't empty.
+I was reading.
+Tomorrow in Troon
+I like school.
+OpenGL hardware acceleration
+%s and %s
+Terms of Use
+It's raining today.
+You must wait.
+I hate work.
+Enter your credentials
+Ubuntu Software Center
+I want these.
+Congratulations to you!
+I can't wait.
+%a %b %e
+Ubuntu default theme
+They can come.
+Windows NT/2000/XP (loader)
+Windows Vista/7 (loader)
+It snowed yesterday.
+set font range
+Open those doors!
+Mount crypto devices.
+a man’s house
+Run a command
+Dogs are white.
+Set positional parameters.
+the man’s house
+%b %e %Y
+You like beans.
+I hate sand.
+Possible arguments are:
+timeout reading `%s'
+Background image mode.
+Load kOpenBSD ramdisk.
+Change configured devices.
+spring is here
+I drink milk.
+see y’all there!
+Search search plugins
+a horse’s mane
+You like beans.
+Installable from CD-ROM/DVD
+Date and Time
+%s (has alarms)
+_Import Key File...
+We left together.
+I am waiting.
+_Select Best Server
+And in Cornwall?
+I prefer red.
+%d %s left
+I remember this.
+Tom must come.
+It is wet.
+It is hot.
+Select desktop environment
+These are beautiful.
+It is sunny.
+Science & engineering
+Show release version
+%0d:%02d to charge
+It is hot.
+I like children.
+Those are good.
+I like raspberries.
+Go with them!
+Login as %s
+Retry as %s
+I prefer black.
+%a %d %b\\u2003%H:%M
+I was painting.
+%a %d %b
+- Unity Greeter
+Talk to them.
+I hate Christmas.
+Found 3 results
+Go with them.
+Save a _Copy
+I can't surf.
+No adapters available
+I hate fish
+Enter your password:
+I can't ski.
+Details of updates
+^Install Ubuntu Kylin
+^Install Ubuntu Netbook
+I can't walk.
+^Install Ubuntu MID
+^Install Ubuntu Studio
+Number of Pages:
+Close _without Saving
+_Save a Copy…
+She prepared lunch.
+She prepared lunch.
+Completed spell checking
+I can't stay.
+The Mysterious GEGL
+Your email address
+Paired or trusted
+Here's your dog.
+I am dancing
+Update is complete
+^Install Ubuntu Server
+I must hurry.
+Go with them.
+I’m playing guitar
+I can't watch.
+Waiting to install
+I hate hospitals.
+Go with him.
+Unknown download size.
+I hate music.
+We remember that.
+Unlock from Launcher
+I can't understand.
+Lock to Launcher
+Type your command
+Go with him.
+I ran outside.
+I’m going surfing
+^Start Ubuntu Kylin
+Building Updates List
+Go with me.
+Go to page
+Checking for updates…
+Give me strength!
+Go with me.
+Close _after Printing
+Searching for devices...
+I was speaking.
+Install a workstation
+Eject parent drive
+^Install Kubuntu Netbook
+See fewer results
+Show in Folder
+He isn't hungry.
+Who broke it?
+(%d of %d)
+Bread and water
+I like milk.
+Save a Copy
+Write to them.
+View multi-page documents
+%d of %d
+I liked that.
+On the beach!
+Write to him.
+Downloading document (%d%%)
+I ran inside.
+Write to him.
+^Dell Automatic Reinstall
+I can't read.
+Current page (Alt+P)
+She likes coffee.
+Write to her.
+Write to her.
+Friends of GNOME
+Talk to them.
+Uploading image (%d%%)
+Uploading document (%d%%)
+Same again please
+Use Default Font
+I'm too small.
+OK. Anyone else?
+I was cleaning.
+One and all
+Connecting to '%s'...
+Speak with me.
+Ctrl + Tab
+Continue your story.
+I can't go.
+I like wine.
+She doesn't know.
+Print this document
+Enlarge the document
+Who broke it?
+Free software only
+Preview before printing
+Go with her.
+Photos search plugin
+Here's your dog.
+GNOME Document Viewer
+Op_en a Copy
+Potato and broccoli?
+Install a server
+I was studying.
+Edit text files
+Write to them.
+Change Boot Disk
+Speak with me.
+Maria was standing.
+You liked to swim.
+It's five to four.
+This table is wooden.
+I'm not so good.
+%d %s to charge
+I am very hungry.
+Install a minimal system
+%.2f × %.2f inch
+I have five friends.
+I like ice cream.
+I want to help.
+^Check disc for defects
+You liked to swim.
+I have five friends.
+This table is wooden.
+He needs to leave.
+The Squeaky Rubber GNOME
+This is my brother.
+I need to stop.
+Must I open everything?
+The dog is red.
+It's ten to nine.
+It is too late.
+It is bad weather.
+I can't eat this.
+You have to leave.
+We need to talk.
+You have to leave.
+Where was the police?
+You need to stop.
+I’ve a new job
+You can't do anything.
+You can't leave here.
+She's looking at you.
+He has three daughters.
+She has three brothers.
+You need to stop.
+The weather was beautiful.
+She likes to read.
+I can't eat this.
+This is my brother.
+%.0f × %.0f mm
+The weather was terrible.
+She needs to come.
+^Rescue a broken system
+This day is Friday.
+This day is Friday.
+She likes to run.
+This bed is heavy.
+I can't eat pork.
+The dogs are wet.
+The dog wants meat.
+This is your dog.
+I have to stop.
+I can't see it.
+I have to think.
+Where are my books?
+I have to run.
+I am learning Spanish.
+That is my dictionary.
+They didn't like Tom.
+Ken has two cats.
+She can speak Spanish.
+Where is the station?
+Tom doesn't know that.
+Tom doesn't remember Mary.
+I want to buy.
+%a %d %b\\u2003%l:%M %p
+I hate my neighbors.
+You need to know.
+I hate my neighbors.
+I can't remember now.
+Tom won't eat that.
+The dog is white.
+You need to know.
+Tom won't eat that.
+Is that a fox?
+What color are those?
+Is that a bear?
+Is that a wolf?
+What will you do?
+Tom has seen it.
+I won't forget this.
+This is my sister.
+Is that your car?
+Is that your car?
+Mouse and Touchpad Settings…
+Set Up New Device…
+%a %b %e %Y
+You have seven sons.
+I don't like eggs.
+The house is cold.
+I see a lion.
+This is my sister.
+I see a lion.
+I didn't see that.
+I don't hate this.
+I don't hate this.
+%A, %e %B %Y
+Time & Date settings…
+You have seven sons.
+This is a car.
+This is a car.
+I see a lion.
+I had to leave.
+I still love you.
+She likes to drink.
+She likes these cats.
+I'm sixty-five years old
+I must go now.
+You have to try.
+You can't swim here.
+Do you like women?
+Where is her house?
+Where is his house?
+They like to sing.
+Where is a hospital?
+OEM install (for manufacturers)
+Where is Britney Spears?
+Install a LAMP server
+Install an LTSP server
+Was that a lie?
+That is my dictionary.
+Install a command-line system
+Will it rain tomorrow?
+Is my answer correct?
+I'm trying to remember.
+The dog is mine.
+This book was easy.
+I can't go there.
+What will you make?
+Tom has seen it.
+We have to leave.
+I don't understand this.
+It is somewhat old
+The dog is mine.
+You have to help.
+I could see that.
+I could see that.
+I can't speak German.
+I hate those words.
+You have to start.
+You have to start.
+You have to try.
+I'm a poor fisherman
+You have to help.
+^Try Mythbuntu without installing
+We must do this.
+Your dog is here.
+Is this your dog?
+I'm writing a book.
+I'm writing a book.
+I like to walk.
+Go to previous page
+I have to start.
+You can't do that.
+She's eating an apple.
+Web authentication for %1
+He's eating an apple.
+Go to first page
+Speaking English isn't easy.
+lesson 10 available now!
+I need to study.
+I can't read this.
+I didn't see Tom.
+He has two cars.
+We have to go.
+Go to next page
+I want to drink.
+I didn't take anything.
+We want to work.
+^Install Ubuntu Kylin Netbook
+Where are you going?
+Where are you going?
+Very well, (thank you)
+Idioms of the world!
+You have to work.
+You have to work.
+That is our father.
+Go to page %s
+He does not know.
+He's looking at dinosaurs.
+Is the weather beautiful?
+Does she like oranges?
+I don't like winter.
+You can't sell it.
+That is a dog.
+Go to last page
+You can't go now.
+I know those girls.
+I hate those things.
+I know those women.
+We need to start.
+I can't leave here.
+It's twenty past six.
+I have a dog.
+Do you speak English?
+Tom doesn't like chocolate.
+She doesn't like fish.
+He has smooth hands.
+He's twenty-four years old.
+Access Your Private Data
+Is that a bird?
+I can't remember anything.
+She wanted to travel.
+The sun is shining.
+What's this dog's name?
+The sun is shining.
+I must write books.
+Do you like these?
+That wall is cold.
+I love this song.
+That wall is cold.
+Do you like music?
+Text from the picture:
+Do you like this?
+You can't do it.
+You do not wash.
+This room is quiet.
+This room is quiet.
+What is your age?
+She disliked her husband.
+She hated her husband.
+How are you today?
+How are you today?
+Where is the newspaper?
+Automatically reload the document
+Do you like this?
+You have three cats.
+You have three cats.
+Do you like this?
+I don't like school.
+Do you like music?
+I am not sure.
+We only have tea.
+We only have tea.
+Is this your cat?
+I am too short.
+I am too short.
+We must do this.
+Don't you like parties?
+I hate my neighbor.
+I hate my neighbor.
+How old are you?
+How old are you?
+I hate that thing.
+The boy was tired.
+Is this car new?
+I hate that word.
+I wanted to help.
+I love this weather.
+Where are your parents?
+That is our father.
+He doesn't like oranges.
+Do you like snow?
+Do you like snow?
+I bought nine flowers.
+Do you like rain?
+Do you like horses?
+I don't like milk.
+Working in a bank.
+I don't like fish.
+What are you cooking?
+Are these your things?
+Are these your things?
+You'll have to start.
+What's the weather like?
+I can't stay here.
+You'll have to start.
+This dog is white.
+I like this dog.
+System, %s (Attention Required)
+Tom's dog is white.
+You can't say that.
+I can't say that.
+That is old news.
+That is old news.
+Do you like women?
+They want to come.
+Happy international Translation day!
+Do you like horses?
+Working in a supermarket
+Tom's dog is white.
+Do you like rain?
+I'm hungry and thirsty.
+He's hungry and thirsty.
+This table is clean.
+This table is clean.
+Failed to print document
+Give me the spoon.
+This beer is bitter.
+This beer is bitter.
+I have one brother.
+There were two cakes.
+We want to go.
+What time is it?
+She's hungry and thirsty.
+They want to stay.
+We have to study.
+That was a lie.
+That was a lie.
+It will snow tomorrow.
+The sky is orange.
+What do you think?
+My eyes are blue.
+The sky is red.
+Is this your cat?
+The dog is eating.
+They liked big cars.
+I must have it.
+That is my dog.
+No language information available
+Can you help me?
+You can't know that.
+I like to sail.
+Want fries with that?
+Want fries with that?
+Software database is broken
+You can't have that.
+You can't have that.
+She called her sister.
+How to learn #Cornish
+They like the idea.
+We need to stop.
+The sun was shining.
+She called her sister.
+Is the exam today?
+In a solicitor’s office.
+Install / Remove Languages...
+The dog is eating.
+Do you remember that?
+Where is my brother?
+Don't you like cats?
+Are you drinking wine?
+I can't drink coffee.
+I want to know.
+I'm 25 years old.
+She is Alan's wife.
+You can't sleep here.
+You can't eat here.
+Logic and puzzle games
+Where will Tom be?
+I don't hate school.
+He wants to go.
+I hate the rain.
+He wants to come.
+Where was the meeting?
+No, it’s Broad Street.
+You can't leave yet.
+I like dogs, too.
+She likes to sing.
+She wants to go.
+They're trying to help.
+Who are you all?
+There are many wives
+There's not enough coffee.
+That cat is brown.
+I want to go.
+The dog is black.
+You are a dog.
+I'm not a doctor.
+I'm not a doctor.
+I have to sleep.
+I prefer mineral water.
+I want to come.
+That is my book.
+I like eating cake.
+This dog is mine.
+This dog is mine.
+This is a horse.
+This is a horse.
+I have a girlfriend.
+That cat is brown.
+That cat is brown.
+That cat is brown.
+Do you see us?
+Tom is very old.
+I cannot understand it.
+She wanted to understand.
+The weather is beautiful.
+It's a new book.
+I’m not very hungry
+Those tulips are beautiful.
+"Is she young?" "Yes."
+I hate these words.
+You must eat something.
+Version of this application
+I see the dog.
+Is the weather nice?
+Click to select device...
+I hate that cat.
+I am coming today.
+Is this her umbrella?
+Do you like cheese?
+Is this his umbrella?
+Where are your children?
+I am very tired.
+I am not studying.
+Tom had three dogs.
+I see the house.
+I can't read French.
+Can you speak Cornish?
+Did you ever see?
+I don't like beer.
+You ran back here.
+You ran back here.
+I don't like cats.
+I have four children.
+Not paired or trusted
+I can't come tonight.
+I must work tonight.
+She cooks for him.
+I speak five languages.
+I must buy groceries.
+There's a restaurant here.
+I go to work.
+I wrote that book.
+Is that his umbrella?
+Is that her umbrella?
+I don't like pork.
+I cannot understand it.
+I am not working.
+Tom has three dogs.
+Tom doesn't understand French.
+You have seven children.
+I prefer to say.
+Tom lit the fire.
+I want to learn.
+Do you drink wine?
+Bluetooth New Device Setup
+I had to go.
+You need to hurry.
+You need to hurry.
+It is my dog.
+%a %b %e, %R
+He's not my father.
+He's not my father.
+He's not my father.
+I hate that sound.
+I can't go back.
+Where is the bus?
+Where is the train?
+I can't see them.
+I wrote the book.
+These are his pens.
+You have seven children.
+It is my dog.
+The sun is big.
+A leaf is falling.
+Wanda The GNOME Fish
+About the GNOME Desktop
+You can't go yet.
+Brought to you by:
+I must be there.
+He had a headache.
+I see the boy.
+I can't go home.
+Learn more about GNOME
+Cornwall Council Translation Service
+I need to travel.
+Cannot find file '%s'
+No URL to launch
+I can't eat peanuts.
+I will not come.
+I don't like that.
+I don't like that.
+Unknown encoding of: %s
+I can't eat chicken.
+Tools for software development
+I want to travel.
+I eat an apple.
+Do you like school?
+Where is his dog?
+I have a boyfriend.
+To gather their food
+Where is the school?
+This tea is good.
+Tom knows Mary's father.
+This is Tom's dog.
+Pairing with '%s' cancelled
+He has to come.
+Those are Tom's dogs.
+Tom doesn't like beef.
+Tom doesn't like cats.
+Do you like wine?
+Tom doesn't like dogs.
+Do you like wine?
+Tom doesn't like pork.
+Tom doesn't like school.
+Tom doesn't like this.
+Tom doesn't like this.
+Tom doesn't like milk.
+Is this a flower?
+He has a headache.
+System configuration and monitoring
+Do you like school?
+I need to know.
+It snowed last night.
+You have to come.
+This question is controversial.
+I don't like tea.
+Where is her dog?
+Tom doesn't like eggs.
+You can't leave now.
+Do you like tea?
+Do you like tea?
+That is a ship.
+That is a ship.
+That is a boat.
+That is a boat.
+The dog is beautiful.
+You have to come.
+I can't drink milk.
+I'm reading the newspaper.
+You must tell me.
+That is her car.
+That is her car.
+Happy St Piran's Day!
+I won't forget that.
+The dogs are white.
+I like to travel.
+It's about eleven o'clock.
+You can't do that!
+can't break 0 loops
+Cancel _print and Close
+Don't you like Tom?
+Who are those children?
+Running in presentation mode
+Don't you like Tom?
+I don't hate Tom.
+Do you have money?
+Do you have money?
+Do you have money?
+Do you have money?
+Do you have money?
+Do you have money?
+Do you have money?
+Where is a bakery?
+Where is a doctor?
+couldn't retrieve geli UUID
+I can't see it.
+Wait five minutes, please.
+I like to fish.
+^Try Lubuntu without installing
+Use driver update disc
+We like the snow.
+Where is the man?
+I have to hurry!
+Where is the rain?
+She's looking at you.
+I'm trying to improve.
+I love to travel.
+You like to swim.
+You like to swim.
+Load NTLDR or BootMGR.
+Is this our hotel?
+I am drinking coffee.
+I saw the dog.
+Delete a network address.
+I can't do that.
+GNU GRUB version %s
+Do you have money?
+She likes chocolate, too.
+List the current variables.
+I must see Tom.
+She has seven sons.
+He died last year.
+That book is small.
+That book is small.
+These apples are big.
+I love you, too.
+Where is a doctor?
+set prefix directory [default=%s]
+Tom wrote that book.
+He died last year.
+use COLOR for background
+Where is my dog?
+Did you like that?
+Did you like that?
+Did you like that?
+Did you like that?
+I am going, too.
+Failed to reload document.
+Don't you like cats?
+Advanced options for %s
+Do you understand French?
+She likes ice cream.
+The weather is terrible.
+They like to dance.
+I hate this place.
+The weather is terrible.
+Hi Deborah, you’re early
+You need to start!
+You need to start!
+You must tell me.
+Is that a fox?
+She wants to dance.
+I am not eating.
+This is my father.
+This is my father.
+I am learning Basque.
+I want to believe.
+Unsupported substitution specification: %d
+Give me the key.
+Do you understand French?
+The baby was naked.
+The baby was naked.
+I must find Tom.
+I can't talk now.
+I don't like wine.
+Is this news true?
+Open a New Document
+%s %s until charged
+Open a New Window
+What do you want?
+I can't open it!
+I can't open it!
+I hate his hat.
+These are old photos.
+provides %s laptop runtime
+He has ten children.
+Right Ring Mode #%d
+Is that your house?
+Is that your house?
+Yes, I am married.
+Yes, I am married.
+I want to dance.
+Left Touchstrip Mode #%d
+Insert boot disk %u.
+You must do it.
+Left Ring Mode #%d
+The exam was difficult.
+She has two sisters.
+I don't like spring.
+You can't come tomorrow.
+Is that your book?
+I've been writing letters.
+Match _Entire Word Only
+Match as _Regular Expression
+is the book here?
+where is the book?
+where is the book?
+Restart this system now?
+I wanted five pineapples.
+I met my friend.
+I met my friend.
+It was extremely cold.
+It was extremely cold.
+She wants to come.
+Do you like cheese?
+He's looking at you.
+He's looking at you.
+I can't eat chocolate.
+What's that dog doing?
+You must do it.
+The boy eats bread.
+The exam was difficult.
+a platter of wood
+The weather was rainy.
+I hate my neighbour.
+I hate my neighbour.
+This is Ken's dog.
+She is my daughter.
+He wants to speak.
+I want to eat.
+I want this dog.
+^Try Ubuntu without installing
+My friend helped me.
+We started at six.
+Do they like oranges?
+Do you like oranges?
+^Try Kubuntu without installing
+^Try Edubuntu without installing
+Does he like oranges?
+^Try Xubuntu without installing
+I can't tell you.
+I hate that color.
+premature end of file
+I'm not your son.
+Don't you like parties?
+a town of wood
+Load a keyboard layout.
+That car is his.
+My friend is seventeen.
+My friend is seventeen.
+My friend is seventeen.
+Use the command line
+This is your house.
+This is your house.
+I hate her hat.
+I love my mother.
+I'm not your son.
+I can't go yet.
+It isn't a hospital.
+Who wrote that letter?
+What'll you do tomorrow?
+Default number of columns
+I'm trying to work.
+She folded the quilt.
+This idea is controversial.
+This idea is controversial.
+Halt the system now?
+Check for CPU features.
+I am a woman.
+I like to eat.
+I am eating bread.
+Where is the cat?
+I can't leave now.
+I want those shoes!
+Must I speak English?
+I want your blood.
+I have four brothers.
+Can you speak English?
+I can't do it.
+I hate my family.
+He has seven sons.
+Do you like summer?
+It's my birthday today!
+Do you like summer?
+I like to dance.
+How cool is that?!
+They need to go.
+You can't go out.
+I did see him.
+I've seen the dog.
+That is my brother.
+That is my brother.
+I can't come tomorrow.
+I prefer to read.
+It’s in the diary
+You have three cars.
+The weather is bad.
+You have three cars.
+I read a book.
+I have to drink.
+We need to speak.
+Bill has many friends.
+Bill has many friends.
+Bill has many friends.
+Mrs. Brown understands Japanese.
+You need to sit.
+You need to sit.
+We need to know.
+We had to leave.
+Are you with us?
+You need to go.
+I don't like coffee.
+I read a book.
+I must leave now.
+We need to eat.
+We had to walk.
+It may rain soon.
+It may rain soon.
+We had to come.
+Tom has a dog.
+I can't sleep well.
+Do you like apples?
+Do you like apples?
+I want to see!
+Where do you live?!
+I have to eat.
+You need to go.
+It was dreadful weather.
+Fancy an ice cream?
+You could sell that.
+You can't buy this.
+I must sleep now.
+Do you like cats?
+Do you like cats?
+Tom doesn't like oranges.
+Do you like coffee?
+Do you like coffee?
+I suppose you're hungry.
+You have to go.
+You have to go.
+Do you live here?
+I have a friend.
+You can't buy this.
+You must practice grammar.
+I have a friend.
+You must work more.
+You must work more.
+How beautiful you are!
+That isn't a dog.
+I liked this film.
+Whose dog is this?
+Where is the bathroom?
+I'm not your enemy.
+I don't hate children!
+You must practice grammar.
+You could sell that.
+Where is the kitchen?
+Don't you like apples?
+You could sell that.
+You could sell that.
+We could sell that.
+We could sell that.
+Do you like fish?
+You can't buy that.
+The sky is blue.
+Who is your teacher?
+Go to Ubuntu One
+We must hurry now.
+You can't buy that.
+You must sell it.
+Where is your school?
+You must sell it.
+Please enter your password
+Where are your eyes?
+You will catch cold.
+You have many books.
+You have many books.
+What are you doing?
+What are you doing?
+You must study more.
+You must study more.
+Don't you like apples?
+Where is your school?
+You need to come.
+My New Year’s resolutions
+You need to come.
+Is this your car?
+This is a pen.
+This is Mary's dog.
+This is Mary's dog.
+Is this a radio?
+This is a pencil.
+This is a pencil.
+This is a painting.
+This is a painting.
+This is a desk.
+This is a desk.
+Is this your car?
+I don't like this.
+Is that your sister?
+This is for you.
+This is for you.
+Is this your bicycle?
+Is this your bicycle?
+Is this your bicycle?
+This is a dog.
+Tom is over there.
+This is a map.
+This is a map.
+This is their house.
+This is their house.
+I don't like this.
+This is a book.
+Is this your book?
+What are those numbers?
+This is good meat.
+I was very thirsty.
+I had four children.
+This story is true.
+This story is true.
+This book is old.
+This book is old.
+This book is heavy.
+This book is small.
+This book is small.
+Is this your book?
+This book was new.
+This apple is bad.
+This apple is bad.
+Is this your pen?
+Is this your pen?
+Is that your room?
+Is that your room?
+This is your book.
+This is your book.
+Is this your book?
+Is this your book?
+These dogs are big.
+These dogs are big.
+You need to leave.
+Who was that girl?
+Where is the book?
+See you all there!
+This is our house.
+Our Words Sing Still
+They need to talk.
+It is a book.
+It is a book.
+The 2020 Skians Conference
+You need to leave.
+I'll feed the dog.
+Do you like animals?
+Mary likes watching TV.
+Don't open the door.
+Where is the toilet?
+what colour is it?
+I was very hungry.
+You need to help.
+Tom doesn't like cheese.
+Where was Tom born?
+Tracy lost her glasses.
+You need to help.
+What time is it?
+You need to sleep.
+Those are my shoes.
+Who wrote the letter?
+Their cakes are good.
+These cars are big.
+These books are new.
+These are our desks.
+These are my pencils.
+These are my books.
+Is that a dog?
+I’ve got a hangover
+We could start again.
+I am not hungry.
+My New Year’s resolutions
+Isn't that Tom's dog?
+Do you like animals?
+Jane comes from Australia.
+new year, new you
+Where are your kids?
+John is my nephew.
+Do you remember this?
+Do you have family?
+This chair is ugly.
+This chair is ugly.
+How's the weather there?
+Where is the bank?
+I like the dog.
+You need to listen.
+Tom didn't see you.
+I need to swim.
+Is that your girlfriend?
+Do you like dinosaurs?
+Do you like dinosaurs?
+Is that for me?
+Is that for me?
+I don’t want to
+I like to drink.
+Is that a crime?
+She is Alan's wife.
+It was warm yesterday.
+I’m big; very big!
+I can't read yet.
+She doesn't need money.
+Have you any mugs?
+I could kiss you.
+I could kiss you.
+Do you like dogs?
+I could kiss you.
+I can't swim yet.
+I could kiss you.
+I had to hurry.
+Is this my passport?
+I like to read.
+After the Pipettes (2010–present)
+I have to go.
+Software index is broken
+I hate this school.
+Downloading list of changes...
+Do you like dogs?
+Give me those things.
+We have to speak.
+Have you any mugs?
+I hated the idea.
+Did you see Tom?
+Have you any mugs?
+Can Tom come, too?
+I can't write yet.
+That book is old.
+Did you drink wine?
+This isn't my dog.
+We need to win.
+It's not a dog.
+The woman eats bread.
+Where is the hospital?
+I can't sing well.
+I must do it.
+They don't like cats.
+Open Link in Browser
+I can't drive yet.
+I hate sweet drinks.
+She sees your horse.
+I like to write.
+He sees your horse.
+Don't smoke in bed.
+Opera and adult life
+Did you see Tom?
+I like your dog.
+%s will be downloaded.
+We must finish this.
+I had to stop.
+We need to go.
+They are not coming.
+We could talk now.
+The plants are growing.
+My dog is big.
+I don't like cheese.
+I had a son.
+I could do it.
+It's now half-past six
+We need to hurry.
+Show version and exit
+I had to wait.
+What will we eat?
+What will we eat?
+You can't sit there.
+I had to run.
+Where do you live?
+I've got five minutes!
+I can't work today.
+I need to eat.
+He must leave now.
+We need to leave.
+And here I am!
+European anchovy, Engraulis encrasicolus
+I prefer to walk.
+She has a headache.
+Install All Available Updates
+I want to stay.
+Tom doesn't like coffee.
+I hate Tom now.
+You can't go there.
+She has red flowers.
+She has red flowers.
+We have to talk.
+You must work together.
+SOURCE: Debrett's Baronetage 1839.[9]
+You must work together.
+You must try this.
+You must try this.
+We must work now.
+You must try this.
+You must see this.
+You must see this.
+You must see this.
+You must see this.
+Do they like wine?
+I don’t like broccoli
+It's now six o'clock
+You must leave now.
+You must leave now.
+You must come home.
+You must come home.
+You must try this.
+That book is old.
+Do you like Tom?
+Do you like Tom?
+Tom couldn't find Mary.
+Is that your mother?
+What must you do?
+It's quarter past six.
+You can't go outside.
+He shouted for help.
+Thanks. And for you?
+We're trying to understand.
+You have to hurry.
+Source: American Astronomical Society
+Search your Picasa photos
+Is that your mother?
+You can't sing here.
+Nobody knows his name.
+Google Docs search plugin
+I don't want to.
+It's the last train.
+Open a New Window
+I shouted for help.
+You must eat something.
+What are you doing?
+Where are the others?
+She has a cold.
+She likes her job.
+There is … here
+Was Tom very busy?
+They like their job.
+Do you like chocolate?
+What color is it?
+I have a headache.
+Tom doesn't like children.
+What is your number?
+You have to hurry.
+%s x %s pixels
+There is no answer
+I want a dog.
+Say Something in Cornish
+That skirt is long.
+She prepares their food.
+I often eat apples.
+I must go home.
+Tom didn't see it.
+I have eight brothers.
+I have a cow.
+Your horse is beautiful.
+Your horse is beautiful.
+I want an apple.
+She speaks seven languages.
+Raspberries are very expensive.
+I have a book.
+Excuse me again please
+The house was big.
+What colour is it?
+Richard Wagner in 1871
+Drop To Add Application
+Safely remove parent drive
+He is wasting time.
+Tom walks the dog.
+Does he have money?
+I don't like snow.
+Tom doesn't like women.
+We could do that.
+We could do this.
+We could sing together.
+We must go back.
+We must go now.
+We must remain here.
+What colour is it?
++ 1 to 9
+You could do that.
+You could do this.
+You could do this.
+You could go home.
+You could go home.
+Have you seen Tom?
+You must go back.
+You must go back.
+You must go now.
+What's wrong with me?
+You must go now.
+Have you seen Tom?
+Does she have money?
+I like your dogs.
+I like that dog.
+They have a son.
+We could go together.
+Those are not fish.
+She had a headache.
+She folded a blanket.
+There was … here
+There is … there
+There was … there
+She wants to speak.
+You must eat something.
+What’s your phone number?
+We must start now.
+I must find work.
+Yes! Into my beer!
+She speaks three languages.
+He speaks four languages.
+Those women are strong.
+Do they have money?
+Do they have money?
+Does she have money?
+The title means 'think'.[12]
+He needs a taxi.
+I'm twelve years old.
+She needs a taxi.
+I read his book.
+Tom is still crying.
+This river is beautiful.
+Is that your boyfriend?
+The birds are singing.
+I want to try.
+She speaks Spanish well.
+Who wrote this letter?
+I dislike big cities.
+I must say something.
+I must see it.
+This is my handbag.
+The sun is white.
+I must stay here.
+Where is the library?
+I must meet Tom.
+This is my pencil.
+I hate that colour.
+I want to talk.
+The weather is cold.
+The weather is windy.
+The weather is hot.
+The weather is sunny.
+I had two dogs.
+Here is Mary's dog.
+I need to leave.
+I need to sleep.
+I like English, too.
+Tom doesn't like beer.
+I must leave here.
+I was eating dinner.
+I have to know.
+He doesn't like coffee.
+I have three dogs.
+He has a cold.
+This is their handbag.
+I have to leave.
+This is their handbag.
+This is your handbag.
+I don't remember that.
+I want to run.
+The sea is freezing!
+He has a dog.
+What is his age?
+This is your handbag.
+He had three sons.
+He has three children.
+He has three brothers.
+He has another son.
+He has two daughters.
+He could do it.
+This is his handbag.
+I must go back.
+I must have this.
+What is his name?
+I have to help.
+I want to walk.
+I met a friend.
+The weather is good.
+I'm looking for work.
+That apple is big.
+That apple is big.
+I met Mary yesterday.
+I am studying now.
+Is this your dictionary?
+She's looking at us.
+Is this your dictionary?
+Is this your dictionary?
+Choose a Download Server
+I had gray hair.
+I don't like dogs.
+I must learn French.
+I dislike cold weather.
+I wanted to go.
+I must go out.
+I like to sing.
+I work on Sunday.
+I must do something.
+This river is beautiful.
+Enter password for %s
+I'm able to swim.
+I like to swim.
+It’s a little chilly
+I met a friend.
+I want to drive.
+Downloadable from the Internet
+I need to try.
+I need to understand.
+I needed to eat.
+The weather is cloudy.
+The weather is foggy.
+I live in Hyogo.
+I can't see well.
+The weather is rainy.
+He must find work.
+You must find work.
+I had a cat.
+I must do that.
+I have two cats.
+I work with him.
+The weather is snowy.
+I want ice cream.
+I live in Japan.
+I live in Japan.
+I like to work.
+Well said, Kernow King!
+I like to run.
+I'm able to run.
+I must do that.
+I'm not a student.
+I don't like homework.
+I have two cats.
+We have three dogs.
+Is this my wine?
+Bring me another beer.
+I'm trying to sleep.
+She likes books too.
+I can't work tonight.
+She likes books also.
+I hate the sun.
+He doesn't like us.
+I have a cold.
+I want to sleep.
+I wrote this book.
+I wrote this book.
+My mother cooks well.
+a few minutes ago
+He had one daughter.
+Welcome to #speakcornish week!
+The exam is difficult.
+I must buy shoes.
+I hate this city.
+I have to win.
+I have to work.
+I have to try.
+I had to try.
+I had to work.
+Those flowers are beautiful.
+Did you drink wine?
+I hate alarm clocks.
+I hate to travel.
+I can't hear it.
+I hate my eyebrows.
+I had a headache.
+It may rain tomorrow.
+Where do you live?
+Where is your house?
+Where is your house?
+Where is the boy?
+The door is open.
+I don't like animals.
+They have to come.
+I own a computer.
+I need to go.
+The book was new.
+The exam is easy.
+Do you like cake?
+The exam is difficult.
+Do you like cake?
+My mother loves me.
+I could sell this.
+You're a beautiful woman.
+I could sell this.
+I couldn't hear Tom.
+The exam is easy.
+The cloud is grey.
+Where is the food?
+Where is the road?
+Where is the restaurant?
+Tomorrow is a holiday.
+Tomorrow is a holiday.
+I could do that.
+He needs to come.
+I hate my hair.
+Is she at home?
+Is this a letter?
+Is this your letter?
+Is this your beer?
+Shame about the rain
+Ruben has three sons.
+He used to drink.
+The sky was grey.
+The sky was red.
+He had a dog.
+He is my father.
+Let's go to Boston.
+That is a lie.
+That is a lie.
+He has two dogs.
+He doesn't like fish.
+Is he at home?
+How strong he is!
+It's a big hospital.
+I had to stay.
+I've been studying French.
+I was playing here.
+Is this your wine?
+He could speak French.
+I haven't seen Tom.
+She must find work.
+Fancy an ice cream?
+He prepared his lessons.
+The sky was blue.
+I hate that book.
+Where do you live?
+Isn't she a doctor?
+Is she a doctor?
+Is she here yet?
+She likes the teacher.
+She likes the teacher.
+She must go there.
+Is she your sister?
+Is she your mother?
+I like my pheasant
+She has ten children.
+I hate these things.
+Her cheeks were red.
+I hate this carpet.
+I hate this music.
+They liked large cars.
+I hate this song.
+They shouted for help.
+They must be happy.
+Failed to log in
+Those are too big.
+They have two daughters.
+I hate this thing.
+I hate this town.
+I hate to wait.
+They need to study.
+You must find work.
+I don't like English.
+Let’s go carol singing
+She likes the rain.
+He likes the rain.
+We wanted to wait.
+She doesn't like oranges.
+I'll have to wait.
+You have two books.
+You have two books.
+Do you speak Japanese?
+He wants to dance.
+I can't go out.
+I don't like beef.
+I must wait here.
+That is my sister.
+Tom's not in hospital.
+That dog is big.
+That dog is big.
+That house is big.
+That house is big.
+She has three children.
+That boy is running.
+That castle is beautiful.
+I went to London.
+I ate the meat.
+That is my school.
+I can't read music.
+You've lost your umbrella.
+You must do work.
+You must do work.
+I don't like apples.
+We have to start.
+The sky was gray.
+Is that your dog?
+Here is the dog.
+She likes that dog.
+You lied to Tom.
+You have to eat.
+You have to eat.
+They want to help.
+We have to stop.
+Do you like English?
+Do you like English?
+We have to help.
+You don't like music.
+You don't like music.
+You must go home.
+You must go home.
+Are you a student?
+I was at school.
+They want to talk.
+We have to win.
+We have to eat.
+I hate my brother.
+I hate my sister.
+You've lost your umbrella.
+That is my school.
+That is your book.
+That is your book.
+That is a table.
+You'll have to wait.
+They had seven children.
+How is the weather?
+I can't eat meat.
+Search Files & Folders
+This meat is good.
+I drank the water.
+I have a heart.
+come work with us
+Here is your dog.
+welcome to the team
+This is a hospital.
+This is a hospital.
+Here is your key.
+This is my daughter.
+This cake is sweet.
+This cake is sweet.
+This coat is warm.
+This coat is warm.
+Let's do that again.
+This apple is sweet.
+This desk is good.
+This desk is good.
+This fish is big.
+This fish is big.
+This dog is big.
+You'll have to wait.
+You must start soon.
+Do you remember this?
+What's your daughter's name?
+That is a table.
+Is that a cat?
+That is our school.
+That is our school.
+I ate the meat.
+That is his car.
+That is his car.
+That is his house.
+That is his house.
+That is her house.
+That is her house.
+Those dogs are big.
+Those dogs are big.
+Those houses are big.
+Those are our books.
+Those are their books.
+You can't do this.
+It’s ten to mid-night
+She doesn't like coffee.
+International football for Cornwall
+I was in school.
+Tom has washed himself.
+I received your letter.
+Could you help me?
+What's your daughter's name?
+You must start soon.
+You have to stop.
+I'll come at once.
+My dogs are white.
+My dog is white.
+Is there any cheese?
+He is my brother.
+He is my brother.
+Those are my friends.
+Those are my friends.
+I need to work.
+Isn't the weather good?
+I have three brothers.
+What's your father's name?
+We have two daughters.
+What's your father's name?
+We must leave early.
+I want to watch.
+We must study English.
+What's your dog's name?
+I'm trying to practice.
+We want to help.
+We want to know.
+Is this a dog?
+We want to talk.
+You're a teacher now.
+The sun is yellow.
+It was raining yesterday.
+You have to stop.
+Can you hear me?
+You're a teacher now.
+Where is my car?
+Is this your house?
+I was drinking milk.
+I can't speak French.
+I used to smoke.
+Is this your house?
+I'm trying to understand.
+I don't know that.
+Isn't the weather bad?
+I must go there.
+Where is the hotel?
+I have a computer.
+I have a computer.
+Run in test mode
+This is my wife.
+This is my wife.
+That was very good.
+Where is the dog?
+That was very good.
+Isn't the weather great?
+You have to try!
+You have to try!
+I hate the winter.
+Yes, there are two.
+I am a student.
+I don't like summer.
+Server type not supported.
+Where is my car?
+You'll have to leave.
+It was cloudy yesterday.
+Do you like these?
+Is the dog swimming?
+Are those new shoes?
+Ken's dog is white.
+You have to listen.
+Will it snow tonight?
+I must buy one.
+You have three pens.
+You have to listen.
+There were three men.
+You are my friends.
+We'll have to wait.
+You came at five.
+You have three pens.
+We want to leave.
+You have four dogs.
+You have two brothers.
+You have two brothers.
+What is your name?
+What is your name?
+What is your name?
+What is your name?
+You'll have to go.
+You'll have to go.
+I'm trying to help.
+You have two flowers.
+I have to learn.
+I need to learn.
+Tom, are you here?
+It will rain tonight.
+This winter is warm.
+This winter is warm.
+Will it rain today?
+You'll have to leave.
+They'll have to wait.
+Is that your bicycle?
+It's very cold today.
+Is that your bicycle?
+That is my sister.
+I hate this weather.
+We'll have to hurry.
+Tom, are you here?
+It is raining now.
+It is raining now.
+I must eat slowly.
+You came at five.
+It is seven now.
+It is snowing now.
+We must do something.
+I wanted to come.
+You have two flowers.
+You need to do this.
+I need to do this.
+I need to get something.
+She's old, ugly and fat.
+I've been waiting for you.
+I have to tell someone.
+I have to work tomorrow.
+I had to tell somebody.
+I need to lie down.
+I need to say something.
+You must go to school.
+You need to do this.
+I used to play here.
+We need to work now.
+Do you like French wine?
+You don't have to try.
+He is trying to sing.
+I have been speaking Spanish.
+Why can't I see you?
+He must clean his room.
+I prepared breakfast for them.
+I prepared breakfast for her.
+I prepared breakfast for you.
+I prepared breakfast for you.
+I prepared breakfast for him.
+He has a white dog.
+Have you got a headache?
+Have you got a headache?
+I like to speak Welsh.
+I have to do it.
+You'll have to wait here.
+You'll have to wait here.
+You don't have to help.
+You don't have to help.
+Oscar was my mom's dog.
+You don't have to try.
+I need to come home.
+I had to say something.
+She wants a new dog.
+He wants a new dog.
+Tom doesn't like to wait.
+I don't want a dog.
+Tom has a white dog.
+I don't want to eat.
+We must leave this evening.
+Do I need to hurry?
+We have to do it.
+I need to go now.
+I have to study now.
+I have to buy one.
+I had to do that.
+I had to do that.
+I have to work today.
+I must leave on Monday.
+We had to help Tom.
+I like to come here.
+We had to walk home.
+I needed to hear that.
+I had to know more.
+I have to be here.
+You didn't have to come.
+You didn't have to come.
+I buy newspapers every day.
+We have to try something.
+Can they see the picture?
+Tom didn't understand a thing.
+Toshio, who do you like?
+He had to go there.
+We must wash the floor.
+Bring me another fork, please.
+I need to go there.
+The room is quite small.
+We will have to wait.
+The weather is very windy.
+We have to tell someone.
+Tom was speaking to Mary.
+We need to talk more.
+We need to finish this.
+We have to finish this.
+We have to work together.
+It may rain before long.
+This house isn't very big.
+This house isn't very big.
+I need to sleep now.
+You'll have to come here.
+You'll have to come here.
+You'll have to leave now.
+You'll have to leave now.
+What colour is the cloud?
+You need to lie down.
+You need to lie down.
+They don't want to come.
+Must I stay home today?
+Tom has a big dog.
+I want a new dog.
+We used to live here.
+We used to work together.
+We used to live together.
+We used to live together.
+We have to run now.
+We have to do this.
+We have to try this.
+We're trying to study here.
+Tom is not in hospital.
+I don't drink their water.
+I am reading his book.
+We had to leave quickly.
+Tom has a black dog.
+This is our living room.
+I've been shopping with him.
+You had to be there.
+I still want to play.
+I don't have to go.
+They're eager to see you.
+Little dogs are the worst.
+I needed to go home.
+Tom doesn't like this game.
+Did you like that book?
+Did you like that book?
+We needed to do that.
+How is the weather outside?
+Don't you have to work?
+Don't you have to work?
+I don't want to study.
+She doesn't like Tom's dog.
+What colour is this flower?
+What colour is this cat?
+What colour is the apple?
+What colour is the book?
+Yes, it is a dog.
+You had to be there.
+I still have a headache.
+I like to go places.
+I don't want to sing.
+Mice are drinking the water.
+We'll have to do something.
+We were listening to music.
+Cornwall is a Celtic country.
+I need to buy food.
+I used to work here.
+I needed to buy food.
+I still want to come.
+Do you see the sky?
+Do you see the sky?
+Do you see the sky?
+I like to do that.
+I had to work late.
+I used to eat meat.
+I have a black dog.
+They don't want to leave.
+Tom doesn't like to sing.
+Can we get a dog?
+They don't like to dance.
+I'm going to the pub.
+We used to do that.
+I used to live here.
+Tom doesn't like to fly.
+She wanted to go out.
+I don't have a headache.
+I didn't have to ask.
+Tom's dog is very big.
+I have seen a dog.
+Is this your first examination?
+Werewolves are better than vampires.
+Werewolves are better than vampires.
+We don't need to hurry.
+What's the weather like outside?
+I can speak five languages.
+I don't want to dance.
+Tom is walking his dog.
+This is not my cat.
+My brother has a dog.
+I've been waiting for her.
+I've been waiting for him.
+I've been waiting for them.
+I've been shopping with her.
+He is twenty-four years old.
+I don't want to swim.
+This is a big dog.
+This is a big dog.
+We didn't have to wait.
+I like to eat fish.
+I like to eat meat.
+He lives in the clouds.
+You don't need to lie.
+You don't need to lie.
+Tom's dog can swim well.
+What's the weather like now?
+That dog's name is Ken.
+I've been shopping with them.
+We used to play together.
+I like dogs and cats.
+I don't like cold weather.
+We had to do something.
+This is not a dog.
+We don't want to wait.
+We had to do that.
+We had to do that.
+We need to do this.
+I had to stay home.
+You need to eat something.
+You need to eat something.
+She doesn't like this color.
+I need to do that.
+I need to do something.
+I must talk with you.
+I must talk with you.
+I must speak with you.
+I must speak with you.
+I must find the answer.
+I like to read books.
+I like to be here.
+I have to work tonight.
+I have to work now.
+I have to know now.
+I have to go there.
+I have to go out.
+I've never seen a rainbow.
+I've been waiting for this.
+She was looking at him.
+She was looking at you.
+I need to go back.
+I need to know more.
+I need to know something.
+You have to eat something.
+You have to eat something.
+I ate the red apples.
+She doesn't like this game.
+It is not a dog.
+He ate fruit and vegetables.
+He ate fruit and vegetables.
+They need to work tomorrow.
+I have to find that.
+I have to find that.
+I have to learn French.
+I have to study French.
+I like to study French.
+I need to learn French.
+I'm trying to learn French.
+I have to see this.
+The man was eating bread.
+What color is Tom's dog?
+I think Tom was drunk.
+I think Tom was drunk.
+I don't like to clean.
+I need to know now.
+He was looking at you.
+I had to try something.
+I had to tell Tom.
+You didn't have to lie.
+You didn't have to leave.
+You didn't have to leave.
+You didn't have to ask.
+You didn't have to ask.
+I don't like this weather.
+We don't have a dog.
+I have to walk slowly.
+They don't have to answer.
+I hate the weather here.
+I don't need to know.
+The weather is very bad.
+Do you like these songs?
+Do you like these songs?
+Do you like his songs?
+Do you like his songs?
+You were at home yesterday.
+You were at home yesterday.
+Do you like French wine?
+You don't have to answer.
+You don't have to answer.
+You don't have to come.
+You don't have to come.
+I had to see you.
+I had to help Tom.
+I had to go home.
+I had to go back.
+I had to get something.
+I had to do it.
+I don't want to drive.
+The sun is a star.
+I like to drink milk.
+Do you like blue cheese?
+Tom's not in the hospital.
+Do you like blue cheese?
+You don't need to know.
+You don't need to know.
+You don't have to speak.
+You don't have to speak.
+You don't have to sing.
+You don't have to sing.
+You don't have to lie.
+You don't have to lie.
+You don't have to go.
+You don't have to go.
+I don't like to run.
+I'm trying to read here.
+I'm trying to help now.
+I used to believe that.
+You need to go back.
+You have to go now.
+You have to go now.
+We need to do something.
+We have to do that.
+Tom doesn't like that woman.
+Tom doesn't like those women.
+My baby wants to talk.
+My baby wants to talk.
+We need to work together.
+I am not your son.
+I am not your son.
+They didn't like the film.
+They have to drink water.
+You have to drink water.
+You have to drink water.
+Where are you taking us?
+Has he got a dog?
+Has she got a dog?
+Tom can't come with us.
+She doesn't like to work.
+You need to go back.
+You need to go home.
+You need to go home.
+You need to go now.
+Do you like my shoes?
+Do you like my shoes?
+Do you like to party?
+Do you like to party?
+Do you like my hair?
+Do you like my hair?
+Do you like this band?
+This is a green apple.
+I will see you tomorrow.
+I don't like to work.
+I will see you tomorrow.
+Why are you doing this?
+Why are you doing this?
+What colour is his hair?
+How's the weather in Boston?
+Tom has gone to bed.
+They didn't need to come.
+But nobody can help me.
+I have received your letter.
+You need to go now.
+Why are you doing this?
+What colour is the bird?
+Tom looked at his dog.
+Did you like the bicycle?
+You don't have to leave.
+We need to eat something.
+My sister has a dog.
+You are not my brother.
+I have a credit card.
+Tom is cleaning his room.
+I don't have two cats.
+Emily wants to learn Greek.
+Emily wants to learn Greek.
+The girl is eating bread.
+The woman is eating bread.
+Did you like this video?
+Did you like this video?
+I used to come here.
+I used to love Mary.
+I'll give it to Tom.
+I'll give it to Tom.
+I used to live there.
+I was trying to help.
+I was looking for you.
+Tom didn't have a dog.
+You don't have to leave.
+Tom doesn't have a dog.
+We have to wear shoes.
+You need to be there.
+Did you like the bicycle?
+She didn't give me anything.
+Do you like the colors?
+Do you like the colors?
+You must come with me.
+You must come here tomorrow.
+I must have a car.
+What colour is her hair?
+Do you love my sister?
+Do you have to go?
+Do you need to go?
+Do you need to go?
+Do you have to stay?
+Do you have to stay?
+Do you have to leave?
+Do you have to leave?
+My son's name is Tom.
+You need to be there.
+Does Laurie have a computer?
+I don't want to remember.
+Mennad wants to say something.
+Thank you for your present.
+Do you like white wine?
+Do you like white wine?
+Does anyone here speak English?
+You don't have to eat.
+You don't have to eat.
+I do not sleep well.
+^Boot from first hard disk
+^Try Ubuntu Kylin without installing
+What are you looking for?
+Ten, nine, eight, seven, six…
+It's as cold as ice.
+I could answer his question.
+You are a beautiful butterfly.
+Do you like French wines?
+Setup Your Encrypted Private Directory
+Pablo and María were here.
+He doesn't need to work.
+It is a small dog.
+Failed to save document “%s”
+Failed to load document “%s”
+I must help my mother.
+Did you like the book?
+What are you looking for?
+What color is your hair?
+You don't have to study.
+Jorge can speak four languages.
+Jorge can speak four languages.
+Do you have any sisters?
+Did you like the book?
+Install a minimal virtual machine
+This book belongs to Tony.
+^Try Ubuntu Netbook without installing
+Ken's dog is very big.
+I need to know tomorrow.
+What's the weather like there?
+No one knows their name.
+No one knows her name.
+^Try Kubuntu Netbook without installing
+^Try Ubuntu MID without installing
+Do you have any money?
+Do you like to travel?
+Do you like to travel?
+Where is the post office?
+You'll have to come tomorrow.
+You'll have to come tomorrow.
+I don't want to work.
+Why did you do that?
+^Install Kubuntu in text mode
+I started writing the book.
+Install a Diskless Image Server
+five, four, three, two, one…
+Let’s sing Auld Lang Syne
+I'm doing this for you.
+^Install Ubuntu in text mode
+You don't need to hurry.
+^Install Xubuntu in text mode
+You don't need to hurry.
+Do you have any money?
+What is on the table?
+What was on the table?
+^Install Edubuntu in text mode
+^Multiple server install with MAAS
+Do you have any money?
+What day is Jowan’s birthday?
+I don't like cold coffee.
+Do you like to sing?
+Unable to open external link
+You need to have breakfast.
+I had to study English.
+What do you look like?
+What do you look like?
+How was the weather yesterday?
+What was the weather like?
+Where does your grandfather live?
+The weather is nice tonight.
+You must answer the question.
+You must answer the question.
+That woman has two bags.
+That boy is speaking English.
+Where do you come from?
+Your dress is very nice.
+The weather is cold now.
+May I speak with Judy?
+You didn't need to hurry.
+She has a white cat.
+Is the sky blue? Yes.
+She used to drink beer.
+Do you like to sing?
+He used to drink beer.
+He does not like us.
+I don't have four sisters.
+I don't have four brothers.
+I have a headache now.
+I've got a good idea.
+I like to write here.
+It's difficult to read kanji.
+Do you like this garden?
+Do you like this garden?
+What book did you buy?
+© 1996–2012 The Evince authors
+Go to the next page
+Can I speak with Judy?
+Go to the previous page
+You need to have breakfast.
+What book did you buy?
+Don't forget to write me.
+Do you like white chocolate?
+Do you like white chocolate?
+I don't like bad children.
+Printing page %d of %d…
+You can swim, can't you?
+What day is Lowena’s birthday?
+What day is your birthday?
+No, I didn't write it.
+You must read this book.
+Unable to open document “%s”.
+Do you like this flower?
+Do you like this flower?
+I was baking a cake.
+The father is very tired.
+Unable to launch external application.
+Why is my bag empty?
+You must read this book.
+Why are you drinking water?
+What's the weather like today?
+The weather is beautiful today.
+Mary needs a dozen eggs.
+I don't like this place.
+I was doing my homework.
+Motor Difficulties - switch devices
+My name is Ichiro Tanaka.
+Would you like some sugar?
+What is your favourite sport?
+The wind is cold today.
+I thought he was sick.
+I must prepare their breakfast.
+It is very cold today.
+I am going to London
+I was born in Cornwall
+I was looking at her.
+How is the weather today?
+I sleep in my room.
+We have enough food now.
+Must I come home now?
+How do you call that?
+Do I have to study?
+Why do you do this?
+I had to walk home.
+What their play is like
+But if they do consider
+There’s sun in London today
+They will help their men
+And there are man women
+Would you like some sugar?
+Fine, thank you. And you?
+Where do you live now?
+I must leave early tomorrow.
+What are you doing now?
+Will you go with me?
+He did not like children.
+My name is Edgar Degas.
+they are in my house
+My old mobile is broken
+I must open the window.
+I don't like the coffee.
+What are you doing now?
+I don't like this hat.
+I must leave here today.
+I like to eat apples.
+I have a pretty dog.
+Have you bought your tickets?
+Our third contestant is Goslowes
+We must go to school.
+My father has many books.
+Cornish as a community language!
+Beards are the new abs
+I have a big dog.
+Ken has a white dog.
+I know how to swim.
+I like listening to music.
+I don't have any children.
+What are your favourite hobbies?
+the house of the woman
+We ate breakfast at seven.
+the house of a woman
+I like to study English.
+the house of the man
+I have an old bicycle.
+I have an old bicycle.
+I’ve got a new mobile!
+I have to go home.
+I have to leave school.
+We slept in a tent.
+the house of a man
+Do you have any money?
+I've been learning to drive.
+Are you on your holidays?
+Are you able to swim?
+Are you able to swim?
+You are pretty; very pretty!
+That was on the news.
+Process for agreeing new terms
+Are you able to swim?
+He must go there tomorrow.
+You have to speak English.
+You don't need to go.
+You don't need to go.
+Nobody is cleverer than he.
+'Middle' and 'Late' Cornish Forms
+Do you like black cats?
+She didn't need to come.
+Where did you see her?
+Where did you see her?
+Every week he goes fishing.
+Do you have a car?
+I am reading a book.
+What are you looking for?
+What are you looking for?
+Father is busy writing letters.
+Are you able to swim?
+You had to come yesterday.
+She has to study science.
+She likes to read books.
+You can't ride a horse.
+She is five years old.
+Do you like black cats?
+She will become a doctor.
+You had to come yesterday.
+He has a cold now.
+Does he have a dog?
+He will come after all.
+Can you come at nine?
+Here is the special straw!
+It's seven o'clock exactly now!
+I have to eat, too.
+I am eighteen years old.
+Do you have a headache?
+Can you come at nine?
+Do you have a headache?
+That’s right, it’s too wet
+Too wet? In the sea?
+I used to drink beer.
+What is the exact time?
+I'd like some more water.
+Where is your favourite place?
+How is the weather in…?
+I am 19 years old.
+He wants to meet you.
+He wants to meet you.
+He has to speak English.
+He used to live here.
+Where did you see Nancy?
+Where did you see Nancy?
+You are marvellous; very marvellous!
+He still wants to come.
+Do you like to study?
+He was playing the piano.
+Black coffee. OK. Thanks everyone
+You must help your mother.
+So I've got one hour.
+Where is the special straw?
+You must help your mother.
+Do you like to study?
+You can dance, can't you?
+The man is eating bread.
+This is the last train.
+Ok, thanks. How are you?
+Must I answer in English?
+I don't want to talk.
+we had a brilliant time
+I am not your enemy.
+I am not your enemy.
+You must see a doctor.
+I don't want to go.
+You must see a doctor.
+The weather is good today.
+You must see a doctor.
+Show and install available updates
+Can I get a dog?
+I don't like this one.
+Is that a good idea?
+You must see a doctor.
+I have to do this.
+We must do it again.
+Please book your place on
+We have to leave now.
+We have to go now.
+You have to go home.
+You have to go home.
+You don't need to wait.
+You don't need to wait.
+My cat is following me.
+How is the weather there?
+I can hear the wind.
+We're quite literally on fire!
+Is English spoken in Canada?
+You don't want to know.
+May I use this pen?
+Show percentage in Menu Bar
+They don't have to know.
+English is the world's language.
+I don't want to know.
+Do you like your car?
+Do you like your car?
+English is the world's language.
+We'll have to go back.
+I have a headache today.
+The weather is bad today.
+You have to do it.
+%d %s %d %s left
+I’ve a new class today.
+I have to go back.
+Show Time in Menu Bar
+I'll sleep in my room.
+Don't read in this room.
+My cat will love this.
+My cat will love this.
+A glass of fruit juice.
+The weather is very hot.
+We must do it now.
+The weather is very hot.
+Time to carve the pumpkin
+Your dog is over there.
+Tom doesn't like his work.
+Laurie is a beautiful girl.
+Show Percentage in Menu Bar
+I like to buy clothes.
+Don't read in this room.
+You had to study English.
+I must do it now.
+She must do it now.
+Enter your credentials to login
+Opens Launcher keyboard navigation mode.
+Hi Deborah, How are things?
+Key to execute a command
+Key to hide the handles
+I don't have a ticket.
+I don't want to wait.
+I don't have a ticket.
+Key to show the handles
+Give me a drink, please.
+Helen is seventeen years old.
+Helen, this is my cousin.
+Search your Google Docs files
+Helen, this is my cousin.
+Available from the "%s" source.
+Give me five tokens, please.
+Helen, this is my cousin.
+Why do you want stamps?
+Also post this review to:
+Come and explore our favourites
+Please check your Internet connection.
+Helen, this is my cousin.
+Invalid password, please try again
+Pass me the butter, please.
+Incorrect e-mail address or password
+I have a bad headache.
+forgotten your Ubuntu One password?
+In the Kitchen, I think
+Available from the following sources:
+You can find details here
+I have to leave now.
+Key to show the HUD
+Do you see a queen?
+The dog wants to leave.
+The dog's name is Ken.
+I am eating an apple.
+I'd like to lie down.
+There is. Where’s the sun?
+Tom can't help you now.
+Tom can't help you now.
+Don't read in that room.
+Don't read in that room.
+I thought you were sleeping.
+I have a terrible headache.
+There’s rain everyday, it seems.
+There's a book with me.
+What is the weather like?
+Do you like chocolate milk?
+Tom doesn't want to go.
+I don't want to forget.
+The beautiful woman is kind.
+We still want to help.
+We don't want to know.
+I still want to know.
+He must do it now.
+I don't want to play.
+He needs to speak English.
+She wanted to meet me.
+I can't find the newspaper.
+Do you like sweet tea?
+Do you like sweet tea?
+Do you like chocolate milk?
+I can't hear very well.
+I’ve a busy day today.
+Why are they doing this?
+Do you like this city?
+Why do you study French?
+Why do you study French?
+I saw you uncle yesterday.
+We didn't need to hurry.
+Settings for several hardware devices
+You don't have to hurry.
+How many brothers have you?
+Where did you go yesterday?
+Do you like my friend?
+Do you like my friend?
+Do you like my friend?
+Do you like this book?
+I don't like this book.
+Do you like my friend?
+Yes – and my grandmother.
+I must hurry to class.
+Could not display help document
+We have two television sets.
+Tom has a big problem.
+Some programs are still running:
+Is your grandfather still alive?
+We must water the flower.
+Where do you see him?
+Where do you see him?
+There are five pencils here.
+Tom wanted to buy it.
+Here is 'Goolan' in Breton!
+I need to go home.
+The customer did not come.
+William born 1774 died 1799.
+I sent you a letter.
+We'll have to come back.
+Tom doesn't like this color.
+What does your sister do?
+Small but useful GNOME tools
+Your dog is very big.
+Input devices (mice, keyboards, etc.)
+Go Cornish for Primary Schools
+She is cooking for him.
+You didn't need to hurry.
+The boy is eating bread.
+The boy has a newspaper.
+Do you like the city?
+You have to go back.
+You have to go back.
+I was reading the book.
+Five plus three is eight.
+Must I go with you?
+Must I go with you?
+Do you like to drive?
+Do you like the city?
+Please enter the following PIN:
+My aunt has three children.
+Bad command (Exec) to launch
+No command (Exec) to launch
+Tom bought a new car.
+Error rewinding file '%s': %s
+Tom doesn't like hot food.
+Error reading file '%s': %s
+Tom has a big family.
+I speak English every day.
+I don't like your name.
+What are you doing tomorrow?
+Your dog is very big.
+He’s here with my aunt.
+Welcome to the GNOME Desktop
+I need to buy one.
+You can't do that here.
+You don't have to hurry.
+A program is still running:
+Tom wanted to buy it.
+Do you have a dog?
+Suppress normal output (warnings remain).
+I need to buy stamps.
+What time is it please?
+Do you like this girl?
+Do you like this girl?
+You didn't need to come.
+You didn't need to come.
+cannot restore the original directory
+Setting partition type to 0x%x
+Speaking English is not easy.
+Do I have to go?
+I have a terrible headache!
+Don't you have a pen?
+Don't you have a pen?
+You had to study English.
+We have to do something.
+Found %s on %s (%s)\
+She needs to sleep more.
+My mum has three dogs.
+I don't like to paint.
+I came to kill him.
+I came to kill him.
+Show time in Menu Bar
+Do you like your sister?
+Do you like your sister?
+Do you like your brother?
+Do you like your brother?
+Do you like this city?
+Our world is our classroom
+It shows ten to seven
+My heart bleeds for you!
+You don't need to come.
+We have a big dog.
+He has a white cat.
+Disable connection to session manager
+I don't have a dog.
+Filename of a background image.
+What day is it today?
+I don't like big dogs.
+I was waiting for you.
+What are you doing now?
+I still want to go.
+Failed to initialize video adapter
+The weather is terrible today.
+I am not a student.
+The weather was very good.
+Default color of terminal background
+I have to do something.
+Where did you see them?
+I had to leave my job.
+You don't need to work today.
+How many books do you have?
+I am more beautiful than you.
+You don't have to come tomorrow.
+I like to eat Cornish Mussels
+What do you like to eat?
+Do you need to buy anything?
+'I like a car!' said Seb.
+Probable portrait of Vivaldi, c. 1723.[1]
+Do you need to buy anything?
+What do you want to do?
+Test your knowledge at Krowji tonight!
+I was eager to visit Tom.
+Tom walks his dog every morning.
+She wants to read a book.
+How many books do you have?
+You don't have to come tomorrow.
+The dog is in the yard.
+Is the dog in the yard?
+I don't have to do that.
+You don't have to answer today.
+You don't have to answer today.
+I am more beautiful than you.
+What are you going to do?
+I have to go to bed.
+What do you like to drink?
+I don't have to study tonight.
+I go to school every morning.
+You don't need to work today.
+The dog is in the yard.
+Does she want to go away?
+My little brother is watching TV.
+To speak English is not easy.
+Is that your dog over there?
+I read a book while eating.
+English is not easy for me.
+Cornish language speakers today are young!
+He was sitting on the quay.
+Do you need to leave now?
+Log out of this system now?
+Printer '%s' has no toner left.
+Incorrect virtual device: no type available
+VDEV element number %d isn't correct
+enter: boot, `e': options, `c': cmd-line
+I don't need to do that.
+install GRUB for TARGET platform [default=%s]
+You don't need to leave now.
+You don't need to leave now.
+You don't need to go tomorrow.
+Atlantic horse mackerel at a market
+You don't need to go tomorrow.
+Do I have to do that?
+We don't have to do this.
+Out of range substitution (%d, %d)
+%d %s %d %s to charge
+Jane Lemon died 17 June 1823.[8]
+Maria married Francis Jodrell in 1807.
+Could not save the file “%s”.
+Sorts a document or selected text.
+We don't need to leave yet.
+They have to go to school.
+I don't need to know this.
+Select the device category to filter
+Why do you need to know?
+This session logs you into GNOME
+Select the device type to filter
+Display information on this GNOME version
+She wanted to buy the book.
+There are islands in the sea.
+Applications and sites saved from Web
+Change system-wide settings (affects all users)
+The startup command cannot be empty
+The startup command is not valid
+Successfully set up new device '%s'
+You don't have to go inside.
+You don't have to go inside.
+You don't need to know that.
+I can walk there on foot.
+Are there books in your house?
+Goodbye, %s. Would you like to…
+I'm catching a cold, I believe.
+What's the meaning of this phrase?
+The drive has been successfully ejected
+Not all updates can be installed
+Search your computer and online sources
+Version %s or later not available.
+Tom speaks French well, I think.
+The file “%s” does not exist.
+He takes honey instead of sugar.
+We don't have to read that.
+Please enter a complete e-mail address
+He doesn't like to drink coffee.
+When you smile, I am happy.
+That church stands on a hill.
+There are no updates to install.
+She knows how to speak Spanish.
+You don't need to know that.
+You'll have to come with me.
+You'll have to come with us.
+You'll have to come with us.
+You don't have to say that.
+You don't have to say that.
+You don't have to be here.
+You don't have to be here.
+You don't need to do this.
+You don't have to do it.
+Tom has bought a new car.
+You don't have to do it.
+I'll give him his book tomorrow.
+I'll give him his book tomorrow.
+Why do you need to go?
+I want to eat the cheese.
+What kind of dog is it?
+Do you have to work today?
+We used to go fishing together.
+I am glad to see you
+I do not see the man
+I did not see the man
+I will go to see you
+I went to meet the train
+we are glad to see you
+Some might be prepared to say
+He was welcomed I know well.
+I had to go to work.
+Do we have to go there?
+I used to work for her.
+I used to work for him.
+I used to work for them.
+We used to work for them.
+Is there a book to me?
+You have to listen to her.
+You don't need to be there.
+Where can I buy a surfboard?
+Do you need to leave now?
+#Cornwall Festivals leaflet, spot the #Cornish!
+We don't have to be here.
+What are you doing this month?
+Fancy a pub quiz next Tuesday?
+The dog is eating his food.
+The dog is eating his food.
+The dog is eating its food.
+Tom went to buy dog food.
+Tom wants me to help Mary.
+Tom wants me to help Mary.
+the book is in my house
+if the man would make it
+The dog is eating its food.
+You have to listen to her.
+You have to listen to him.
+You have to listen to him.
+I used to work with him.
+I used to work with them.
+More complex translations may take longer.
+Do I have to do anything?
+Tom wanted to buy a dog.
+Do you need to lie down?
+Do you need to lie down?
+Why do you want to leave?
+Do they have to do it?
+Do I need to go now?
+^Try Ubuntu Kylin Netbook without installing
+There was an error deleting “%s”.
+I've been trying to do that.
+(One of the Standard 14 Fonts)
+Do you have to work today?
+I believe that Tom loves me.
+I used to work with her.
+I used to live with them.
+I used to live with him.
+You have to listen to them.
+You have to listen to them.
+You have to listen to us.
+You have to listen to us.
+You need to listen to her.
+You need to listen to her.
+She wanted to help her friends.
+You need to listen to him.
+You need to listen to them.
+You need to listen to them.
+Step 1 - Researching new terms
+There is someone in this room.
+Step 2 - Proposing new terms
+Step 3 - Approving new terms
+All kinds of Cornish are encouraged
+^Install Ubuntu Kylin in text mode
+I had to go to America.
+My mother cannot drive a car.
+There is … on the table
+There was … on the table
+Because he's sick, he can't come.
+If you smile, I'll be happy.
+If you smile, I'll be happy.
+What is the weather like today?
+Do you have to go now?
+I don't have to be here.
+Look! It is pretty; very pretty!
+The book is on the table.
+I had to do this today.
+I still need to do that.
+We don't have to do that.
+There isn't anyone in the room.
+I’m sorry, but it’s too small
+Do you have to go now?
+Look! It is big; very big!
+I didn't need to see that.
+There's no one in the room.
+Did you have a good Christmas?
+We will have to do something.
+She said that he was handsome.
+I didn't need to do that.
+Do you have to work tonight?
+Do you want to drink coffee?
+The champagne is in the fridge
+What do you want to have?
+What do you want to have?
+Bill has a lot of friends.
+Bill has a lot of friends.
+Bill has a lot of friends.
+Tom doesn't seem to know French.
+Don't talk to me like that.
+Would you like anything to drink?
+I didn't have to do that.
+Do you have to work tonight?
+I'm sorry, but it's too ugly!
+She likes to listen to music.
+He drank a bottle of wine.
+I have to find my dog.
+He is eager to go there.
+He had to carry the bag.
+He had to leave the village.
+He needs to answer the question.
+He will have to go there.
+It's now a quarter to seven
+He is going to help you.
+He came at about four o'clock.
+It's now five minutes to seven
+I live here with my dog.
+This sentence hasn't yet been translated.
+I would like some more water.
+I've been studying French at school.
+She wants to learn to swim.
+He came here to help me.
+He must finish his homework today.
+It’s a marvellous mug; very marvellous!
+She wants to talk to you.
+Well, Rain is better than snow.
+A cat is on the table.
+I don't want to do that.
+We didn't have to do that.
+He was displeased with his neighbor.
+Why do you want to go?
+He was displeased with his neighbor.
+I don't want to buy it.
+He used to read at night.
+He walks his dog every morning.
+He had to clean his room.
+He cannot come, he is ill.
+He had to stay in bed.
+He came here to help me.
+I don't want to eat anything.
+We don't need to be here.
+I still want to do that.
+I don't want to go outside.
+Do you want to kill me?
+Do I have to go now?
+I am loved by my mother.
+I don't want to work today.
+You don't have to do that.
+Do you need to drink wine?
+You don't have to do this.
+You don't have to do this.
+You'll have to take this bicycle.
+She was eager to go home.
+He is similar to your brother.
+I like to listen to music.
+This house is not very big.
+I've been waiting for two hours.
+You don't need to do that.
+I don't want to drink anything.
+You don't need to stand up.
+You don't need to stand up.
+You don't need to go there.
+I must go to the toilet.
+I don't want to read anything.
+There’s something wrong with my watch.
+I don't want to hear it.
+I have a very beautiful dog.
+And what subject are you teaching?
+There's a cat on the table.
+You don't need to do that.
+The box is big and heavy.
+This house is not very big.
+You'll have to take this bicycle.
+Tom doesn't like coffee with sugar.
+Do I need to do that?
+What do you want to eat?
+I still need to eat breakfast.
+Do we have to do that?
+I'm reading The New York Times.
+Okay. A piece of cake please.
+What do you want to eat?
+I’ve got sand in my sandwich
+Did you have a good Christmas?
+Would you like some mulled wine?
+I don't want to eat this.
+You don't have to do this!
+I am trying to learn English.
+You don't have to do this!
+She's giving each child two apples.
+I know, but I like pasties.
+I still want to be here.
+My friend is seventeen years old.
+Tom doesn't like to eat fish.
+There wasn't anybody in that room.
+Does she have a dog? No.
+I don't want to eat here.
+I had to work on Sunday.
+What kind of girl are you?
+He took honey instead of sugar.
+I have to write a letter.
+Having fun with the Cornish language
+She likes to walk with me.
+I need to find room 314
+Do you have a sister, Juan?
+How many in your new class?
+Bad. I’m late. Where’s room 314?
+My friend is seventeen years old.
+My friend is seventeen years old.
+She used to live with him.
+I don't want to see it.
+I don't want to study German.
+I need to feed my dog.
+Why do you want a dog?
+You have a lot of books.
+You have a lot of books.
+I'm sorry, I can't help you.
+Is that dog male or female?
+Tom wants to get a dog.
+That book is a new book.
+We don't need to go there.
+Our cat is in the kitchen.
+Ottawa is the capital of Canada.
+Ottawa is the capital of Canada.
+I'd like a cup of tea.
+Thank you for the beautiful flowers.
+We had to do it again.
+I hope that you'll help me.
+It is raining cats and dogs.
+I hope that you'll help me.
+You don't have to work today.
+We live close to the station.
+Ok, green curry for me then
+Have you heard about the accident?
+He is an awful ticket inspector.
+Steak and chips for me thanks
+Do I need to go there?
+You don't need to study today.
+I’ve got sand in my sandwich
+I have been reading this book.
+Four multiplied by two is eight.
+I'll have to go there tomorrow.
+You don't have to go there.
+You don't have to go there.
+Do you know how to swim?
+You don't have to work today.
+I've been doing this for months.
+Take the dog for a walk.
+You don't want to go there.
+What'll the weather be like tomorrow?
+They need to answer this question.
+They need to answer the question.
+I'd like to speak to Judy.
+Mr Smith is a good teacher.
+The church stands on the hill.
+The dog wants to go outside.
+Promoting and developing the Cornish language
+Is the bird alive or dead?
+The bird is in its nest.
+That store sells meat and fish.
+There wasn't anyone in the room.
+I think it's a good idea.
+Excuse me! Is this Church Street?
+German is not an easy language.
+They have to answer the question.
+And where is there a restaurant?
+Do you have to do that?
+Do you have to do that?
+You didn't need to do that.
+You didn't need to do that.
+You didn't have to do this.
+You didn't have to do this.
+You didn't have to do that.
+You didn't have to do that.
+Speak Cornish Week '22 is coming!
+I don't want to do anything.
+The champagne is in the fridge
+You need to listen to me.
+You need to listen to me.
+This coffee is not hot enough.
+The boy is buying a dog.
+Father Christmas is on his way
+Did you have to do that?
+Did you have to do that?
+Did you have a good Christmas?
+You have to listen to me.
+We were looking at the picture.
+He was a bad ticket inspector.
+I received a letter from her.
+I don't want to see Tom.
+You can’t eat cake for tea
+The cupboard is near the fridge.
+I had to get up early.
+Why do you want to know?
+I don't want to go home.
+The dog went under the table.
+I don't want to go there.
+I don't want to lie down.
+I don't want to see that.
+You have to listen to me.
+We don't want to do that.
+I had to hurry the work.
+You can make tea tomorrow then!
+We didn't need to do that.
+I want to see your house.
+How’s the weather in London today?
+The water was too hot yesterday.
+What do you want to eat?
+I need to see you tonight.
+I don't want to be here.
+I will have to study tomorrow.
+I want to see your house.
+I put it in your room.
+I put it in your room.
+Do you want to eat sausage?
+I don’t want to eat peas
+I don't want to do this.
+Do you want to eat pasta?
+I don't want to go back.
+No one was in the room.
+I had to go there yesterday.
+I don't want to tell you.
+I think Tom speaks French well.
+Excuse me. Here’s the vegetarian menu
+You don't want to do this.
+Please write a letter to me.
+Please write a letter to me.
+You don't want to do that.
+I don't want to stay here.
+Give me a glass of milk.
+I have a bad headache today.
+I don't want to leave Tom.
+How is the weather in Germany?
+I don't want to hear this.
+Still no easter egg in Unity
+I needed to shut the door.
+What can I get for you?
+What’s the soup of the day?
+The green curry is very good
+You need to listen to us.
+I think Tom speaks French well.
+We'll have to do that, too.
+We had to go there together.
+Don't forget to write to me.
+I don't want to leave town.
+You need to listen to us.
+We don't want to do this.
+I don't want to go out.
+I don't want to hear that.
+My dog has a long tail.
+Do you need to do that now?
+Do you need to do that now?
+There is no easter egg in Unity
+All right – apart from the weather!
+Please insert a disk in the drive:
+Why do we need to do that?
+Please enter a name for the disc
+The file “%s” could not be opened.
+Previous authentication attempt failed. Please try again.
+The language support is not installed completely
+Could not install the full language support
+Why do I need to do this?
+Could not install the selected language support
+She was as pretty as a primrose.
+The forecast said it will be windy.
+Do you need to work on Sundays?
+Why do we need to find Tom?
+I don't want to open the window.
+We still need to talk to Tom.
+You’ll have to buy a new one.
+there is a book in my house
+Why? Don’t you have our numbers already?
+Oh! Can I get your phone numbers?
+the book which is in my house
+Is there a book in my house?
+Why do we need to learn this?
+I still need to clean the kitchen.
+Cornish is all forgotten by young people.
+I had a headache all day yesterday.
+Do we need to do this again?
+There isn't an orange on the table.
+there is not a book to me
+Really! It’s sunny in London today! Look!
+To earn the goods of the world
+I like to listen to good music.
+Do we need to wait for them?
+What do you want to eat then?
+Do we need to wait for you?
+I have never seen a Cornish book
+I’d like to get fish and chips
+I didn't need to sell my car.
+June 2018 is now available for download!
+get on board the Cornish language revival
+Happy Christmas from the Go Cornish team
+It would be splendid seeing you there!
+I live in a house in Truro.
+If you wish to support Gaelic speakers
+Have you topped up your sun cream?
+And you? What’s your phone number again?
+At what time do you start work?
+I like the spring weather in Cornwall!
+I like the music of Steely Dan
+Check out our #speakcornish week events page
+Do you have to work on Sundays?
+Do you have to work on Sundays?
+Would you like some Honey with that?
+Okay. What can I get for you?
+Our first applicant is the Changing Room
+Why do you want to go away?
+Do we need to wait for you?
+I still need to talk to her.
+I still need to talk to him.
+Have you topped up your sun cream?
+Up the stairs and on the right
+Up the stairs and on the right.
+Why do I need to do that?
+Why do you need to do this?
+Up the stairs and on the right
+I still need to talk to Tom.
+Use this GPS device for Geolocation services
+Do I have to go with you?
+Please enter the following PIN on '%s':
+could not get information about CRTC %d
+The door is open on printer '%s'.
+I would like to be a hairdresser.
+Cornish, Welsh and Breton are Celtic languages.
+assume input is a syslinux configuration file.
+The otter was playing in the river.
+The chough is similar to a blackbird.
+could not get information about output %d
+Do I have to go with you?
+Christmas is the twenty fifth of December
+Why do you need to do that?
+I still need to talk to them.
+Comments are invited on any proposed terms
+Do I have to eat with her?
+Do I have to eat with him?
+Do I have to eat with them?
+Do I have to eat with you?
+Yes! There is one mug for sale.
+Yes! There is one mug for sale.
+Translations are usually processed within a week.
+Please can I come home with you?
+Perhaps I'm too small and too ugly!
+Do I have to come on Monday?
+Do I have to do anything more?
+Do I have to answer that question?
+Select to configure a new %s account
+Christmas is the twenty fifth of December
+They had to go to the hospital.
+I wasn't as strong as my father.
+I still want to talk to you.
+I own one cat and one dog.
+Do you have to do this now?
+Na h-Òganaich at Celtic Connections in 2007
+You didn't need to buy the book.
+She regularly presents Proms in the Park.
+You didn't need to buy the book.
+This book is too expensive for me.
+It is not easy to speak English.
+Mr. Johnson's room was a large one.
+He likes to listen to the radio.
+She didn't need to do that work.
+Do you need to work on Sunday?
+Do you have to do this now?
+Do we have to do this tonight?
+Would you like another cup of coffee?
+Do you need to work on Sunday?
+I like to listen to classical music.
+Is that a cat or a dog?
+My father has a lot of books.
+I have two brothers and a sister.
+Do you have to do that now?
+Are there any bags in this shop?
+Do we have to do this now?
+What kind of music does Tom like?
+I've got two brothers and a sister.
+"Do you want to buy it?" "Yes."
+Is it a butterfly or a moth?
+"Do you want to buy it?" "Yes."
+Tom didn't tell me he was married.
+Is there a TV in your bedroom?
+There is a market in the town.
+I'd like to speak to John Warner.
+Jane seems to have a new boyfriend.
+Do I have to open the window?
+Do we have to take the bus?
+This one is similar to that one.
+Are there any bags in this shop?
+You'll have to stay in the garage.
+What will the weather be like tomorrow?
+What is the meaning of this phrase?
+There are no oranges on the table.
+I have a dog and a cat.
+Can I come to your party tonight?
+I have been studying for two hours.
+I know you're a friend of Tom's.
+His dog was running in the yard.
+We have a black and white dog.
+I see your cat in the garden.
+I see your cat in the garden.
+I've been working there for three months.
+I own one dog and one cat.
+I like to listen to the radio.
+Will the weather on Saturday be sunny?
+Do I have to write a letter?
+Do you want to buy a shirt?
+Do you want to buy a shirt?
+I still need to talk to you.
+I don't have to clean my room.
+Why do I need to learn French?
+I am going to write a letter.
+I do not have to study Japanese.
+I was born in Tokyo in 1968.
+Why do you want to learn English?
+He would often swim in this river.
+They have two sons and one daughter.
+I gave the books to this student.
+I will give her the book tomorrow.
+I will give her the book tomorrow.
+I will give him the book tomorrow.
+Anne, married Sir John Davie in 1796.
+You don't have to answer this question.
+I will give him the book tomorrow.
+A dog is running in the park.
+I don't have to listen to you.
+I don't have to listen to you.
+I'll have to study ten hours tomorrow.
+We own a dog and a cat.
+Can I go out of the room?
+The sand on the beach was white.
+She had to stand in the train.
+She likes nobody and nobody likes her.
+She is wearing a white dress today.
+They like to play in the snow.
+We have a cat and a dog.
+I have two brothers and one sister.
+There is a book on the table.
+Jane seems to have a new boyfriend.
+You don't have to do it here.
+I didn't need to go to Germany.
+Tom lit the candle with the match.
+How is the weather in your country?
+How is the weather in your country?
+Tom can swim as fast as you.
+Do you need bread, sausage and cheese?
+We'll have to wait for five hours.
+He owns one cat and two dogs.
+"Do you want to buy them?" "Yes."
+She wants to study music and dance.
+I have two sons and two daughters.
+We slept in a very small tent.
+I own a white and black dog.
+I am married and have two children.
+I don't want to go to school.
+You didn't need to buy this book.
+Same as clicking on a Launcher icon.
+Search your and your friends' Facebook photos
+At what time do you eat breakfast?
+I still want to see you tomorrow.
+Why do you want to know that?
+Why do you want to meet Tom?
+Why do you want to sell it?
+Why do you want to see Tom?
+Why do you want to do that?
+Why do you want to learn French?
+They liked to play in the snow.
+The cat is hiding under the couch.
+Close view of the Hill of Crosses
+My children are sitting at the table.
+General view of the Hill of Crosses
+I've been trying to find my keys.
+The dog is sleeping in the car.
+Search your and your friends' Flickr photos
+I was in hospital for a week.
+Tom lit the candle with a match.
+Why do you want to leave today?
+I am going to write a letter.
+You didn't need to buy this book.
+I have a cat and a dog.
+The new teacher is in the classroom.
+He didn't need to bring an umbrella.
+Do I have to come home now?
+He'll have to do this task again.
+Speaking English is very difficult for me.
+Some apples fell down from the tree.
+There was thunder and lightning last night.
+From top to bottom, the vertebrae are:
+It can be used as a knife.
+The new teacher is in the classroom.
+I had to run to the station.
+You didn't need to bring your umbrella.
+Tom is a little older than me.
+Is there a pen on the desk?
+She bought a toy for the boy.
+You didn't need to bring your umbrella.
+I have to go to the toilet.
+She went to the cinema with him.
+I will have to work on Sunday.
+You don't have to do it here.
+[2] The maximum sixe is 35 cm.
+I don't want to listen to you.
+I don't want to listen to you.
+Why do you want to go today?
+Will you drink wine instead of milk?
+I was not as strong as my father.
+Is there anything for a vegetarian to eat?
+I have been studying German for two years.
+I have been studying English for four years.
+I have been waiting here for two hours.
+Love mince pies? Here's something to tempt you
+I have been living here for three years.
+Why do you want to come with me?
+In 2000 a Franciscan hermitage was opened nearby.
+So, what can I get for you all?
+Why do you want to work for us?
+Is there not a book in my house?
+I don’t want to eat bread for tea
+I have been studying English for five years.
+I learnt Cornish when I was a boy
+I want to drink a cup of tea.
+Who found the book that I had lost?
+We took some photos of the place-name seminar
+Thirty-two of its members died in the war.[9]
+5 ways to make time for language learning
+I like the taste of a Cornish pasty
+See our press release for #speakcornish week here
+What are you doing in #Cornwall this weekend?
+Text to be translated (up to 40 words)
+Don't you have to go to school today?
+Why do you want to buy this book?
+Why do you want to go home early?
+She is writing a new book this year.
+Portrait of Giuseppe Verdi by Giovanni Boldini, 1886
+Do not love mutation let mutation love you
+What are you doing in Cornwall this weekend?
+Let's start having fun with the Cornish language!
+This is the house where my uncle lives.
+Welcome to the new online, dictionary of Cornish
+I’d like to get a black coffee please
+There is more Cornish seen in our community
+Wales - our big sister to the north
+Can I get something to drink for you?
+Would you like a cup of tea now?
+you’re never too old to need your dad
+Good to see more and more #Cornish used!
+Would you like a cup of tea now?
+"Tom, say to me, please ..." - "Please!"
+Why do you want to talk to me?
+We sat in the center of the room.
+She has forgotten her umbrella in a bus.
+Gwra dyski Kernewek rag dha ervirans bledhen nowydh!
+Does one of these myths hold you back?
+It is not easy to write with chalk.
+Is there a television set in your bedroom?
+Very well – she’s home with my father
+How many tractors did you sell last week?
+Do you see the man or the wolf?
+Very good, thank you. Can I help you?
+Why do you want to talk to Tom?
+Check if a new Ubuntu release is available
+Oh excuse me. How can I help you?
+If I had time, I could help you.
+I still want to do that with Tom.
+Let’s go for a dip in the sea
+I still want to do that with you.
+St Piran’s day is the fifth of March
+Set creator revision of RSDP, XSDT and RSDT.
+Why do you need to do that now?
+Default color of bold text in the terminal
+Remove the Restart item from the session menu
+Start a guest session using the classic desktop
+I want to be in the other group.
+Did you have to wait a long time?
+Did you have to wait a long time?
+I have to buy flowers for my girlfriend.
+There are no sources to install software from
+She didn't need to go to the meeting.
+Why do you want to learn this language?
+Do you want to drink tea or coffee?
+And what did she draw in the sand?
+To install %s, these items must be removed:
+Sorry, there is nothing that matches your search.
+I think you will be a great father.
+The couple are going out of the church.
+Configure the sources for installable software and updates
+Printer '%s' is low on a marker supply.
+there is not a book in my house
+The kitten was drinking milk under the table.
+Access the Internet using your cell phone (test)
+Please wait while finishing setup on device '%s'...
+What time is it? What time is it?
+He bought an English book at a bookstore.
+It is said that he is in Britain.
+He could not come because he was ill.
+I lost my ticket. What should I do?
+Applications that did not fit in other categories
+Give us two knives and four forks, please.
+Give us two knives and four forks, please.
+He bought an English book at a bookstore.
+Save a copy of document “%s” before closing?
+Do you want to eat fish and chips?
+Give us two knives and four forks, please.
+Sorry, there is no music that matches your search.
+I can see. Are you going to go surfing?
+I learnt Cornish going to sea with old men
+OK. I’d like to get soup of the day
+A man without his language has lost his land.
+The woman cried when she heard the bad news.
+Enjoy Bonfire night, but bear these tips in mind!
+Research produced by Cornish speakers on a specific topic
+Come to the TOSTA concert this Friday in Falmouth
+There are a lot of earthworms in the garden.
+I still need to buy food for the party.
+Software updates are no longer provided for %s %s.
+Have you thought about using Cornish in your wedding?
+However, %s %s is now available (you have %s).
+Today our education officers are working at Saltash School
+The software on this computer is up to date.
+Remove the Log Out item from the session menu
+Sorry, there are no photos that match your search.
+I'm trying to remember the name of the book.
+Type an English or Cornish word or term here
+I didn't need to take an umbrella with me.
+Never did I tell her that I loved her.
+Hmm; but the waves there are not very good
+The computer needs to restart to finish installing updates.
+If it were Sunday today, we would go fishing.
+ERROR: no valid keyboard layout found. Check the input.
+Here are results in English that are relevant to
+"Is your wife British?" "She isn't British, she's Scottish."
+Programs for Internet access such as web and email
+Tom wants his father to buy him a pony.
+Tom wants his father to buy him a pony.
+I love this mug; how much does it cost?
+When I woke up, I was in the car.
+-h HASH [-c FILE [-p PREFIX]] [FILE1 [FILE2 ...]]
+At the moment, this is limited to plant species.
+failed to read the sectors of the core image
+Louisa, married Lt. Col. George Hart Dyke in 1802.
+This is boot disk %u. Insert boot disk %u.
+Are you sure you want to shut down the computer?
+One, two, three, four, five, six, seven, eight, nine, ten.
+Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, hundred.
+Applications can no longer access some of your Web Accounts
+The AAS resumed direct issuing of the award in 2005.
+I was trying to remember the name of the book.
+%s is deprecated. Use set gfxpayload=%s before linux command instead.
+Na ankevewgh Fer an Yeth avorow avel rann seythen #speakcornish!
+Lets you choose from thousands of applications available for Ubuntu
+To remove %s, these items must be removed as well:
+Fill in the form below to a get a translation.
+What is the weather like in your part of #Cornwall?
+For everyone going to Tregedna tomorrow, have a great weekend!
+Don't forget tomorrow's language fair as part of #speakcornish week!
+Our fifth contestants are duo Mike O’Connor and Barbara Griggs
+Our second contestants are duo Jo Tagney and Liz Davies
+There’s four classes this morning, and sports the whole afternoon.
+There is a lot of interest in #Cornish culture abroad!
+Try a whistlestop tour of the language by Mick Paynter
+Congratulations to everyone who succeeded in the exams this year!
+She died 30 December 1864.[8] John, born 1779 died young.
+You can still get a MAGA Christmas resource pack here
+The file '%s' does not contain any valid software sources.
+Lets you choose from thousands of applications available for Ubuntu.
+Suppress the dialog to confirm logout, restart and shutdown action
+Have you ever wondered what a word is in Cornish?
+The Cornish Store have mounted a wonderful #speakcornish week display!
+So, it’s Wednesday the tenth of August. a vis Est.
+The worlds best selling language learning software relaunches in Cornish.
+One, two, three, four, five, six, seven, eight, nine, ten.
+Individual vertebrae are named according to their region and position.
+Do you know which room the public meeting is in?
+They are waiting for you in front of the door.
+Cake is pudding. You need to eat something healthy first
+The family currently comprises 54 genera and approximately 200 species.[1]
+Today’s Cornish speakers use several different forms of the language
+The next Cornish Language Forum is on Saturday 7 November
+Come and see us at Bodmin Riding & Heritage Day
+When to show the battery status in the menu bar.
+Cornish music, dance, language & cultural stands, games & much more!
+Another new feature of the dictionary is the use of illustrations.
+The lady that is speaking to that boy is his teacher.
+If I had enough money, I would buy that nice car.
+Sorry, there are no files or folders that match your search.
+Whether or not to show the percentage in the menu bar.
+Who is to blame? Perhaps it was leaves on the rails?!
+Good to hear about the new Yeth an Werin in Cardiff!
+Please confirm that the PIN displayed on '%s' matches this one.
+The computer also needs to restart to finish installing previous updates.
+Whether or not to show the time in the menu bar.
+Please provide any additional information about the context of your translation
+We are at the Made in Cornwall business event this evening
+A day without mutation is a day without a Celtic language.
+Ten, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred.
+Today our education officers are working at Whitstone Community Primary School
+Early popular groups included the pioneering local Nuuk Orleans Jazz Band.[1]
+Use the same format choice for startup and the login screen.
+Use the same language choices for startup and the login screen.
+the door of the house of the husband of the woman
+The anniversary of #Cornish minority status recognition is today. Happy anniversary!
+Look! It is pretty and big; very pretty and very big!
+The local authority is Windsor and Maidenhead Borough Council[citation needed] .
+I have to write a letter. Do you have some paper?
+Some software updates won't be applied until the computer next restarts.
+Copyright (c) 2007-2010 Peng Huang Copyright (c) 2007-2010 Red Hat, Inc.
+D'Aubigny left for Paris and again earned her living by singing.
+Don't forget tonight's Fish and Chip Dinner as part of #speakcornish week!
+For everyone going to Tregedna V (East) tomorrow, have an enjoyable weekend!
+Have you got ideas for new projects? Take a look at this!
+One of our education officers is helping at the Kaos session today.
+We were reading a book and it was a very good one.
+I didn't want to catch a cold, so I didn't go out.
+Today is the anniversary of the birth of Bob Fitzsimmons in Helston
+Don't forget tomorrow's #GogMagog afternoon and performance as part of #speakcornish week!
+This is not a suitable boot disk. Please insert boot disk %u.
+For their third album, 1994's Akua Tuta, Kashtin signed with Columbia Records.
+Details of how the Akademi researches a new term is explained here
+This service is free for short translations of less than 40 words.
+It is home to Windsor Castle, Eton College, Legoland and Ascot Racecourse.
+He was educated at Christ Church, Oxford and with a Grand Tour.[4]:19
+none of the selected modes were compatible with the possible modes: %s
+His sister Anne married John Buller MP for Exeter and West Looe.[6]
+Are you sure you want to close all programs and log out?
+Poles and Lithuanians unsuccessfully rebelled against Russian authorities in 1831 and 1863.
+Are you sure that you wish to remove this Ubuntu Web Account?
+The aim of the Akademi is to start adding recordings in 2020
+Use the %C and %C keys to select which entry is highlighted.
+Adams was born in Laneast, near Launceston, Cornwall, and died in Cambridge.
+Whether or not to show the bluetooth indicator in the menu bar.
+He was created Baronet Lemon of Carclew, Cornwall on 24 May 1774.[7]
+This applies to the spoken varieties as well as to orthographic systems
+To sync with another computer, choose “Sync Between Computers” from that computer.
+List available video modes. If resolution is given show only modes matching it.
+We have updated our website’s learning & teaching section, check it out here
+Makes it so that the restart button doesn’t show in the session menu.
+Makes it so that the shutdown button doesn’t show in the session menu.
+You can find more information about the Akademi Kernewek and its work here
+There is no known information about Anderson's parent's and she also never married.[4]
+Are you sure you want to close all programs and restart the computer?
+Also around 1687, D'Aubigny became involved with an assistant fencing master named Sérannes.
+Makes it so that the logout button doesn’t show in the session menu.
+Getting married? Going to a wedding? Some useful phrases in Cornish are here.
+Please enter the following PIN on '%s' and press “Enter” on the keyboard:
+Today in 1643, Sir Bevil Grenville was killed at the battle of Lansdowne
+Luxullianite from Cornwall, showing dark patches of tourmaline and pink crystals of orthoclase
+You are leaving the graphical boot menu and starting the text mode interface.
+An anchovy is a small, common salt-water forage fish of the family Engraulidae.
+Run '%s --help' to see a full list of available command line options.
+Whether or not to show confirmation dialogs for logout, restart and shutdown actions.
+Thank you to everyone who came to the MAGA conference at the weekend
+The great sand eel[1] (Hyperoplus lanceolatus) is the greater species of sand eel.
+Congratulations to the @thegrenaways on Friday - winners of Kan Rag Kernow 2017!
+Choose Web Accounts from the user menu to reinstate access to this account.
+A common tern with a sand lance, Biddeford Pool, ME - August 2013
+Cornwall Council Cabinet adopted a Cornish Language plan for the Council this morning!
+Options for when to show battery status. Valid options are "present", "charge", and "never".
+She has won several awards, including the 1993 Kodansha Manga Award for Sailor Moon.[2]
+Thin section of luxullianite from Cornwall, showing clusters of radially-arranged, acicular, greenish tourmaline crystals
+#Cornwall 196 years ago today, Prof. J.C. Adams was born at Laneast near Launceston
+Fraser died at her home in Winnipeg, Manitoba, on December 24, 2019, by suicide.
+Translation courtesy the translation service - excellent to see it actually on the train!
+Gwenno has toured as a synth player with Pnau and Elton John in 2012.[16][17]
+This all-female aviation regiment was not welcomed initially into the military with open arms.
+In Birmingham, she built the Fairmont Apartments on Highland Avenue soon after settling in.
+I have a cat and a dog. The cat's black and the dog's white.
+Updated software is available for this computer. Do you want to install it now?
+Please let Ray Chubb know if you are planning to attend by emailing ray@spyrys.org.
+You have started a review, are you really sure you want to cancel now?
+Are you sure you want to close all programs and shut down the computer?
+As an additional security measure, please fill in the text from the picture below:
+We have set up our exhibition in Lys Kernow for European Day of Languages!
+The Penlee lifeboat disaster occurred on 19 December 1981 off the coast of Cornwall.
+When a language is installed, individual users can choose it in their Language settings.
+required virtual size does not fit available size: requested=(%d, %d), minimum=(%d, %d), maximum=(%d, %d)
+This software does not work with the “%s” graphics driver this computer is using.
+Noel has been living and working in education on the Isle of Lewis since 1978.
+For longer translations, the cost will depend on the length and complexity of the text.
+She appeared for the last time in La Vénitienne by Michel de La Barre (1705).
+Are you going to the Gorsedh tomorrow? Come and see us on the Maga stall!
+I was at sea with my father and five more men in a fishing boat
+Tune in to BBC Radio 3 tonight at 11pm to hear some singing in Cornish
+Melting Pot, Krowji, Redruth will host a very interesting kwiz on Monday 20th July 7.30pm.
+In 1976 Na h-Òganaich were invited to participate in an extended tour of the USA.
+Please note that Cornwall Council cannot provide translations for text that could be considered offensive.
+Visit the TOSTA festival village on the Prince of Wales Pier Falmouth starting on Friday!
+Today MAGA education officers are working with schools as part of St Austell Feast Week
+Come and make a short film with Miracle Theatre or discuss art with Tate St.Ives
+See you for some whisky, singing and dancing in Cornish this weekend at Lowender Peran!
+From 1973–2004 the American Association of University Women issued the awards, on advice from the AAS.
+Julie d'Aubigny (1670/1673–1707), better known as Mademoiselle Maupin or La Maupin, was a 17th-century opera singer.
+Josephine d'Arby (born 3 October 1972) is a Welsh television presenter and painter from Newport, Wales.
+If you would like something translated into Cornish or from Cornish into English, we can help.
+Tell us what do you like! Make a photo, picture or film using “Da yw genev”
+Visit the most popular pages on the MAGA website for lots of useful words and phrases
+Goodbye, %s. Are you sure you want to close all programs and shut down the computer?
+I have a cat and a dog. The cat is black and the dog is white.
+Listen to the new song by The Changing Room – 325,000 have watched the video already!
+Some results may have Middle or Late variants and these are indicated M and L respectively
+He managed Catatonia and more recently Jeb Loy Nichols, which prompted a resurrection of Recordiau Anhrefn.[6]
+OK. Soup of the day, fish and chips, and a steak and chips. Is that all?
+This led to engagements throughout the Celtic Language speaking world: in England, Canada, Wales and Brittany.
+Send it in the first place to and we will discuss it with you or telephone.
+Year Name Additional Information 2003 I'r Brawd Hwdini Compilation of re-recordings of songs by Meic Stevens[30]
+He was Member of Parliament for Penryn 1770–1774 and Cornwall 1774–1824, a total of 54 years.
+[1]The vertebral column houses the spinal canal, a cavity that encloses and protects the spinal cord.
+An example may be seen in the Duke of Wellington's monument at St Paul's Cathedral in London.
+The Royal Borough of Windsor and Maidenhead is a Royal Borough of Berkshire, in South East England.
+Why not make a short film for speak Cornish Week? Here’s what people did in previous years
+You can find information on these pages about the Cornish Language and how you can use it.
+Radyo an Gernewegva is looking for your views on its service – please fill in their questionnaire!
+Greenland was isolated from modern North American and European popular music until well into the mid-20th century.
+Tonight the Taves an Tir project are holding a social evening in Redruth to talk about placenames.
+An interesting article in The Guardian this week about small languages and how they can support businesses.
+Clupeidae is a family of ray-finned fishes, comprising, for instance, the herrings, shads, sardines, hilsa, and menhadens.
+There is a great need for Inuit artists to directly speak to those affected from the past."[13]
+Whether it is St Austell Feast Week  or just hanging around, encourage people to use “Dydh da!”
+In December 2004 Gwenno filmed the song "Ysolt y'nn Gweinten" by Celtic Legend for Classic FM TV.
+Updated software has been issued since %s %s was released. Do you want to install it now?
+After the 3rd partition of the Polish–Lithuanian Commonwealth in 1795, Lithuania became part of the Russian Empire.
+This photo is missing. You can open Shotwell to retrieve it or remove it from your library.
+Goodbye, %s. Are you sure you want to close all programs and log out from your account?
+Have you received your Maga newsletter? If you haven’t, you can sign up here to receive it
+Until 1705, La Maupin sang in new operas by Pascal Collasse, André Cardinal Destouches, and André Campra.
+In 1702, André Campra composed the role of Clorinde in Tancrède specifically for her bas-dessus (contralto) range.
+Gwenno Mererid Saunders (born 23 May 1981) is a Cornish-Welsh musician, known by the stage name Gwenno.
+Year Album Chart positions UK 2006 We Are The Pipettes 41 2010 Earth vs. The Pipettes –
+The User survey has been extended so if you have not filled it in then do it now!
+Revoy posing in front of Glénat publications of Pepper&Carrot at a signing session in a small Paris bookstore
+The lever could be operated to cause the spring-loaded arm to move back and forth across the windshield.
+On arrival in Marseille, she joined the opera company run by Pierre Gaultier, singing under her maiden name.
+Have you booked your Kan rag Kernow ticket yet? 8pm, Friday 29th January at the Penventon Hotel, Redruth.
+A Breton Bagad has won 'France Has Got Talent', come and see Cornish Talent at the Penventon tomorrow!
+An interesting seminar about the Economic Value of Culture, which includes input from Maga on the Cornish language.
+In June 2012, Saunders released a five-song Welsh language EP, Ymbelydredd, available on hand-painted cassettes on Peski Records.[18]
+This was made possible by Bangor University’s existing work linking the Welsh dictionary to free resources on Wikipedia.
+Check out this article from guest contributor Paul Mains: 5Tell-Tale Signs That You Speak a Foreign Language Fluently.
+In April 2008, Gwenno's younger sister Ani joined the Pipettes, after the departure of singers Rosay and RiotBecki.
+A great idea and a lovely way to remember somewhere very important in the history of our language.
+Naoko Takeuchi (武内 直子, Takeuchi Naoko, Japanese: [ta.keꜜ.ɯ.tɕi naꜜ.o.ko] born March 15, 1967) is a Japanese manga artist.
+The dictionary uses Standard Written Form (SWF), the spelling system agreed for public use and use in schools.
+This is a two-sided DVD. You have booted from the second side. Turn the DVD over then continue.
+People are allowed to erect wooden crosses less than 3 metres (9.8 ft) in height with no permits.[6]
+Ani now also releases music with the band The Lovely Wars and solo under the name Ani Glass.
+Her first high-profile dramatic acting role was as series regular WPC Jodie Finn, in the BBC drama Merseybeat.
+He died on 11 December 1824 and was succeeded in his baronetcy by his son Charles Lemon (1784–1868).
+On October 8, 1941, an order was issued to deploy three women's air-force units, including the 588th Regiment.
+You need an Ubuntu Remote Login account to use this service. Visit uccs.canonical.com to set up an account.
+It is also fully bilingual now, so you can use the dictionary in English, or entirely in Cornish.
+Here's a Radio 4 programme about small languages and Rory McGrath singing in Cornish at the SUNS festival.
+By default, this dictionary writes <k> for /k/, <hw> for /ʍ/ or /hw/, and <-i> for word-final /i/
+If you have an account on an RDP server, Remote Login lets you run applications from that server.
+Yes its Tregedna time again, 19th, 20th & 21st of February BOOK NOW! (contact Sam at the MAGA office)
+Tagging provides additional information and makes forms that have hitherto been used by only one group available to everybody
+Yr Anhrefn, also known simply as Anhrefn, were an influential Welsh punk rock group of the 1980s and 1990s.
+We will be at the Royal Cornwall show – come and visit us in the culture and heritage area!
+There are two weeks left to apply for the Song for Cornwall, contact us if you need any help!
+Listen to Radio Cornwall this afternoon at 4.15pm to hear 'Little Waves Storytelling' speak Cornish for Speak Cornish Week!
+Akademi Kernewek is responsible for setting standards for the language, developing the dictionary, place names and carrying out research
+The site took on a special significance during the years 1944–1990, when Lithuania was occupied by the Soviet Union.
+We have collected this year’s #speakcornish week films here. If we have missed any, email a link to cornishlanguage@cornwall.gov.uk
+Akademi Kernewek is recognised by Cornwall Council as the definitive body responsible for corpus planning for the Cornish language
+You can get good examples of #Cornish from the MAGA website, please let us know how you get on!
+The name originates from the village of Luxulyan in Cornwall, United Kingdom, where this type of granite is found.
+Théophile Gautier loosely based the title character, Madeleine de Maupin, of his novel Mademoiselle de Maupin (1835) on her.
+Press enter to boot the selected OS, `e' to edit the commands before booting or `c' for a command-line.
+One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen
+The Akademi Terminology Panel researches new terms not found in the Cornish language dictionary from a variety of sources including
+If you have an account on an RDP or Citrix server, Remote Login lets you run applications from that server.
+You need an Ubuntu Remote Login account to use this service. Would you like to set up an account now?
+While travelling and performing in these impromptu shows, La Maupin dressed in male clothing but did not conceal her sex.
+The Akademi comprises Cornish language experts and provides advice on standards for Cornish language in the Standard Written Form (SWF)
+It replaces the MAGA online dictionary, which was in place for 10 years, and has a number of new features.
+Today is midsummer in #Kernow! The Old Cornwall Societies have a list of bonfires here, scroll down to What’s On
+In Broughton, Simon; Ellingham, Mark; McConnachie, James; Duane, Orla (eds.). World Music, Vol. 1: Africa, Europe and the Middle East.
+Britain’s favourite birds, No 3 is a blackbird, No 2 is a barn owl but No 1 is a robin.
+Keur heb Hanow would like your help to make their first CD. Please follow the link to make a pledge.
+Did you enjoy #worldpoetryday ? No Heart Without Language posted several works by Celtic authors, this was one in #Kernewek
+Another variant name is launce,[2] and all names of the fish are references to its slender body and pointed snout.
+The list of changes is not available yet. Please use http://launchpad.net/ubuntu/+source/%s/%s/+changelog until the changes become available or try again later.
+She is best known as the author of Sailor Moon, one of the most popular manga series of all time.[1]
+The Akademi Kernewek has recently published a new online Cornish dictionary where you can find over 10,000 words in Cornish.
+On this day in 1497, the #Cornish army of 10,000 lost the battle of Deptford Bridge against a force of 25,000.
+Take a moment to visit our partners who support #speakcornish week. Click on their logos at the bottom of this page.
+By 1893, Mary Anderson had moved west to Fresno, California until 1898 where she then operated a cattle ranch and vineyard.
+Want some #Cornish over the next three days? Come and see us in the Cornwall Council pavilion at Royal Cornwall Show!
+There are no more than four or five in our village who can speak Cornish now, old people, eighty years old.
+This dictionary is in the Standard Written Form (SWF) of the Cornish Language, as agreed in 2008 and reviewed in 2014
+The European anchovy (Engraulis encrasicolus) is a forage fish somewhat related to the herring. Anchovies are placed in the family Engraulidae.
+The date of the next forum is Saturday 11 November in Trelawny, County Hall, Truro from 10am. Papers are available from
+Some species, such as T. murphyi, are harvested in purse seine nets, and overfishing (harvesting beyond sustainable levels) has sometimes occurred.[4]
+The next language forum meeting will take place on Saturday 15th October 2016 in 2N:03, New County Hall, Truro from 10am
+Important news! Cornwall Council is seeking a Cornish Language Lead officer. Please forward this link to anyone who may be interested.
+Michael Portillo met with Cornish speakers on Great British Railway Journeys (Series 7 Episode 10). Missed it? Catch up on iPlayer.
+Well done  Café Polyglot Penzance  a great Thursday evening of language learning. Thank you for inviting us to 'share the Cornish'
+Fraser's first album, released in June 2014, was recorded with her bandmates from Sanikiluaq, with seven original and three cover songs.
+News from the first Forum last Saturday about future structures for the language and a new project fund open for applications.
+What Cornish song makes you feel happy? Post it online tomorrow (20th) with the tag #HappySoundsLike for the international day of happiness!
+There are about 50,000 species of animals that have a vertebral column.[2] The human vertebral column is one of the most-studied examples.
+The largest record label in Greenland is ULO, from the town of Sisimiut; it was created by Malik Hoegh and Karsten Sommer.
+She sang for the court at Versailles on a number of occasions, and again performed in many of the Opéra's major productions.
+She later condemned the protesters in a Twitter post and in an Instagram video saying, "We have done a good thing today.
+On the road south, D'Aubigny and Sérannes made a living by giving fencing exhibitions and singing in taverns and at local fairs.
+She presented a number of high-profile programmes including the Bigger Breakfast (a spin-off from The Big Breakfast) and Top of the Pops.
+If you use 'traditional graphs' when writing the SWF, please refer to the following table to help you in using the dictionary
+On September 7, 1993, Pope John Paul II visited the Hill of Crosses, declaring it a place for hope, peace, love and sacrifice.
+After the lifeboat had rescued four people, both vessels were lost with all hands; in all, sixteen people died including eight volunteer lifeboatmen.
+Hi %s, you purchased in the past from Ubuntu One, would you like to use the same payment details? Please review your order.
+Specifies the font to use for line numbers when printing. This will only take effect if the "Print Line Numbers" option is non-zero.
+The Akademi intends to develop this feature and explore with Bangor University other ways to make our language more accessible using digital apps.
+The system does not have information about the available languages yet. Do you want to perform a network update to get them now?
+The Terminology Panel may then recommend to the Akademi Board that the 'proposed term' become an official term for the Cornish language dictionary
+David Émile Durkheim (French: [emil dyʁkɛm] or [dyʁkajm];[1] April 15, 1858 – November 15, 1917) was a French sociologist, social psychologist and philosopher.
+The dictionary is written in the Standard Written Form of Cornish and the intention is that it will be constantly updated and extended
+Gwenno appears on The Boy Least Likely To's 2013 album The Great Perhaps, contributing vocals to the track "It Could Have Been Me".
+The new dictionary is formatted to work on all devices, and it only has one search box to make it easier for use.
+From February 2005, she starred as Peally Maghti, one of the presenters of the BBC's award-winning spoof of 1980s science programming Look Around You.
+When --variables is used, standard input is ignored, and the output consists of the environment variables that are referenced in SHELL-FORMAT, one per line.
+The festival arts documentary National Eisteddfod 2017 with Josie d'Arby was broadcast in the summer of 2017 on BBC Four and BBC Two Wales.
+It seems you haven't set yet your preferred Ubuntu One payment method. To add a payment method, please visit the Ubuntu One online store.
+Verdi came to dominate the Italian opera scene after the era of Vincenzo Bellini, Gaetano Donizetti, and Gioachino Rossini, whose works significantly influenced him.
+Hill of Crosses (Lithuanian: Kryžių kalnas ) is a site of pilgrimage about 12 km north of the city of Šiauliai, in northern Lithuania.
+On the 27th June 1497, Michael Joseph (An Gof) and Thomas Flamanck were executed. Commemorations will take place tomorrow in St Keverne and Bodmin
+The CAVA conference is on at Tremough today and tomorrow. Are you going to the Cornish Language Research Network Conference which starts on Monday?
+Press enter to boot the selected OS, `e' to edit the commands before booting or `c' for a command-line. ESC to return previous menu.
+Revoy creates the series entirely with free software, such as Krita and Inkscape,[1][6] making the Krita source files for each image available for download.[7]
+Here is Scott Mann MP saying his Oath in Cornish in Parliament last week. Sarah Newton MP said her Oath in Cornish as well.
+UPDATE: The new date of this next forum meeting is Saturday 3 June in Trelawny, County Hall, Truro from 10:00–13:00. Papers to follow shortly.
+In December 2019, a woman tourist from China removed and tossed away a cross believed to be set up by Hong Kong pro-democracy camp.
+It became a unitary authority on 1 April 1998 with the abolition of Berkshire County Council.[3] It is the only Royal Borough outside Greater London.
+Please sign up to receive our free bilingual newsletter! You can read about what is happening in Cornish language and culture in #Cornish and English.
+Mary Elizabeth Anderson (February 19, 1866 – June 27, 1953)[1] was an American real estate developer, rancher, viticulturist and inventor of the windshield wiper blade.
+There is a lot going on for Pirantide and it starts tomorrow! See our calendar for details of Pirantide events running all over the world:
+She befriended an elderly singer, Bouvard, and he and Thévenard convinced Jean-Nicolas de Francine, master of the king's household, to accept her into the company.
+Grand Bard Maureen Fuller will give a reading in Cornish at the St Pirans Oratory tomorrow which will be filmed by BBC Songs of Praise.
+One of the next stages of the Cornish language dictionary project is to add recordings to help learners hear how each word should be said
+He married Jane, the eldest daughter of James Buller, MP for Cornwall and his wife Jane, who was eldest daughter of Allen Bathurst, 1st Earl Bathurst.
+While in theory RMC and RLC may be defined as sharply distinct varieties of Cornish, the language spoken by many today is situated somewhere in between
+Kashtin were a Canadian folk rock duo in the 1980s and 1990s, one of the most commercially successful and famous musical groups in First Nations history.[1]
+The clupeids include many of the most important food fishes in the world, and are also commonly caught for production of fish oil and fish meal.
+He formally established the academic discipline and—with Karl Marx and Max Weber—is commonly cited as the principal architect of modern social science and father of sociology.[2][3]
+Julie d'Aubigny was born in 1673[1] to Gaston d'Aubigny, a secretary to Louis de Lorraine-Guise, comte d'Armagnac, the Master of the Horse for King Louis XIV.
+Emma Frances Isabella Jane married her cousin Anthony Buller in 1805 Charles, 2nd Baronet Tryphena-Octavia - died young Caroline Matilda married John Hearle Tremayne in 1818
+A friend from the Isle of Lewis, Donnie MacLean, was working with the BBC and introduced them to recordings of the little-known Melbost Bard, Murdo Macfarlane.
+Kylgh members visited Bosue Vineyard for a tour of the vines and a talk about the process in the winery and, of course, a tasting session.
+Cervical spine: 7 vertebrae (C1–C7) Thoracic spine: 12 vertebrae (T1–T12) Lumbar spine: 5 vertebrae (L1–L5) Sacrum: 5 (fused) vertebrae (S1–S5) Coccyx: 4 (3–5) (fused) vertebrae (Tailbone)
+Year Name Label Format Language 2014 Y Dydd Olaf Peski, Heavenly Digital download, CD, vinyl Welsh, Cornish 2018 Le Kov Heavenly Digital download, CD, vinyl Cornish
+A #Cornish blessing at St Nicholas Chapel, St Ives was delivered by Mick Paynter and took place yesterday as part of St Ives Council’s wedding fair.
+It seems you don't have an Ubuntu One account, or you are not logged in. To continue, please login and visit the Ubuntu One online store.
+On November 10, 1903 Anderson was granted her first patent[2] for an automatic car window cleaning device controlled from inside the car, called the windshield wiper.[3]
+Soon after the wedding, her husband received an administrative position in the south of France, but the Count kept her in Paris for his own purposes.
+She released her first solo full-length album, the Welsh-language Y Dydd Olaf, in October 2014 on Peski Records.[19] In May 2015 Gwenno was signed to Heavenly Recordings.
+The February newsletter is available here. If you have not received it, you can sign up on our website to get it delivered straight to your inbox!
+A counterweight was used to ensure contact between the wiper and the window.[6][7] Similar devices had been made earlier, but Anderson's was the first to be effective.[7]
+Number of crosses[2] 1800s over 9,000 1900 130 1902 155 1922 50 1938 over 400 1961 destroyed 5,000 1975 destroyed 1,200 1990 some 55,000 2006 over 100,000
+Sorry, we have encountered a technical problem. No money has been taken from your account. To try your purchase again, please visit the Ubuntu One online store.
+The Standard Written Form also makes provision for the use of 'traditional graphs' such as word-final <y>, which are held to be equally correct, for personal use
+It's September - time to start learning Cornish. Lots of classes are re-starting this week. Look ak www.learncornishnow.com to see which is the best one for you!
+The original group has reformed on several occasions since then on a one-off basis, notably at Fèis nan Còisir in Stornoway and at Celtic Connections in Glasgow (2007).
+Basically, two ‘poles’ can be identified at the ends of a continuum that houses all kinds of spoken Cornish: Revived Middle Cornish (RMC) and Revived Late Cornish (RLC)
+After a new term has been listed online for at least one year, all comments will be considered by the Akademi and the proposed term reconsidered if necessary
+Rhys Mwyn gave up his regular show on Llangefni based community radio Môn FM in 2016, to start broadcasting a regular Monday night show on BBC Radio Cymru.[10]
+Lemon's younger brother John (1754–1814) became a Member of Parliament for Saltash and Truro[4] :60–61 and was the owner of Pollevillan.[5] John Lemon died on 5 April 1814.[1]
+The MAGA translation service is free for up to 40 words, and we are always grateful to receive examples of the results in film, photographs, publications or products
+When Lieutenant-General of Police Gabriel Nicolas de la Reynie tried to apprehend Sérannes for killing a man in an illegal duel, the pair fled the city to Marseille.
+The regiment flew harassment and precision bombing missions against the German military from 1942 until the end of the war.[6] At its largest, it had 40 two-person crews.
+Please find attached a poster for a Eucharist in #Cornish that will be celebrated at Truro Cathedral on Tuesday 28th April at 1pm, on the feast of Winwalloe.
+She is fluent in Welsh and Cornish.[9][10][11] On 18 April 2019 she presented "Songs from the Edgelands", a programme about songs in minority languages on BBC Radio 4.[12]
+Hundreds of people have contributed code to GNOME since it was started in 1997; many more have contributed in other important ways, including translations, documentation, and quality assurance.
+Since 1984, American hip hop has had a major influence, and a hip hop crew, Nuuk Posse, has been one of the most successful groups of recent years.[1]
+She has more recently posted solo material to her Myspace page, and made a free download of a mini album titled U & I available in October 2007.
+The lifeboat Solomon Browne, based at the Penlee lifeboat station near Mousehole, went to the aid of the vessel Union Star after its engines failed in heavy seas.
+Looe based band The Changing Room won Kan Rag Kernow on the 30th January, and will represent Cornwall at the international Pan Celtic festival in Ireland in April.
+#Cornish language is the star again – a symphony with Cornish language singing is to be the finale at a top London Music Festival thank you Jamie Brown.
+An attack technique of the night bombers involved idling the engine near the target and gliding to the bomb-release point, with only wind noise left to reveal their presence.
+In 2001 she had a role in the Welsh language soap opera Pobol y Cwm on S4C, for whom she would later host her own programme Ydy Gwenno'n Gallu...?
+If you know any Cornish, please complete this survey. It is important that we survey Cornish users each year to find out what progress is being made. Thnak you!
+Sir William Lemon, 1st Baronet (11 October 1748 – 11 December 1824) was a Member of Parliament for Cornish constituencies from 1770 to 1824, a total of 54 years.
+Words that are in use across different groups of speakers with both RMC and RLC backgrounds are thought of as ‘common’ and are therefore not marked by any tag
+The 2016 Skians conference for Cornish language research will be on 30 September and 1 October at the Tremough Campus, Penryn – book your tickets on the Eventbrite website
+All new terms are reviewed by the Akademi Board and then added to the online Cornish language dictionary, clearly tagged as a 'proposed term' for at least one year
+There will be a church service in Cornish at Breage Parish Church. A service for the Feast of St James will be on 26 July at 3pm. Everyone welcome!
+Recently, she has been a presenter on BBC Young Musician of the Year, BBC Cardiff Singer of the World, Songs of Praise and BBC Four's Choir of the Year.
+The label re-released her debut album in July.[20][21] The album won Best Welsh Album at the 2015 National Eisteddfod[22] and in November 2015 won the 2014–2015 Welsh Music Prize.[23]
+The Akademi Kernewek is a team of Cornish language experts, who are working to include in the online dictionary as many Cornish words from existing sources as they can find.
+The exact number of crosses is unknown, but estimates put it at about 55,000 in 1990[2] and 100,000 in 2006.[3] It is a major site of Catholic pilgrimage in Lithuania.
+Near Poitiers, she met an old actor named Maréchal who began to teach her until his alcoholism got worse and he sent her on her way to Paris.[3][better source needed]
+Kan rag Kernow 2016, Penventon Hotel, Redruth, 29 January 8pm. Get your tickets now. Five bands competing to represent Cornwall in Ireland and music from MacQuarrie and Toms as well!
+Jack mackerels or saurels[2] are marine fish in the Trachurus genus of the Carangidae family. The name of the genus derives from the Greek words trachys ("rough") and oura ("tail").
+Cornwall Council has announced two new tender opportunities on Supplying the South West for work to support national minority status for the Cornish - follow this link for more details
+Margaret casually mentioned that her brother Donnie was learning guitar, so a decision was made to form a trio to enter the Folk Group competition at the Royal National Mòd.
+The awardee is invited to give a talk at an AAS meeting and is given a $1,500 honorarium.[1] The award is named in honor of American astronomer Annie Jump Cannon.
+On this day in AD1497, the #Cornish won the battle of Gill Down, near Guildford, against the English forces of King Henry VII, causing panic on the streets of London.
+In October 2018 the Cornish Language Board claimed that Saunders' album Le Kov had contributed to a 15% increase in the number of people taking Cornish language exams during 2018.[26]
+Adam Smith (16 June 1723 NS (5 June 1723 OS) – 17 July 1790) was a Scottish moral philosopher, pioneer of political economy, and a key figure in the Scottish Enlightenment.[2]
+Sinn Féin (/ʃɪn ˈfeɪn/ shin FAYN,[4] Irish: [ʃɪnʲ ˈfʲeːnʲ]; English: "[We] Ourselves")[5] is a centre-left[6] to left-wing[2] Irish republican political party active in both the Republic of Ireland and Northern Ireland.
+The group recorded three albums for the Beltona Sword label, a branch of Decca Records - The Great Gaelic Sound of Na h-Òganaich (1972), Gael Force Three (1973) and Scot-Free (1975).
+On this day in 1595 a Spanish raid took place on Mousehole, Paul, Newlyn and Penzance, killing Jenkyn Keigwin. He was the grandfather of John Keigwin who produced works in Cornish
+She retired from the opera in 1705 and took refuge in a convent, probably in Provence, where she is believed to have died in 1707 at the age of 33.[citation needed]
+For instance, the team is currently working on rugby terms that are already in use by speakers so that these can be made available in the dictionary to translators, students, etc.
+It's time once again for Kan rag Kernow. If you have a song to enter, the deadline is mid December. And remember - we can help with translation. For further information, see
+Margaret has continued to sing professionally with accordionist Billy Anderson, while Donnie in the 1980s became a popular TV performer and presenter with the children's Gaelic TV programme Dotaman on BBC Scotland.
+For example some users of Middle Cornish-based orthographies will pronounce Middle Cornish long nn in words like penn ‘head’ as dn and say pedn, which is normally considered a feature of RLC
+An evening of fun and games in Cornish for beginners and experienced alike, at the Wig and Pen, Truro. These Yeth an Werins are held twice a mis, join the facebook group
+The Marquis de Dangeau wrote in his journal of a performance by La Maupin given at Trianon of Destouches' Omphale in 1701 that hers was "the most beautiful voice in the world".[1]
+A sand lance or sandlance is a fish belonging to the family Ammodytidae. Several species of sand lances are commonly known as "sand eels", though they are not related to true eels.
+The Akademi has a process for research and review of these new terms, similar to other languages, so that the terms can be added to the dictionary and made available to everyone.
+Mary Anderson was born in Greene County, Alabama, at the start of Reconstruction in 1866. In 1889 she moved with her widowed mother and sister to the booming town of Birmingham, Alabama.
+Original members Hefin Huws and Dewi Gwyn left the band in the late 1980s and were replaced by Dylan Hughes (formerly of Y Cyrff) and Sion Jones (formerly of Maffia Mr Huws).
+Time for Kan Rag Kernow 2018 – this year in Lowenac Hotel, Camborne on Friday 19th January! Five bands in competition plus a set from award-winning Macquarrie and Toms!  Book your tickets here
+The following year they performed another of Murdo's songs (Mi le m' Uillinn) and won the New Song competition at the Pan-Celtic Festival in Killarney, Ireland, introducing themselves on to the international stage.
+He was the son of William Lemon and Anne, the daughter of John Willyams of Carnanton House and the grandson of William Lemon (1696–1760), who acquired the family estate at Carclew in 1749.[1][2][3]
+There are just a few days left now to fill in this survey. If you use any Cornish, from just a few words up to and including full fluency please follow this link.
+Antonio Lucio Vivaldi (UK: /vɪˈvældi/, US: /vɪˈvɑːldi, -ˈvɔːl-/;[2][3][4][5] Italian: [anˈtɔːnjo ˈluːtʃo viˈvaldi] (listen); 4 March 1678 – 28 July 1741) was an Italian[6] Baroque composer, virtuoso violinist, teacher, impresario, and Roman Catholic priest.
+These two uprisings are connected with the beginnings of the hill: as families could not locate bodies of perished rebels, they started putting up symbolic crosses in place of a former hill fort.[1]
+The interior decoration draws links with La Verna, the mountain where St. Francis is said to have received his stigmata.[1] In May 2013, Šiauliai District Municipality adopted rules regarding the placement of crosses.
+Our motherland is great."[7] Lithuanian Foreign Minister Linas Linkevičius condemned the woman's action in a tweet that called it a "shameful, disgraceful act of vandalism" and said such behavior "can't and won't be tolerated."[8]
+German soldiers likened the sound to broomsticks and named the pilots "Night Witches".[1][2] Due to the weight of the bombs and the low altitude of flight, the pilots did not carry parachutes until 1944.[3][4]
+An interesting new exhibition opens today at Tintagel Castle which includes Cornish. The Welcome Centre has bilingual signage as well. Maga was very glad to help English Heritage with this project. Congratulations to them
+The band soon split after that release, but brothers Rhys Mwyn and Sion Sebon formed a new band, Mangre, in 2000. Mwyn went on to manage the Crai label and work as an agent.
+Due to their small size, and position in the lower trophic level of many marine food webs, the levels of methylmercury they bioaccumulate are very low, reducing the risk of mercury poisoning when consumed.
+The 144 species are placed in 17 genera; they are found in the Atlantic, Indian, and Pacific Oceans, and in the Black Sea and the Mediterranean Sea. Anchovies are usually classified as oily fish.[2]
+She debuted as Pallas Athena in Cadmus et Hermione by Jean-Baptiste Lully the same year. She performed regularly with the Opéra, first singing as a soprano, and later in her more natural contralto range.
+Little is known for certain about her life; her tumultuous career and flamboyant lifestyle were the subject of gossip, rumor, and colourful stories in her own time, and inspired numerous fictional and semi-fictional portrayals afterwards.
+In order to make things a bit clearer to learners, two tags have been chosen to mark words that are perceived as either exclusively Revived Middle Cornish (marked “M”) or Revived Late Cornish (marked “L”)
+At that time Noel was working as a college lecturer and unable to take part, so Margaret and Donnie proceeded to tour, and later perform back in the UK, as a duo with backing musicians.
+Though women were initially barred from combat, Major Marina Raskova used her position and personal contacts with the Chairman of the Council of People's Commissars, Joseph Stalin, to obtain permission to form female combat units.
+Gwenno joined the Pipettes in April 2005 after founding member Julia left. She is most notable for her lead vocals on the single "Pull Shapes" and the chorus of "Your Kisses Are Wasted on Me".
+She applied for, and in 1903 was granted, a 17-year patent for a windshield wiper.[2] Her device consisted of a lever inside the vehicle that controlled a rubber blade on the outside of the windshield.
+Have you taken the survey? Maga would like to reach all of the users of Cornish that we can, so please forward this link to everyone you can think of who knows a little Cornish.
+This is an Ubuntu search plugin that enables information from local binaries to be searched and displayed in the Dash. If you do not wish to search this content source, you can disable this search plugin.
+The lesser sand eel or sand lance, Ammodytes tobianus, is a species of fish in the sand lance family Ammodytidae. It is an elongated cylindrical fish which may be up to 20 centimetres (7.9 in) long.[1]
+The singer Rasmus Lyberth did the most to change Greenlandic music by performing for simple entertainment rather than functionality;[2] indeed, he took part in the Danish preselection for the 1979 Eurovision Song Contest, performing in Greenlandic.
+But the biggest step forward is the ‘new terms’ function, which comes from a mixture of sources – translation work, experts working in specialist fields such as nature conservation or architecture, and of course everyday conversation.
+Today's #10sFylm phrase is "A allav vy dha weres?”" which means "Can I help you?" post your selfie with the tags #10sFylm and #speakcornish . Please like and share, and encourage your friends to do the same!
+As well as adding new terminology and extending the range of the dictionary, over time information about each word and usage will also be made available as will audio files to allow the pronunciations to be heard
+Members of the regiment were deployed from the Engels Military Aviation School to the Southern Front as part of the 218th Division of the 4th Air Army on 23 May 1942, where they arrived on 27 May.[17]
+If you would like to go to the Cornish languaeg service at Treslothan, there is a new date for it. Instead of 27th September, it will now take place on 4th October at 3pm. See you there!
+It is claimed to be the first video produced in the Cornish language, the text having been written by her father Tim Saunders with music by Cornish composer and ex Gary Numan keyboard player Chris John Payne.
+Please fill in the Radyo an Gernewegva survey.   This is your chance to say what you like, or what you don’t like about the programme, and we can find out more about who listens to the programme.
+This is an Ubuntu search plugin that enables local videos to be searched and displayed in the Dash underneath the Video header. If you do not wish to search this content source, you can disable this search plugin.
+The album included the song 'Fight for the Right', released as part of the 'no' campaign in the 2016 Nunavut municipal land referendum, which asked voters whether they were willing to allow the municipality to sell municipal lands.[14]
+Year Name Label Format Language 2002 Môr Hud Recordiau Sain Digital download Welsh, Cornish, English 2003 Vodya Recordiau Sain Digital download Welsh, Cornish, English 2007 U & I None Digital download English 2012 Ymbelydredd Peski Digital download, cassette Welsh
+This is an Ubuntu search plugin that enables information from Facebook to be searched and displayed in the Dash underneath the Photos header. If you do not wish to search this content source, you can disable this search plugin.
+This is an Ubuntu search plugin that enables information from Banshee to be searched and displayed in the Dash underneath the Music header. If you do not wish to search this content source, you can disable this search plugin.
+This is an Ubuntu search plugin that enables information from Rhythmbox to be searched and displayed in the Dash underneath the Music header. If you do not wish to search this content source, you can disable this search plugin.
+Kelly Fraser (August 8, 1993 – December 24, 2019)[1] was a Canadian Inuk pop singer and songwriter, whose second album, Sedna, received a Juno Award nomination for Indigenous Music Album of the Year at the Juno Awards of 2018.[2]
+This is an Ubuntu search plugin that enables information from Picasa to be searched and displayed in the Dash underneath the Photos header. If you do not wish to search this content source, you can disable this search plugin.
+According to her family she had suffered through "childhood traumas, racism and persistent cyberbullying".[1] Several candlelight vigils in her honor were held at The Forks on 4 January[2] and at the Nicola Valley Institute of Technology in Merritt, BC.[11]
+A stone inscribed with the words of Pope John Paul II: Thank you, Lithuanians, for this Hill of Crosses which testifies to the nations of Europe and to the whole world the faith of the people of this land.
+MAGA is adding its congratulations to Cornish band The Changing Room who have swept the board at the Pan Celtic Festival in Ireland, winning three major prizes for #Cornwall including the Celtavision competition, with their song “Hal an Tow”.
+Glasgow-based Gaelic folk group Na h-Òganaich (Scottish Gaelic for 'the young ones' though often translated as 'young blood' ) formed early in 1971, following a concert in Dunoon where Mod Gold Medallist singer Margaret MacLeod first met guitarist Noel Eadie.
+D'Arby began a presenting career while still a student of acting at RADA. from 1994 to 1997, she presented on CBBC [3] and on SMart from 1996 to 1998, and had her own show, Josie, on Channel 5 in 1999.
+This is an Ubuntu search plugin that enables information from running applications to be searched and displayed in the Dash underneath the Applications header. If you do not wish to search this content source, you can disable this search plugin.
+Many members of the family have a body protected with shiny cycloid scales (very smooth and uniform scales), a single dorsal fin, with a fusiform body evolved for quick, evasive swimming and pursuit of prey composed of small planktonic animals.
+This is an Ubuntu search plugin that enables information from local applications to be searched and displayed in the Dash underneath the Applications header. If you do not wish to search this content source, you can disable this search plugin.
+Luxullianite (also Luxulyanite, Luxulianite) is a rare type of porphyritic granite, notable for the presence of clusters of radially-arranged acicular tourmaline crystals enclosed by phenocrysts of orthoclase and quartz in a matrix of quartz, tourmaline, alkali feldspar, brown mica, and cassiterite.
+This is an Ubuntu search plugin that enables information from various video providers to be searched and displayed in the Dash underneath the Video header. If you do not wish to search these content sources, you can disable this search plugin.
+This is an Ubuntu search plugin that enables information from available search plugins to be searched and displayed in the Dash underneath the Dash plugins header. If you do not wish to search this content source, you can disable this search plugin.
+She performs as a solo artist, releasing her first album Y Dydd Olaf on Heavenly Recordings in 2015 followed by her first album in Cornish in 2018, entitled Le Kov.[1][2] She was also a singer in the indie pop group the Pipettes.
+In 1992, they were featured in an episode of CBC Television's Ear to the Ground, and headlined the televised concert Indian Time II: Fly With Eagles.[17] The following year, McKenzie was arrested for impaired driving,[18] and spent several months in jail in 1994.[19]
+Recognising the originality and catchiness of Murdo's songs, the trio took two of them to the Royal National Mòd in Stirling in October 1971, where they won the Folk group competition and created an immediate stir with their professional performance and novel songs.
+Pepper&Carrot is an open source webcomic series by French artist David Revoy [fr].[1][2][3][4] The series consists of small episodes about teenage witch Pepper and her cat Carrot.[1] With its translations into 28 different languages and violence free stories it aims to be accessible for everyone.[1][2][5]
+"Night Witches" (German: die Nachthexen; Russian: Ночные ведьмы, Nochnyye Vedmy) was a World War II German nickname for the all female military aviators of the 588th Night Bomber Regiment, known later as the 46th "Taman" Guards Night Bomber Aviation Regiment, of the Soviet Air Forces.
+Giuseppe Fortunino Francesco Verdi (Italian: [dʒuˈzɛppe ˈverdi]; 9 or 10 October 1813 – 27 January 1901) was an Italian opera composer. He was born near Busseto to a provincial family of moderate means, and developed a musical education with the help of a local patron.
+ULO releases both Greenlandic rock bands like Sume, pop singers like Rasmus Lyberth, and hip hop music crews like Nuuk Posse as well as Inuit folk music.[12] Elements of modern Greenlandic music have also been used in the music of Kristian Blak, a Danish-Faroese jazz musician.
+Congratulations to you ALL for the amazing work with the Magi Ann Kernewek app – I can’t believe that such a thing exists! It is so important in the history of the language, and it is so great with my son as well. Big FAT thank you!
+Her father trained the court pages, and so his daughter learned dancing, reading, drawing, and fencing alongside the pages.[2][better source needed] In 1687, the Count d'Armagnac had her married to Sieur de Maupin of Saint-Germain-en-Laye, and she became Madame de Maupin (or simply "La Maupin" per French custom).
+Saunders was born in Cardiff.[3] She is the daughter of Cornish poet and linguist Tim Saunders[4] and Lyn Mererid, who is an activist and member of the choir Côr Cochion Caerdydd and works as a translator.[5] When she grew up, her father spoke Cornish; her mother spoke Welsh.[6]
+From the age of five she attended the Seán Éireann-McMahon Academy of Irish Dance[7] and was a cast member of Michael Flatley's productions of Lord Of The Dance[8] and Feet of Flames by the age of 17, playing a lead role in a Las Vegas production of the former.
+Genghis Khan (/ˈdʒɛŋɡɪs ˈkɑːn/, often pronounced /ˈɡɛŋɡɪs ˈkɑːn/;,[4][5] Mongolian: Чингис хаан, Çingis hán; Mongolian pronunciation: [t͡ʃʰiŋɡɪs xaːŋ] ( listen)) c. 1162 – August 18, 1227, born Temüjin, was the founder and Great Khan (Emperor) of the Mongol Empire, which became the largest contiguous empire in history after his death.
+Agan Tavas has organised a talk from John Rowe, from Camborne and Working at Plymouth University, with the title 'Cornish Political Cartoons'. Part will be in Cornish and part in English. It will be held on Saturday 1st April starting 7.00pm. Light refreshments will be provided and entry is by donation.
+The Annie Jump Cannon Award in Astronomy is awarded annually by the American Astronomical Society (AAS) to a woman resident of North America, who is within five years of receipt of a Ph.D., for distinguished contributions to astronomy or for similar contributions in related sciences which have immediate application to astronomy.
+Initially establishing his reputation as a composer of works in the romantic vein of Carl Maria von Weber and Giacomo Meyerbeer, Wagner revolutionised opera through his concept of the Gesamtkunstwerk ("total work of art"), by which he sought to synthesise the poetic, visual, musical and dramatic arts, with music subsidiary to drama.
+When the old political structure of Eastern Europe fell apart in 1918, Lithuania once again declared its independence. Throughout this time, the Hill of Crosses was used as a place for Lithuanians to pray for peace, for their country, and for the loved ones they had lost during the Wars of Independence.
+If you would like to hear a song in Cornish, tune in to Tadio 2 Folk Show tonight, where Sam Kelly from Looe, and a member of The Changing Room, will be singing Gwrell Glaw, trranslated by Ken George, as part of his set. Congratulations Sam - bringing Cornish to a wide audience!
+The Greenlandic rock and pop began in earnest in 1973, when ULO released the band Sume's Sumut; it was purchased by an estimated twenty percent of Greenland's total population, and singlehandedly kickstarted the local rock scene[1] by uniquely singing in the Greenlandic language and using elements of traditional drum dances in the music.
+In the years before she joined the Pipettes, she had been a solo electropop singer, mostly in the Welsh and Cornish languages, releasing two solo EPs, Môr Hud[13] (2002) and Vodya[14] (2004).[15] Saunders represented Cornwall in the Liet International song contest, 2003, and won the People's Choice Award for her performance of "Vodya".
+The vertebral column, also known as the backbone or spine, is part of the axial skeleton. The vertebral column is the defining characteristic of a vertebrate, in which the notochord (a flexible rod of uniform composition) found in all chordates has been replaced by a segmented series of bones—vertebrae separated by intervertebral discs.
+We are sad to hear that Prof. Joshua Fishman has died. Renowned for his important work with languages and socio-linguistics, he came to Cornwall in 2008, despite his advancing  years and ill health, to help us look at the process for reaching the SWF. he is a great loss to the world of languages.
+The regiment flew over 23,000 sorties, dropping over 3,000 tons of bombs and 26,000 incendiary shells.[7][8] It was the most highly decorated female unit in the Soviet Air Force, with many pilots having flown over 800 missions by the end of the war, and twenty-three having been awarded the Hero of the Soviet Union title.
+Anhrefn (Welsh for "Disorder") were an influential punk rock band from Bangor, North Wales and formed in 1982,[1] and initially sang only in Welsh.[2] The band were not supported by Radio Cymru or Welsh-language TV channel S4C, beyond an occasional interview, and bassist Rhys Mwyn became known as an outspoken critic of the Welsh pop industry.[1]
+Robbie Robertson included the title track from that album on his album Music for The Native Americans.[20] Their songs also appeared on the soundtracks to the film Dance Me Outside and the television shows Northern Exposure and Due South, and the album received a Juno Award nomination for Best Aboriginal Recording at the Juno Awards of 1995.[21]
+"Dim Heddwch" / "Priodas Hapus" (1983) Anrhefn (Cat no ANRHEFN01; green vinyl) "Be Nesa 89" / "Bach Dy Ben " (1988) Anhrefn "Rhedeg i Paris" / "Y Ffordd Ymlaen" / "Llgad Wrth Lygad" (1990) Crai C008s Bwtleg Powerhaus Llundain 1.3.1990 (1990), Information Libre (12" EP) Clutter From The Gutter (1994) Incognito, Crai (with Margi Clarke on vocals)
+Tomorrow is European Day of Languages! To mark the event, you are invited to submit photos to an online photo competition running from now until the 14th November. Let us know about your entry so that we can encourage people to vote for your photo! For full terms and conditions, including how to apply, follow this link.
+Other local performers of note include G-60 and Ole Kristiansen.[3] The 1980s saw Greenland become home to a number of bands inspired by Jamaican reggae and African American funk, like Aalut and Zikaza.[2] Modern Greenland is home to the annual Nipiaa rock festival, held in Aasiaat,[11] and performers like Chilly Friday, throat-singer Sylvia Watt-Cloutier and Karina Moller.
+Continuing her diverse career in television and the arts, she has also appeared on the stage.[4] In 2012 she wrote and directed the play, The Newport Monologues, about life in her hometown, which opened to rave reviews from press and audience in September 2012.[5] She produced and directed the arts project Private View, which featured the actor Michael Sheen.
+Many of their male counterparts saw them as inferior and treated them with lack of respect.[15] The women of the regiment were also given hand-me-downs of uniforms and over-sized shoes by the men, as well as rudimentary tools (such as rulers, flashlights, pencils, etc) that lacked the "luxury" that the male soldiers received with their tools (e.g. radar, guns, radios, etc).[16]
+Gwenno also currently co-produces and co-hosts a Welsh radio show on Cardiff Radio titled "Cam O'r Tywyllwch" ("A Step Away from the Darkness") with her Peski Records colleagues.[24] The team was also behind the CAM '15 music festival in Cardiff, which took place in April 2015 and featured the first live performance in over 20 years by Welsh music post-punk pioneers Datblygu.[25]
+Wilhelm Richard Wagner (/ˈvɑːɡnər/ VAHG-nər, German: [ˈʁɪçaʁt ˈvaːɡnɐ] (listen);[1] 22 May 1813 – 13 February 1883) was a German composer, theatre director, polemicist, and conductor who is chiefly known for his operas (or, as some of his mature works were later known, "music dramas"). Unlike most opera composers, Wagner wrote both the libretto and the music for each of his stage works.
+Born in Igloolik, Fraser moved with her family at a young age to Sanikiluaq, Nunavut.[1] She was educated at Nunavut Sivuniksavut in Ottawa before completing an indigenous studies program at the Nicola Valley Institute of Technology in British Columbia.[3] Nunavut Sivuniksavut launched in 1985 and is Canada's oldest and first Inuit post-secondary programme,[4] where Inuit youth learn about the Nunavut Land Claims Agreement.[5]
+In a visit to New York City in the winter of 1903, in a trolley car on a frosty day, Anderson observed that a trolley car driver struggled to see past the windows because of the falling sleet.[5] When she returned to Alabama she hired a designer for a hand-operated device to keep a windshield clear and had a local company produce a working model.
+Following Akua Tuta, Vollant announced that he wanted to take a break from music, and McKenzie released his debut solo album Innu Town in 1996,[22] while Vollant reemerged in 1999 with the solo album Nipaiamianan.[23] They have not released another album as Kashtin, although they have continued to perform occasional live shows together. They also collaborated with hip hop musician Samian on his 2010 remake of "Tshinanu".[24]
+In 1990, the band toured Europe and made commercial breakthroughs there, most notably becoming Top 10 stars in France after performing there as an opening act for Louis Chedid.[11] In the same year, however, they were briefly a subject of controversy when radio stations CKAC and CFGL-FM briefly stopped playing their music during the Oka crisis, although the stations eventually backed off following criticism of the move.[12]
+The precise origin of the practice of leaving crosses on the hill is uncertain, but it is believed that the first crosses were placed on the former Jurgaičiai or Domantai hill fort after the 1831 Uprising.[1] Over the generations, not only crosses and crucifixes, but statues of the Virgin Mary, carvings of Lithuanian patriots and thousands of tiny effigies and rosaries have been brought here by Catholic pilgrims.
+Born in Venice, the capital of the Venetian Republic, he is regarded as one of the greatest Baroque composers, and his influence during his lifetime was widespread across Europe. He composed many instrumental concertos, for the violin and a variety of other musical instruments, as well as sacred choral works and more than forty operas. His best-known work is a series of violin concertos known as the Four Seasons.
+Tregedna is an intensive course where people stay together, cook, eat and have fun. A variety of Cornish speakers have been asked to lead activities that are fun and designed to improve your Cornish without you noticing. It is aimed at those who have been studying Cornish for while – somewhere around 3rd – 4th grade – and who want to practise and improve their conversation in a relaxed atmosphere.
+The SW Shinty League final takes place on Sunday at 5pm in Halvasso (centre), with a BBQ afterwards. Mabe v Mylor  is the final showdown; both teams have been unbeaten all season. The Champions, Mabe just need a draw to win the Championship while the new Mylor team need to give it all! MAGA has provided some translations to the league and we look forward to seeing the golden stick!
+Sedna was released on February 25, 2017, by Nunavut's Hitmakerz record label.[1][13] The title of the album, known as ᓄᓕᐊᔪᒃ (Nuliaju) in Inuktitut, refers to the story of Sedna, the Inuit goddess of the sea, which Fraser decided to modernize in this album.[3] She said, "The goal of the album is to help heal those suffering from the effects of colonization, including the damaging effects of residential school and forced relocation.
+In 1995 the band changed musical direction to a more techno sound and released Hen Wlad fy Mamau – Land of My Mothers, It also featured producer Ronnie Stone who aided the duo in creating a world beat collection of re-mixed Welsh folk music, samples and electronic sounds featuring Welsh singers Siân James, Lowri Ann Richards, June Campbell Davies and Elinor Bennett, Punjabi rapper Harvinder Sangha and African dub collective Zion Train.[5]
+She has also worked in radio, as a co-presenter of The Steve Wright Show for BBC Radio 2 and has presented a number of documentaries for BBC Radio 4. She also presented a live edition of The Choir for BBC Radio 3 and in 2017 hosted the BBC Radio 2 Young Choristers of the Year final. In November 2011, she wrote and directed the off-beat New York Comedy A Magpie in the Mirror.
+Mwyn (born Gareth Rhys Thomas) set up his own Recordiau Anhrefn label in 1983, helping to promote like-minded Welsh bands as well as their own music.[1] The band were championed by John Peel and recorded three sessions for his BBC Radio 1 show; Peel even travelled to Wales to see the band perform.[2][3] The band played up to 300 gigs a year at their peak,[2] touring Europe several times, including Czechoslovakia,[4] Germany and the Basque Region of Spain.
+Don't forget - A new anthem in Cornish will be sung at the next Eucharist in Cornish at Truro Cathedral on Wednesday 30th September at 5.30pm. The Solemn Eucharist for the Feast of St German will be sung by the Cathedral Choir in Cornish and Latin, and in it will be the first performance of a new anthem  written by composer, Paul Comeau, with words in Cornish by Bardh Gwerin. Come and listen to this Cornish language world premiere!
+The borough was formed on 1 April 1974 as a non-metropolitan district of Berkshire, under the Local Government Act 1972, from parts of the former administrative counties of Berkshire and Buckinghamshire. From Berkshire came the boroughs of Maidenhead and Windsor, and the rural districts of Cookham and Windsor, and from Buckinghamshire came the Eton urban district, and the parishes of Datchet, Horton and Wraysbury from the rural district of Eton.[2] It inherited royal borough status from Windsor, the site of Windsor Castle.
+In 1991, the band embarked on their first full cross-Canada tour in the spring and summer,[13] and released their second album, Innu, in the fall.[14] That album spawned the band's biggest Canadian hit single, "Ishkuess", and included a cover of Willie Dunn's "Son of the Sun", the only song the band ever recorded in English.[15] The album was a shortlisted Juno Award nominee for the Best World Beat Recording and Best Roots and Traditional Album awards at the Juno Awards of 1992.[16]
+Defaid, Skateboards a Wellies (1987), Workers Playtime Bwrw Cwrw (1989), Workers Playtime Soft Lights And Loud Guitars (Part 2) (1989) Released Emotions (split LP with Last Rough Cause) Rhowch Eich Teitl Eich Hun (1990), – live cassette-only album, title translates as Fill in Your own Title Dragons Revenge (1990), Lithograph, Crai, Probe Plus Dial y Ddraig (1990), Incognito Rhedeg i Bohemia Live (1991), Pro Art Dave Goodman Sessions (1991), Incognito, Crai Hen Wlad fy Mamau – Land of My Mothers (1995), Crai
+Continuing to travel to the hill and leave their tributes, Lithuanians used it to demonstrate their allegiance to their original identity, religion and heritage. It was a venue of peaceful resistance, although the Soviets worked hard to remove new crosses, and bulldozed the site at least three times (including attempts in 1963 and 1973).[4] There were even rumors that the authorities planned to build a dam on the nearby Kulvė River, a tributary to Mūša, so that the hill would end up underwater.[5]
+The calculations were made to explain discrepancies with Uranus's orbit and the laws of Kepler and Newton. At the same time, but unknown to each other, the same calculations were made by Urbain Le Verrier. Le Verrier would send his coordinates to Berlin Observatory astronomer Johann Gottfried Galle, who confirmed the existence of the planet on 23 September 1846, finding it within 1° of Le Verrier's predicted location (there was, and to some extent still is, some controversy over the apportionment of credit for the discovery; see Discovery of Neptune).
+Mark Trevethan, the Cornish Language Lead at Cornwall Council, says: “The new online dictionary is thanks to the work of many people over the last few years. The volunteer members of the Akademi Kernewek have worked to research and proofread the entries, which is not an easy task. A partnership agreement with Bangor University’s Language Technology Unit helped us build a new dictionary database which will make editing easier in the future. Nick Harpley and Davydh Trethewey in Cornwall both worked hard to make the new database function and get the dictionary published online.”
+In 1988 they were featured in a television documentary on the Innu people, increasing their public profile throughout Quebec.[7] They were soon invited to Montreal by producer Guy Trépanier to record,[7] and released their self-titled debut album in 1989. Although that album was recorded in their native Innu-aimun language, spoken by just 12,000 people in the world, the album quickly became a major hit in Quebec, Greenland and soon in English Canada as well,[8] eventually being certified double platinum[9] and winning the Prix Félix for Best Debut Album.[10] The singles "E Uassiuian" and "Tshinanu" were popular hits for the band.
+Fraser first attracted widespread attention in 2013 with a series of Inuktitut-language covers of pop songs, most notably Rihanna's "Diamonds", on YouTube.[6] She released her debut album, Isuma, in 2014.[6] Her songs include Inuktitut and English language, and musically, combine contemporary pop with traditional Inuit sounds.[6] Fraser was dedicated to sharing Inuit culture with a widespread audience and raising awareness of present-day issues and Inuit rights; many of these themes feature heavily in her music.[7][8] Her producer reported that she was working on another album, to be called Decolonize, when she died;[6][9] crowdfunding for the album was underway at that time.[10]
+The chorus "Va, pensiero" from his early opera Nabucco (1842), and similar choruses in later operas, were much in the spirit of the unification movement, and the composer himself became esteemed as a representative of these ideals. An intensely private person, Verdi, however, did not seek to ingratiate himself with popular movements and as he became professionally successful was able to reduce his operatic workload and sought to establish himself as a landowner in his native region. He surprised the musical world by returning, after his success with the opera Aida (1871), with three late masterpieces: his Requiem (1874), and the operas Otello (1887) and Falstaff (1893).
+The band was formed in 1984 by Claude McKenzie and Florent Vollant, two Innu musicians from the Maliotenam reserve on the Saint Lawrence River in Quebec.[2] The name Kashtin means "tornado" in the Innu-aimun language, but was also chosen as a pun on the English language phrase "cashed in", in response to friends who alleged that the band was selling out by pursuing attention and success beyond their own community.[3] They began as a cover band, performing songs by Pink Floyd, U2, Bob Dylan, Neil Young and The Beatles in Innu communities, before beginning to write and perform original material.[4] Their music followed a mainstream folk rock style, but incorporated traditional Innu makushan drums.[5] Around the same time as the launch of the band, Vollant and McKenzie were involved in the creation of Innu Nikamu, a music festival celebrating indigenous music.[6]
+The regiment flew in wood-and-canvas Polikarpov U-2 biplanes, a 1928 design intended for use as training aircraft (hence its original uchebnyy designation prefix of "U-") and for crop dusting, which also had a special U-2LNB version for the sort of night harassment attack missions flown by the 588th, and to this day remains the most-produced wood-airframed biplane in aviation history.[citation needed] The plane could carry only two bombs at a time, so eight or more missions per night were often necessary.[10] Although the aircraft was obsolete and slow, the pilots took advantage of its exceptional maneuverability; it also had a maximum speed that was lower than the stall speed of both the Messerschmitt Bf 109 and the Focke-Wulf Fw 190, which made it very difficult for German pilots to shoot down, with the exception of fighter ace Josef Kociok, who grounded the regiment for an entire night by shooting down three or four of their planes on the night of 31 July – 1 August 1943.[11][12][13][14]
+Year Recipient Awarded by the AAS 1934 Cecilia Payne-Gaposchkin 1937 Charlotte Moore Sitterly 1940 Julie Vinter Hansen 1943 Antonia Maury 1946 Emma Vyssotsky 1949 Helen Sawyer Hogg 1952 Ida Barney[3] 1955 Helen Dodson Prince 1958 Margaret Mayall 1962 Margaret Harwood 1965 Erika Böhm-Vitense 1968 Henrietta Swope Awarded by the AAUW with advice of AAS 1974 Beatrice Tinsley 1976 Catharine Garmany 1978 Paula Szkody 1980 Lee Anne Willson 1982 Judith Young 1984 Harriet Dinerstein 1986 Rosemary Wyse 1988 Karen Jean Meech 1989 Jacqueline Hewitt 1990 Claudia Megan Urry 1991 Jane Luu 1992 Elizabeth Lada 1993 Stefi Baum 1994 Andrea Ghez 1995 Suzanne Madden 1996 Joan Najita 1997 Chung-Pei Ma 1998 Victoria M. Kaspi 1999 Sally Oey 2000 Alycia J. Weinberger 2001 Amy Barger 2002 Vassiliki Kalogera 2003 Annette Ferguson 2004 Sara Ellison Awarded by the AAS 2006 Lisa J. Kewley 2007 Ann Hornschemeier 2008 Jenny Greene 2009 Alicia M. Soderberg 2010 Anna Frebel 2011 Rachel Mandelbaum 2012 Heather Knutson 2013 Sarah Dodson-Robinson 2014 Emily Levesque 2015 Smadar Naoz 2016 Laura A. Lopez 2017 Rebekah Dawson 2018 Ilse Cleeves 2019 Blakesley Burkhart 2020 Caroline Morley[4]
+No. Title Original title Release date Number of patreons[18] 1 The Potion of Flight 2014-05-10 0 2 Rainbow Potions 2014-07-25 21 3 The Secret Ingredients 2014-10-03 93 4 Stroke of Genius 2014-11-21 156 5 Special holiday episode 2014-12-19 170 6 The Potion Contest Le concours de potion 2015-03-28 245 7 The Wish Le souhait 2015-04-30 245 8 Pepper's Birthday Party L'anniversaire de Pepper 2015-06-28 354 9 The Remedy Le remède 2015-07-31 406 10 Summer Special Spécial été 2015-08-29 422 11 The Witches of Chaosah Les sorcières de Chaosah 2015-09-30 502 12 Autumn Clearout Rangement d'Automne 2015-10-31 575 13 The Pyjama Party La Soirée Pyjama 2015-12-08 602 14 The Dragon's Tooth La Dent de Dragon 2016-01-29 671 15 The Crystal Ball La Boule de Cristal 2016-03-25 686 16 The Sage of the Mountain Le Sage de la Montagne 2016-04-30 671 17 A Fresh Start Un Nouveau Départ 2016-06-30 719 18 The Encounter La Rencontre 2016-08-05 720 19 Pollution Pollution 2016-10-26 755 20 The Picnic Le Pique-nique 2016-12-17 825 21 The Magic Contest Le Concours de Magie 2017-02-23 816 22 The Voting System Le système de vote 2017-05-30 864 23 Take a Chance Saisir la chance 2017-08-10 879 24 The Unity Tree L'Arbre de l'unité 2017-12-15 810 25 There Are No Shortcuts 2018-05-17 909 26 Books Are Great 2018-07-28 1,098 27 Coriander's Invention 2018-10-31 1,060 28 The Festivities 2019-01-24 960 29 Destroyer of Worlds 2019-04-25 960 30 Need a Hug 2019-09-03 973 31 The Fight 2019-12-20 971 32 The Battlefield 2020-03-31 1121 33 Spell of War 2020-06-29 1190

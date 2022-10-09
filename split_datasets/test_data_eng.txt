@@ -1,0 +1,342 @@
+gedit
+thickness
+Ruby
+Command
+Thanks!
+Background
+Goodbye!
+Created:
+Green
+UPS
+Developer
+All
+Football
+Lock
+Disco
+March
+Fridge
+Saturday
+Albums
+Banshee
+seagull
+Bad
+Bookmarks
+_Print…
+Blue
+Discography
+Register
+_Edit
+They
+Apps
+Cheers!
+Biography
+00s
+Rhythmbox
+Uninstall
+Photos
+hands
+share
+Album
+Icon
+July
+Assessment
+CD burner
+They're coming.
+Past hour
+I know!
+See you.
+Come outside.
+Software Updates
+He's rich.
+Go away!
+I swam.
+We're hungry.
+Quarter to
+It works.
+Don't go.
+You run.
+Falling blocks
+She runs.
+Online Photos
+He spoke.
+Board Games
+_First Page
+Many thanks
+my grace
+to live
+I see.
+What’s this?
+Search applications
+See you!
+To go
+Memory Box
+To look
+I'm studying.
+_Last Page
+Open Shotwell
+I'm sleepy!
+Who's she?
+I swim.
+I drink.
+a sower
+I'm speaking.
+Installed Languages
+I was surprised.
+I can't help.
+What's your answer?
+Who teaches you?
+I am happy.
+Where are you?
+All Available Applications
+Look at him.
+Community education resources
+Thanks. See you
+Can you swim?
+Go with her.
+She is crying.
+I can swim.
+I'm leaving today.
+You're my enemy.
+Send Keystroke %s
+I've been studying.
+We love it
+GRUB Boot Menu
+Please go ahead.
+In the cupboard
+The keys, please.
+What is this?
+I'll call him.
+Is that new?
+change payment method
+I'm very thirsty.
+I liked that.
+I like it.
+I could help.
+This is odd.
+That was beautiful.
+I like winter.
+I drink milk.
+You can't walk.
+Can you swim?
+It's raining again.
+What is this?
+I was thirsty.
+It's snowing again.
+Sync Between Computers…
+Go with them!
+You must wait.
+I like sausages
+I’m going out
+I could go
+This is sweet.
+They'll find us.
+I was waiting.
+How are you?
+You're my friends.
+thousands of pounds
+Are you home?
+Are you studying?
+Where are you?
+It's too late.
+They like beans.
+I read his book.
+He is my friend.
+I'm not your enemy.
+The sun is red.
+I want to leave.
+You could do that.
+Google is my teacher.
+He has two sisters.
+Those apples are big.
+Is this a river?
+Is that your sister?
+This dog is big.
+This is her handbag.
+Papers are available from
+This is a book.
+I don't like chocolate.
+That is my book.
+I hate this car.
+We have a dog.
+I’m sure it does!
+Is this your dictionary?
+Do you like fish?
+I can't remember that.
+She sees your horse.
+We could try again.
+I hate that song.
+I cannot see it.
+It was windy yesterday.
+Setting up '%s' failed
+There’s one in Tesco’s.
+This question is controversial.
+I am learning Gaelic.
+Tom isn't Mary's father.
+I like the sun.
+It was very cold.
+Yes, there are two.
+Shishir is following me.
+Does he have money?
+My name is Farshad.
+How does it work?
+I can't read this.
+He doesn't like eggs.
+I can't leave yet.
+I can understand Tom.
+We have to try.
+Where is your dog?
+I can't work tomorrow.
+He sees your horse.
+I want to work.
+That was his name.
+Could you help me?
+The goldfish is alive.
+He's got two cars.
+We have to hurry.
+The examination is approaching.
+Do you like this?
+I've got a book.
+This book is new.
+That was his name.
+This book is heavy.
+That skirt is long.
+You need to listen.
+This is my computer.
+I met my friend.
+Tom lit a match.
+This book was new.
+Where is the bridge?
+I want to play.
+Tom doesn't like fish.
+We're trying to work.
+Don't open the door.
+This bed is heavy.
+I’m pretty; very pretty!
+We're trying to help.
+I must have this.
+Who are those men?
+I'm twelve years old.
+Tom is holding it.
+He was surprised too.
+It was very small.
+Where is the market?
+Where is my book?
+There's no beer here.
+you were coming home
+I hate that idea.
+I like to do that.
+Do you like to drive?
+Where do you come from?
+You must come with me.
+Where did you see them?
+You didn't have to lie.
+Do you like this book?
+You don't need to come.
+I had to say that.
+Failed to load remote file.
+You don't have to study.
+I didn't have to go.
+Do we have to go?
+Goodbye. Would you like to…
+I was reading a book.
+You must go to school.
+I don't want to sleep.
+We have to work now.
+Don't show this message again
+I had to see Tom.
+use FILE as font (PF2).
+Do you like this band?
+I am a teacher, too.
+Do you have any sisters?
+Tom doesn't like the idea.
+I'll have to do that.
+I don't like to walk.
+Six and four are ten.
+Well there’s some good news!
+Is her father a teacher?
+Why are you drinking water?
+Help document %s/%s not found
+Does it snow in Boston?
+Must I do it now?
+You must come here tomorrow.
+I'm trying to do that.
+Do I have to undress?
+We don't have to go.
+I don't believe in God.
+I had to say that.
+He was looking at you.
+I had to do something.
+She doesn't need to work.
+I have a new bicycle.
+Osaka is larger than Kyoto.
+I have to leave again.
+I have a cold now.
+My grandmother is very old.
+the books are in my house
+We don't need to do that.
+You need to listen to him.
+John, did you see the cat?
+I like playing with my dog.
+Do you need to drink wine?
+there is a book to me
+You don't have to do that.
+You don't need to do this.
+What kind of dog is this?
+Failed to print page %d: %s
+You don't need to be there.
+You don't need to go there.
+You'll have to come with me.
+I do not want to work.
+Do we have to go now?
+The earthworm is in the ground.
+Do you know how to swim?
+I need to feed the dog.
+What kind of dog is that?
+Give me a little ice cream.
+I have a headache this morning.
+Direct color, mask: %d/%d/%d/%d pos: %d/%d/%d/%d
+I'd like a ticket to Boston.
+You don't have to answer this question.
+Why do you want to go fishing?
+You'll have to stay in the garage.
+Do you need to work on Sundays?
+Yes! There is one mug for sale.
+Has Tom told Mary that he's married?
+Why do you want to do this?
+Do I have to eat with you?
+Do you have to do that now?
+Do I have to do this now?
+The Cornish name Couch is pronounced "cooch".
+Why do you want to work here?
+I promise I will join a gym
+Enjoy the Celtic Media Festival, which starts tomorrow!
+your BIOS Boot Partition is too small; embedding won't be possible
+Numbering order of the vertebrae of the human spinal column
+Who is MP in your part of Cornwall? Election results here:
+Remove the shutdown item from the session menu
+Applications can no longer access your %1 Web Account
+The highlighted entry will be executed automatically in %ds.
+Give us two knives and four forks, please.
+We are but the weather is too terrible!
+Don't you have to go to school today?
+The authentication process is complete. You may now close this dialog and return to the application.
+The programme and booking form for the research conference on October 17/28 can be found on the Maga website
+Just two days left until the Kan Rag Kernow competition takes place at the Penventon hotel! The facebook event page is here:
+She died in 1839.[6][10] Harriet, married Francis Basset, 1st Baron de Dunstanville and Basset in 1824.
+John Couch Adams FRS (5 June 1819 – 21 January 1892) was a British mathematician and astronomer.
+I barely heard a single word of English in the boat for a whole week
+Over the generations, the place has come to signify the peaceful endurance of Lithuanian people despite the threats they faced throughout history.
+Native disk drivers are in use. Refusing to use firmware disk interface.
+Failed to download the list of changes. Please check your Internet connection.
+The Paris Opéra hired La Maupin in 1690, having initially refused her.
+The Atlantic horse mackerel (Trachurus trachurus) is a species of jack mackerel in the family Carangidae.[2] It gets its common name from the legend that other smaller species of fish could ride on its back over great distances. Other common names include European horse mackerel (in the U.S.), common scad, scad, and saurel.
+Come to Kan Rag Kernow 2017 this Friday – a fantastic night of new music – 8.00pm, Penventon Park Hotel, Redruth.  For further details
+Margaret Burbidge was due to be given the 1972 award, but she refused it on the grounds of gender discrimination, stating: "It is high time that discrimination in favor of, as well as against, women in professional life be removed".[2] This prompted the AAS to set up its first committee on the status of women in astronomy[2] and they ceased issuing the award directly.
+Follow this link to book your place on the MAGA conference, taking place on the 30th May at Lys Kernow. We will be covering the last ten years of the Cornish Language Strategy, and looking ahead as well.
+The family name (and genus name, Ammodytes) means "sand burrower", which describes the sand lance's habit of burrowing into sand to avoid tidal currents.
+He described this vision in a series of essays published between 1849 and 1852. Wagner realised these ideas most fully in the first half of the four-opera cycle Der Ring des Nibelungen (The Ring of the Nibelung).
+This is an Ubuntu search plugin that enables information from Flickr to be searched and displayed in the Dash underneath the Photos header. If you do not wish to search this content source, you can disable this search plugin.
+The regiment, formed by Major Marina Raskova and led by Major Yevdokiya Bershanskaya, was composed of primarily female volunteers in their late teens and early twenties.[1]
+Trachurus capensis Castelnau, 1861 (Cape horse mackerel) Trachurus declivis (Jenyns, 1841) (greenback horse mackerel) Trachurus delagoa Nekrasov, 1970 (African scad) Trachurus indicus Nekrasov, 1966 (Arabian scad) Trachurus japonicus (Temminck & Schlegel, 1844) (Japanese jack mackerel) Trachurus lathami Nichols, 1920 (rough scad) Trachurus longimanus (Norman, 1935) (Crozet scad) Trachurus mediterraneus (Steindachner, 1868) (Mediterranean horse mackerel) Trachurus murphyi Nichols, 1920 (Chilean jack mackerel) Trachurus novaezelandiae J. Richardson, 1843 (yellowtail horse mackerel) Trachurus picturatus (S. Bowdich, 1825) (blue jack mackerel) Trachurus symmetricus (Ayres, 1855) (Pacific jack mackerel) Trachurus trachurus (Linnaeus, 1758) (Atlantic horse mackerel) Trachurus trecae Cadenat, 1950 (Cunene horse mackerel)
+The SWF does not have a bias towards any end of the continuum and tagging is simply meant to help people choose forms that suit their style of Cornish
+She presented a number of high-profile shows and in 1999 became the youngest British woman to host her own chat show, doing so on Channel 5.
